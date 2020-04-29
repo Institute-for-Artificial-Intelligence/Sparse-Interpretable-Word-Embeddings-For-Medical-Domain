@@ -1,0 +1,968 @@
+,text,polarity,factuality
+0,I have been a coffee drinker on and off since I was little.,NEUTRAL,EXPERIENCE
+1,"I notice now that I am older, and perhaps I have always had this issue just did not correlate the connection between the two, but I have to wonder if it is possible for me to have an allergy to coffee.",NEGATIVE,OPINION
+2,"When I drink it, if I drink about 2 cups a day spaced out, it takes about a week for me to get these symptoms: - sore throat, increased nasal drainage and nasal drip in the back of my throat, sometimes slight eye swelling, slight cough.",NEGATIVE,EXPERIENCE
+3,I always kind of said oh it's just allergies from pollen or I am catching a cold...,NEGATIVE,OPINION
+4,"but in fact when I do not consume coffee, I am back to normal in about 3 days.",POSITIVE,EXPERIENCE
+5,I tried to find some information on this but it seems hard to read up on.,NEGATIVE,EXPERIENCE
+6,Would be great if anyone had any feedback on this.,POSITIVE,OPINION
+7,Thanks so much.,POSITIVE,NOT_LABELED
+8,Are you drinking decaf or caffeinated?,NEUTRAL,FACT
+9,That does sound like you have a food sensitivity to coffee.,NEGATIVE,OPINION
+10,"I don't think it's the caffeine, but one way you can figure out if it's caffeine is to try black or green tea (both are from the same plant).",NEUTRAL,OPINION
+11,Just be mindful that the green tea can still carry a problem with lead from the processing.,NEGATIVE,FACT
+12,Dr. Mercola has articles that explain this more thoroughly.,NEUTRAL,FACT
+13,There are some that he explains don't have this risk.,POSITIVE,FACT
+14,"I know it seems like there shouldn't be a risk, since they are steaming, then drying to keep the leaves green.",POSITIVE,OPINION
+15,"So, I'm not sure where the lead comes from.",NEUTRAL,OPINION
+16,"But, black tea doesn't carry the same risk.",POSITIVE,OPINION
+17,"I myself simply can't drink tea, though, because the tannin bothers me.",NEGATIVE,EXPERIENCE
+18,"I can tolerate tea for about 3 days it seems and that is black tea, herbal teas do not bother me, green tea gives me headaches.",POSITIVE,EXPERIENCE
+19,"I did try Dr. Mercola's suggestion of teas and actually bought about 6 packs of the varieties, but it wasn't too pleasing to the pallet for me.",NEGATIVE,EXPERIENCE
+20,Black tea will make me nauseated on an empty stomach and I think that's because of the tannins too.,NEGATIVE,EXPERIENCE
+21,So far it has been about 3 days without the coffee or tea and my sinuses have dried up.,POSITIVE,EXPERIENCE
+22,My throat is no longer swollen and my cough went away.,POSITIVE,EXPERIENCE
+23,And yes this is caffeinated coffee and tea.,NEUTRAL,FACT
+24,Hardest food allergy/intolerance to break when you adore the smells of coffee :(,NEGATIVE,OPINION
+25,But at the same time frustrating if I have really consumed these things for over 20 some years not knowing it was causing these symptoms and never putting the two together.,NEGATIVE,OPINION
+26,"I tried in ernest to switch myself to green tea a few years ago and was able to get off the coffee, but then I started developing consistent headaches daily.",NEGATIVE,EXPERIENCE
+27,"Read up on that and some people have an intolerance to green tea that causes this, grr, so back to coffee I ended up going.",NEGATIVE,FACT
+28,Now it looks like herbal tea and rooibos tea are my only options.,NEUTRAL,OPINION
+29,I think you're right.,POSITIVE,OPINION
+30,I don't tolerate the tea plant at all myself.,NEGATIVE,FACT
+31,"The GERD is bothered by it, but I also get headaches from the tea plant.",NEGATIVE,EXPERIENCE
+32,"So, like you, I can't touch the real tea.",NEGATIVE,FACT
+33,"It doesn't really surprise me that you are so attracted to the smell of coffee, even though you are clearly allergic to it.",NEUTRAL,OPINION
+34,I've learned a few years ago that often both people and pets tend to crave the very things they are allergic or sensitive to.,NEUTRAL,OPINION
+35,I know that this is true even of my cat.,NEUTRAL,OPINION
+36,"She is definitely allergic to grains, but if there is something that smells really good to her that is loaded with grains, she wants it.",NEGATIVE,FACT
+37,"And, she will try to take it.",NEUTRAL,EXPERIENCE
+38,She isn't normally like this with foods she isn't allergic to.,NEUTRAL,FACT
+39,"If I'm eating meat, which she doesn't seem to have any allergies to that I don't have, she behaves herself quite nicely.",POSITIVE,EXPERIENCE
+40,"She might beg, but she begs politely instead of trying to take something.",NEUTRAL,OPINION
+41,"When I saw that this happens even with the cat, I knew that what I had read about craving things one is allergic to is true and it can't be just psychological.",NEUTRAL,OPINION
+42,Cats are obligate carnivores after all.,NEUTRAL,FACT
+43,"There is likely a psychological connection, but it seems that there must be a physical connection, too, since the cat does this somewhat if something is really rich, like muffins, which I haven't had in forever since I haven't figured out how to make gluten free.",NEUTRAL,OPINION
+44,Yeah we had switched our cats to a grain free food and our dog too called Tasted of the Wild: http://www.tasteofthewildpetfood.com/ You can find their food at your Tractor Supply stores.,NEUTRAL,EXPERIENCE
+45,It costs a little more than normal cheap dogwoods/catfoods but has really been worth it for them.,NEUTRAL,OPINION
+46,Their coats thickened up and they are eating less because they are actually full.,POSITIVE,EXPERIENCE
+47,As for my coffee intolerance yes amazing that I enjoy the smell of it so much :( Gotta retrain myself.,NEGATIVE,FACT
+48,I think after a while you do actually start to feel more displeasure from the stuff you crave.,NEGATIVE,OPINION
+49,"There are times when my body has had enough coffee, so I have no pleasure in the coffee aisle--just a lot of sneezing.",NEGATIVE,EXPERIENCE
+50,"I don't drink it all the time, but it does actually help with migraines if I don't drink too much of it.",POSITIVE,EXPERIENCE
+51,That's a good resource for dog owners to know about.,POSITIVE,OPINION
+52,"I don't personally have a dog, but so many people do, so it's greatly appreciated that you posted that information.",POSITIVE,OPINION
+53,"It's been about 6 days without coffee or tea, grrr",NEGATIVE,EXPERIENCE
+54,lol Definitely a challenge for me.,NEUTRAL,OPINION
+55,"Everyone always says try herbal teas, but yes they are not quite the same.",NEGATIVE,OPINION
+56,I do feel good and I am sleeping well.,POSITIVE,EXPERIENCE
+57,My throat is not dry or irritated.,POSITIVE,EXPERIENCE
+58,And besides for just regular pollen sneezes I am not having a lot of phlegm or runny noses.,POSITIVE,EXPERIENCE
+59,I just have to take it one day at a time and get myself acclimated.,NEUTRAL,EXPERIENCE
+60,You get used to having something and it's hard to let go of it.,NEGATIVE,OPINION
+61,"Glad you enjoyed the link, I had to do a lot of research to get to that myself so love to share it when it applies :D.",POSITIVE,OPINION
+62,I am allergic to coffee.,NEGATIVE,FACT
+63,A scratch test showed the allergy.,NEUTRAL,EXPERIENCE
+64,"However, I am allergic to coffee only if I drink it.",NEGATIVE,FACT
+65,Smelling it does not bother me.,POSITIVE,FACT
+66,I also have to avoid mocha.,NEUTRAL,FACT
+67,"Since coffee is roasted, the protein must be in the roasted bean.",NEUTRAL,OPINION
+68,"I don't know if this is right or not, but it seems like I remember there being a common protein or a common natural chemical in both coffee and chocolate.",NEUTRAL,OPINION
+69,"I know that both have to be roasted in order to use them, too.",NEUTRAL,FACT
+70,You are both right actually I was reading about this recently as well that it is actually the protein in the coffee that causes this.,NEUTRAL,OPINION
+71,I had broke down this past week and had coffee and then I wake up the next day with swollen eyes and face.,NEGATIVE,EXPERIENCE
+72,It's one thing with shrimp I recently had a pretty bad reaction that I never had before and broke out in a rash and welts all over my legs--- I know now not to eat shellfish.,NEGATIVE,EXPERIENCE
+73,"But the caffeine habit is hard to break because I get the physical addiction of a headache, nausea, fatigue.",NEGATIVE,EXPERIENCE
+74,"So what I am going to do this week is cut out the coffee/tea etc and if I get a caffeine headache, take an Excendrin for Tension headaches.",NEUTRAL,FACT
+75,(that has tylenol/caffeine 65 mg) and just ween myself that way.,NEUTRAL,FACT
+76,It's obvious this is causing a reaction so using coffee to ween isn't helping.,NEGATIVE,FACT
+77,I'm really glad to hear of others with the same issue.,POSITIVE,OPINION
+78,It makes me feel better.,POSITIVE,OPINION
+79,"I am allergic to coffee, but bc it has a high content of nickel (which I'm allergic to).",NEGATIVE,FACT
+80,"If you notice feeling sick after eating other nickel-high foods (beans, chocolate, peas, whole wheats), or if you react when wearing cheap jewlry, you may want to get tested for nickel allergy.",NEUTRAL,OPINION
+81,Another note...tea is also high in nickel and fish....you should get tested for allergies...,NEUTRAL,OPINION
+82,"I've recently become very intolerant because of an increase in nickel in my body (as I got a body implant), so now every time I'm exposed to nickel (even in medications, and even aspirin) I react...",NEGATIVE,EXPERIENCE
+83,"If you recently got cavities filled, a surgery...you should look into a metal allergy.",NEUTRAL,OPINION
+84,Melisa.org has many great resources to educate about metal allergy.,NEUTRAL,OPINION
+85,That's a good resource.,POSITIVE,OPINION
+86,I bookmarked it.,POSITIVE,FACT
+87,"I have relatives with nickel allergies, and they might not be aware of the foods that make them feel worse.",NEUTRAL,EXPERIENCE
+88,"Plus, several of us have chronic illnesses, so this might be a contributing factor.",NEUTRAL,OPINION
+89,"Great resource betbri, I never knew about metal allergies.",POSITIVE,OPINION
+90,Nor did I realize it has a high content of nickel in it.,NEUTRAL,OPINION
+91,That is very interesting indeed.,POSITIVE,OPINION
+92,I actually had some of the metals removed from my mouth and replaced with white fillings.,NEUTRAL,EXPERIENCE
+93,I did read up on some of the vapors that can be given off from amalgam fillings and was astonished.,NEUTRAL,OPINION
+94,"I have a few that still need to be replaced, but better than the many I had in there.",POSITIVE,OPINION
+95,Did you do the Melisa test betbri or just go to your allergy doctor to be tested?,NEUTRAL,FACT
+96,I did get the Melisa test done.,NEUTRAL,EXPERIENCE
+97,In the last couple weeks I have taken all the nickel out of my diet and feel much better!,POSITIVE,EXPERIENCE
+98,I still have many symtoms of allergies but there is finally hope!,POSITIVE,EXPERIENCE
+99,"I learned a few important facts to consider when trying to track down the source of chronic problems such as fatigue, and pain.",NEUTRAL,EXPERIENCE
+100,"So I will list them and hope it helps you two, and possibly someone else reading this :)",POSITIVE,OPINION
+101,"Doctors are very much unaware of metal allergies in the US (versus other countries that have done loads of research and some countries test every patient for metal allergy before putting fillings, implants in).",NEGATIVE,OPINION
+102,"According to study after study, around 10% of the population is allergic to nickel (with a higher percentage of women affected).",NEGATIVE,FACT
+103,"If a person is allergic to one metal, it's over 50% of those that are allergic to 2 or 3 metals (so it's important to be tested until you rule out allergy to multiple metals).",NEUTRAL,FACT
+104,Eating certain food for someone allergic to metal causes illness (not just skin rashes to jewelry).,NEUTRAL,FACT
+105,It's very important when suspecting an allergy to medications to look at the INACTIVE ingredients in pills.,NEUTRAL,FACT
+106,"For instance I have a list of meds I'm allergic to and the docs just put ""allergic to aspirin, wellbutrin, etc..."" when in reality the one common element in all I'm allergic to is certain types of metal in the coating.",NEGATIVE,EXPERIENCE
+107,"You're doctor will not help figure out your REAL allergy because almost no one is actually allergic to the active ingredients in pills, but doctors only list the pill your allergic to and don't ask what it is about those pills you are allergic to.",NEGATIVE,EXPERIENCE
+108,"You can test allergic to foods that contain metals (brocolli, chocoate, whole wheat, etc...) and again, it may be that you're allergic to those food because of a metal or additive added....so if a person is allergic to multiple foods it's important to rule out the possibility of a common element in all of them.",NEUTRAL,OPINION
+109,"It has been a harsh reality to release that you have to be your own advocate, and that doctors many times don't test for things for those with chronic issues that can't pinpoint exacty what's wrong.",NEGATIVE,OPINION
+110,"I went in to food allergists many years ago that literally wouldn't test me for allergies because they didn't think I had enough ""evidence"" that I was allergic.",NEGATIVE,EXPERIENCE
+111,"For those of us with chronic fatigue and ""vague"" symptoms like stomach aches, migraines, etc....",NEUTRAL,EXPERIENCE
+112,it's very unlikely that a doctor would order a whole battery of testing to rule out the many many illnesses that could cause these things.,NEGATIVE,OPINION
+113,"So....please....if you are a person that has skin reactions when you wear certain jewelry, or have chronic acne and rash on face from makeup (which contains high amounts of metal), or react when eating food high in metal content (nuts, many veggies, coffe....) then please do yourself a favor and order the Melissa test yourself!",NEUTRAL,OPINION
+114,A doctor will literally look at you like you're nuts or a hypocondriac if you tell him/her that you think you're allergic to metal.,NEGATIVE,OPINION
+115,(I told all my doctors when they ask at the beginning of appointments when I'm allergic to that I'm allergic to metal and they literally don't put it in my records...,NEGATIVE,EXPERIENCE
+116,"many say things like ""no...I mean like medications and food...not skin reaction to jewelry.)",NEUTRAL,FACT
+117,"This has been a long road for me and it wasn't until I got all of my medical records for myself and noticed the correlations for myself and ordered the metal allergy test without a doctor willing to order for me, that I was able to confirm the source of all my illness...",NEUTRAL,EXPERIENCE
+118,"So ... even though it's a harsh reality, it seems that especially those with chronic, multiple ailments have to be their own advocate and in my case (and I'm assuming for others) take matters into our own hands after being told by docts that there's nothing wrong and ""it may be just normal for you to be tired""....Sorry for the crazy long post!",NEUTRAL,OPINION
+119,"But I hope these few facts help someone else out there, to shorten their road to recovery because it took me so long to figure this out!",POSITIVE,OPINION
+120,Melisa.org has a great section of medical journals that talk about many things in regards to metal allergy.,NEUTRAL,FACT
+121,Probably the best place for anyone to start...,POSITIVE,OPINION
+122,I am definitely glad you spoke up about this.,POSITIVE,NOT_LABELED
+123,I do get skin reactions from certain metals.,NEGATIVE,EXPERIENCE
+124,One in particular was a natural makeup I had started to use which was Bare Essentials.,NEUTRAL,EXPERIENCE
+125,They advertise it as being completely natural etc. but what was interesting was that I used it and every time I used it I would get very itchy on skin to the point where I couldn't stand it.,NEGATIVE,EXPERIENCE
+126,Come to find out it has Bismuth in it and there are a lot of makeups out there that do have this.,NEUTRAL,FACT
+127,http://makeup.lovetoknow.com/Allergy_to_Mineral_Makeup.,NEUTRAL,NOT_LABELED
+128,As soon as I stopped using it the issue cleared up right away.,POSITIVE,EXPERIENCE
+129,And yes we do have to be our own advocates.,NEUTRAL,OPINION
+130,"We have to pay attention to what we ingest and encounter and if it does cause an issue, we need to stay away from it.",NEUTRAL,OPINION
+131,If only caffeine was easy to stay away from :(,NEGATIVE,OPINION
+132,This is interesting to me about the mineral make-up.,NEUTRAL,OPINION
+133,"I hadn't thought of this at all, but metals are considered to be minerals.",NEUTRAL,FACT
+134,"I haven't looked up the above link, but what I was thinking of was that a friend used some on me--once.",NEUTRAL,FACT
+135,"I didn't get the severe allergic reactions that people who get rashes from metals would probably get, but I did get a bit itchy.",NEUTRAL,EXPERIENCE
+136,"The thing is, I can wear the cheap costume jewelry metals, like the metal watchband that I have that I know my cousins with metal allergies can't wear.",NEUTRAL,EXPERIENCE
+137,"But, the cheap ear wires and other costume jewelry metals do bother my ears a little.",NEGATIVE,EXPERIENCE
+138,"So, I do switch out the ear wires to the sterling silver and the gold filled slightly more expensive ear wires.",NEUTRAL,EXPERIENCE
+139,"I am fine with these, but I know my cousins are still not fine with these, and neither is someone else I know who can only wear pure yellow gold.",POSITIVE,EXPERIENCE
+140,"So, she doesn't have a whole lot of jewelry that she wears regularly because of this.",NEGATIVE,EXPERIENCE
+141,"What I'm wondering is if the milder reaction I get from the cheap ear wires is more of a sensitivity to nickel and other cheaper metals, or is it something else?",NEUTRAL,OPINION
+142,Look at Melisa.org and do some research on metal allergies...,NEUTRAL,FACT
+143,you could be a great help to those you know who are getting reactions to jewelry...,POSITIVE,OPINION
+144,"some poeple are allergic to titanium, some to silver, some gold....",NEGATIVE,FACT
+145,most commonly people are allergic to nickel...which represents 10% of the population who are allergic.,NEGATIVE,FACT
+146,A large number of people allergic to metals are allergic to multiple types of metal....so a reaction to just cheap jewelry probably indicates a nickel allergy.,NEUTRAL,OPINION
+147,it is important to note that almost all things made of metal are alloys...meaning it is a mix of metal.,NEUTRAL,FACT
+148,"For instance, I had a copper IUD that caused me to have 13 cysts within 2 months of insertion....turns out there was nickel in it also..",NEGATIVE,EXPERIENCE
+149,The important thing to note is that many people don't respond with significant health problems until they get metal inserted in the body....such as cavity filings...contrast given for MRI's....so it is so important to be aware of the allergy and know to ask what includes metal or not...,NEUTRAL,FACT
+150,"however, the impact a person may feel when having a metal allergy and being exposed through jewelry, deoderant, make up, toothpaste, candy.....is unknown.",NEUTRAL,FACT
+151,Before I had a back implant I was sluggish and sick often...turns out it was undiagnosed allergy to metal.,NEGATIVE,EXPERIENCE
+152,"I was just ordered to get an MRI with contrast...being extra careful i asked if there was metal in the contrast, I was told there was no metal.",NEUTRAL,EXPERIENCE
+153,For some reason I thought that I should make sure...turns out there is a very high metal content!,NEGATIVE,OPINION
+154,"The doctor and even tech administering the contrast had no idea, but the main active ingredient in metal and many contrast solution in nickel based or copper based, given that the nickel content in a piece of chocolate cake can send my heart rate up to 130, I hate to think of what could have happened had I taken the doctor's word that there was no metal in the contrast!",NEGATIVE,FACT
+155,Don't worry.,NEUTRAL,NOT_LABELED
+156,I will find out more.,NEUTRAL,NOT_LABELED
+157,"I do know about the white gold, for example, because a friend with metal allergies found out that white gold still has metal alloys in it.",NEUTRAL,EXPERIENCE
+158,She can't wear the white gold because of the alloys.,NEGATIVE,EXPERIENCE
+159,I don't understand why doctors assume that a skin allergy to metals isn't serious enough to consider that taking the stuff internally would still be bad.,NEGATIVE,OPINION
+160,"I mean, the whole reason the skin scratch tests work as tests is because the skin is reacting to something the whole body is allergic to.",NEUTRAL,FACT
+161,"And, the skin is the largest organ in the body.",NEUTRAL,FACT
+162,It just happens to be on the outside.,NEUTRAL,FACT
+163,I did look at the MELISA site.,NEUTRAL,FACT
+164,"I plan on sending the link to a cousin of mine, since she and all of her sisters are allergic to metals.",NEUTRAL,FACT
+165,They may not be aware of the food allergy connection.,NEUTRAL,FACT
+166,I have a lot of sensitivities versus allergies.,NEUTRAL,FACT
+167,"Now I'm beginning to wonder if the milder reaction I get from cheap ear wires, whether nickel or stainless steel, is connected to the food sensitivities.",NEUTRAL,EXPERIENCE
+168,"I will definitely be on guard and not allow any metal devices to be inserted in my body, since I have sensitivities.",NEGATIVE,OPINION
+169,What is comical and also something to think about is when you get dental work done.,NEUTRAL,OPINION
+170,"About 6 months ago I had a root canal done on a back tooth, the dentist had file separation occur while performing the procedure.",NEUTRAL,EXPERIENCE
+171,What is file separation I asked--- and he calmly explains to me that the drill broke off into my root system.,NEUTRAL,EXPERIENCE
+172,So yes I now have a little piece of titanium that you can see in my x-ray.,NEGATIVE,EXPERIENCE
+173,Thank goodness I have not had any allergic reaction to it or issues.,POSITIVE,EXPERIENCE
+174,"I have the exact same reaction to coffee and tea as you: sore throat, increased nasal drainage and nasal drip in the back of my throat, sometimes slight eye swelling, slight cough.",NEGATIVE,EXPERIENCE
+175,I cut out both but something is still causing this reaction.,NEGATIVE,EXPERIENCE
+176,I don't drink soda.,NEGATIVE,EXPERIENCE
+177,I cut out wine.,NEUTRAL,EXPERIENCE
+178,What else is out there that is similar to coffee and tea that would be causing it?,NEUTRAL,FACT
+179,I can't figure it out and it's driving me crazy!,NEGATIVE,OPINION
+180,Thanks.,NOT_LABELED,NOT_LABELED
+181,"I also will get these symptoms after drinking coffee regularly for several days:  sore/swollen throat, increased nasal drainage and nasal drip in the back of my throat, sinus pressure and eye swelling, slight cough.",NEGATIVE,EXPERIENCE
+182,I love the taste of coffee but have given it up and feel much the better.,POSITIVE,EXPERIENCE
+183,I guess I have the extreme end then.,NEGATIVE,OPINION
+184,I have been deadly allergic to the coffee bean protein all my life.,NEGATIVE,EXPERIENCE
+185,"Like peanut allergy smell, contact or taste will cause my lungs to cease in minutes.",NEGATIVE,FACT
+186,Death is imminent in 10 minutes.,NEGATIVE,FACT
+187,I cannot go near coffee shops as I would need a type 3 bio hazard suit and that would cause a huge problem.,NEGATIVE,FACT
+188,I am not kidding either I really am that dangerously allergic to coffee.,NEGATIVE,FACT
+189,Some kinds ill pass out if i smell it in minutes while others ill cough a lot and manage to get out of range.,NEGATIVE,FACT
+190,It's not a caffeine issue as I can drink tea no problem I was told im allergic to the coffee bean proteins themselves.,NEUTRAL,EXPERIENCE
+191,Investigate dairy products such as milk and cheese.,NEUTRAL,FACT
+192,"Include cow's milk versus goat's milk, etc.",NEUTRAL,FACT
+193,I have asthma and my son inherited it from me.,NEGATIVE,EXPERIENCE
+194,He mentioned the connection and I am checking it out now.,NEUTRAL,FACT
+195,"So far, for me there does seem to be a strong parallel between consuming dairy products from a cow and asthma (and phlegm).",NEUTRAL,OPINION
+196,Interesting thread with great comments ....,POSITIVE,NOT_LABELED
+197,I am allergic to coffee as well.,NEUTRAL,FACT
+198,"If I drink one cup, I will be with fever and fatigued in bed for two days.",NEGATIVE,EXPERIENCE
+199,"Perhaps it is the metal content; however, I do not experience hives, rash or swelling.",NEUTRAL,EXPERIENCE
+200,"I have not drank coffee or related products for three years, yet I am frequently exposed to many metals and have not experienced any allergies to them.",NEUTRAL,EXPERIENCE
+201,You are the first person I've heard about in my Google searches so far who's got a true IgE food allergy to the coffee bean.,NEUTRAL,FACT
+202,Thank you for sharing your experience!,POSITIVE,NOT_LABELED
+203,My 20-month-old son got a tiny sip of a black coffee drink (no milk or other ingredients added) and almost needed his EpiPen Jr before his reaction stopped progressing on its own.,NEGATIVE,EXPERIENCE
+204,"His face, back, and chest got littered in hives, even his eyelids.",NEGATIVE,EXPERIENCE
+205,"His eyes got all red and itchy, and his nose started running off his face, which induced some sneezing and coughing.",NEGATIVE,EXPERIENCE
+206,"He then acted very cranky and off, and even felt fevered, for the next two days.",NEGATIVE,EXPERIENCE
+207,He has an appt this Tuesday with his allergist to verify the coffee bean allergy.,NEUTRAL,EXPERIENCE
+208,"He's already very allergic to peanuts, nuts, eggs, and dairy, so I don't know how in the world we're adding a potentially anaphylaxis allergy to coffee, of all things.",NEGATIVE,EXPERIENCE
+209,It's everywhere when you really think about it!,NEUTRAL,FACT
+210,Thank you so much for posting your experience.,POSITIVE,NOT_LABELED
+211,I have pretty much the same history as you!,NEUTRAL,EXPERIENCE
+212,"I've known for years (probably about 10) that coffee is not too good for me, but I am so addicted to the smell and feel of it.",NEGATIVE,EXPERIENCE
+213,I could practically reiterate my experiences as your own so I won't bother.,NEUTRAL,EXPERIENCE
+214,I am currently trying to quite right now.,NEUTRAL,FACT
+215,Please wish me luck.,NOT_LABELED,NOT_LABELED
+216,I am so done with having these allergy attacks.,NEGATIVE,FACT
+217,Drinking decaff seems to help marginally.,NEUTRAL,EXPERIENCE
+218,I am so tired of the constant post nasal drip.,NEGATIVE,EXPERIENCE
+219,"But as a new mother, this last year has been very difficult for me to stop with the increased stress and insomnia.",NEGATIVE,EXPERIENCE
+220,Black tea sometimes gives me headaches and even non-caffeinated rooibos gives me headaches and dry mouth.,NEGATIVE,EXPERIENCE
+221,Thanks again.,NOT_LABELED,NOT_LABELED
+222,I will try to post again once I quit for a while and observe the outcome.,NEUTRAL,FACT
+223,I just found this post on coffee allergy and this seems closest to what I have.,NEUTRAL,FACT
+224,I'm 45 and on/off have been drinking coffee.,NEUTRAL,FACT
+225,"In the last year, at least once a week I've had a very bad allergy attack similar to hay fever.",NEGATIVE,EXPERIENCE
+226,"Stuffy nose, congestion, headache and sneezing.",NEGATIVE,EXPERIENCE
+227,"It happens so frequently I was ready to go to the doctor but before going, I wanted to start tracking my daily behavior to narrow down what could be causing it.",NEUTRAL,EXPERIENCE
+228,"I drink wine, I smoke - I'm sure it could be any number of things.",NEUTRAL,EXPERIENCE
+229,I stopped wine for a while and I was still getting them.,NEGATIVE,EXPERIENCE
+230,I cut out cigarettes and was still getting them.,NEGATIVE,EXPERIENCE
+231,"Then one day, I decided to switch to tea instead of coffee and within one week, I wasn't getting the allergy attacks anymore!",POSITIVE,EXPERIENCE
+232,"There is very little online about the type of coffee allergy I've been experiencing but in doing some initial research, it looks like this is developing over time and perhaps its not an actual caffeine allergy as it is something to do with the coffee or it's processing methods.",NEUTRAL,OPINION
+233,I think more research needs to be done in this area..,NEUTRAL,OPINION
+234,There is a link between coffee sensitivity and gluten sensitivity!,NEUTRAL,FACT
+235,If you have gluten problems then it is very likely that the protein found in coffee is causing you the problems!,NEUTRAL,OPINION
+236,You may not be able to digest the protein in coffee that is similar to the protein found in gluten.,NEUTRAL,OPINION
+237,I developed this same problem!,NEUTRAL,EXPERIENCE
+238,I am gluten intolerant!,NEUTRAL,FACT
+239,"I began to realize that after drinking coffee, I had the same symptoms of swelling eyes, nasal drip and itchy ears!",NEGATIVE,EXPERIENCE
+240,After doing a little research I came across a few articles about coffee and gluten sensitivity!,NEUTRAL,FACT
+241,Google coffee and gluten sensitivity!,NEUTRAL,NOT_LABELED
+242,I love coffee and this was very disappointing for me!,NEGATIVE,OPINION
+243,I now drink a coffee substitution and feel much better!,POSITIVE,EXPERIENCE
+244,It was tough to give up coffee but my immune system was really working over time trying to fight off the immune response of my system trying to digest the protein in the coffee.,NEGATIVE,EXPERIENCE
+245,I now realize I have a coffee intolerance just as I have a gluten intolerance.,NEUTRAL,EXPERIENCE
+246,It's the inability to digest the protein in both.,NEUTRAL,FACT
+247,"Hello everyone, I am a 40 y.o. musician and I enjoy a healthy lifestyle ( balanced diet + daily exercise).",NEUTRAL,FACT
+248,My health is good except for a recently diagnosed intolerance to Tyramine.,NEUTRAL,FACT
+249,"For ex. if i eat a few slices of salami on an empty stomach it will trigger an attack, which is always the same : i get a really fast heartbeat + increased blood pressure + nausea 15 mn after ingestion.",NEGATIVE,EXPERIENCE
+250,"Sometimes the heart palpitations last for 1/2 h ( 120-130 bpm), and the nausea + lightheadedness will last for a day, it depends on the type of food, if i am tired etc...",NEGATIVE,EXPERIENCE
+251,"I am 99% sure the culprit is Tyramine, which is a natural amine found in all foods but much higher in foods that are aged, fermented, pickled  ( salami, cheese, sauerkraut, smoked salmon, anchovy paste ), in foods that have been stored for a long time ( nuts, dried fruits) and also in overripe fruits like bananas, oranges and avocados.",NEUTRAL,OPINION
+252,"The list of foods I was reacting to was so eclectic, I couldn’t find the link between them for a long time, it was very perplexing and scary and i lost a lot of weight.",NEGATIVE,EXPERIENCE
+253,"I did a lot of research, started an elimination diet and asked many doctors before a neurologist mentioned the cheese migraine symptoms to me.",NEUTRAL,EXPERIENCE
+254,Later I found a list of Tyramine loaded foods in which I recognized every single food that had triggered an attack after I ingested it.,NEUTRAL,EXPERIENCE
+255,"There is no test to confirm my theory but since I eliminated these Tyramine loaded foods from my diet I feel much better and less terrified of eating, and I am even putting some weight back on ( 112 lbs for 5’4”).",POSITIVE,EXPERIENCE
+256,"Soon hopefully I will feel strong enough to start reintroducing these foods into my diet in very small quantities to get myself desensitized, unless of course one day I wake up free of this strange condition that appeared for no reason and might disappear the same way.",POSITIVE,OPINION
+257,"I guess what is very puzzling to me is the fact that this sensitivity appeared out of the blue, that the symptoms are so violent and that I DO NOT get migraines.",NEUTRAL,OPINION
+258,People who have problems with foods high in Tyramine usually are either migraine sufferers and/or on antidepressant ( MAOs).,NEUTRAL,FACT
+259,I do not take any medication and my symptoms are always exactly the same 5 to 10 mn after ingesting the culprit food : tachycardia + hypertension + tremors + nausea and sometimes light headache when the attack is really bad.,NEGATIVE,EXPERIENCE
+260,After having had about 14 attacks within the last 12 months it is such a relief to be able to eat again !,POSITIVE,EXPERIENCE
+261,"So I guess now my goal is to put the word out and ask as many persons as possible is they have ever heard of a patient with the same symptoms, which is why I posted this text.",NEUTRAL,OPINION
+262,Does anyone have the same symptoms or know anything about Tyramine ?,NEUTRAL,FACT
+263,I think tyramine effects glucose uptake and insulin sensitivity.,NEUTRAL,OPINION
+264,"The heart reacts to changes in insulin levels, which can cause the palpitations.",NEUTRAL,FACT
+265,"Perhaps you are becoming more insulin sensitive, for some reason?",NEUTRAL,FACT
+266,Congratulations on finding the culprit causing your symptoms!,POSITIVE,OPINION
+267,Great sleuthing!,POSITIVE,NOT_LABELED
+268,"Hi, My daughter has the same thing (tyramine) and within 36 hrs of eliminating it in her diet ALL her symptoms went away ..",POSITIVE,EXPERIENCE
+269,migraine/joint pain/loss of concentration and word retrieval issues.,NEGATIVE,EXPERIENCE
+270,It took about 3 weeks into a total food elimination diet thru her allergist to find both tyramine & sulfites.,NEUTRAL,EXPERIENCE
+271,"And, this was 10 yrs ago.",NEUTRAL,FACT
+272,Today ..she avoidds and is fine.,POSITIVE,EXPERIENCE
+273,We were told it is most likely a severe intolerance and not a true allergy in my dd's case.,NEUTRAL,EXPERIENCE
+274,"I have the same since a year, and cured since 4 months.",POSITIVE,EXPERIENCE
+275,"the diet is severe, but I'm getting weight as replacing many things by other things which are sugar based probably.",NEUTRAL,EXPERIENCE
+276,"I'm taking pills too (against hystamine) : Xyzall, 3 times per week.",NEUTRAL,EXPERIENCE
+277,"There is well a test, the firts one is small capsules against the skin, then they check reaction after 2 days, than 4 days, and one on the skin with a drop of reactant, then they pick and see the reaction.",NEUTRAL,FACT
+278,"After 2 months, it has decreased already due to the removal of bad food (pork, potatoes, tomatoes, cheese, all thinks that can get old and ferment).",NEUTRAL,EXPERIENCE
+279,According to doctor he expect me to go back to normal life after 12 to 24 months.,POSITIVE,OPINION
+280,"My main problem was oedema, mainly of contact.",NEGATIVE,EXPERIENCE
+281,I'm 52 years and Belgian.,NEUTRAL,FACT
+282,"I experience chest pains very soon after eating dark chocolate, shark meat, bison meat, aged cheeses (cheddar, etc.)...",NEGATIVE,EXPERIENCE
+283,it is so consistent and predictable.,NEUTRAL,FACT
+284,I also used to get migraines - but just chest pains.,NEGATIVE,EXPERIENCE
+285,"They go away after a few minutes, but I still have to learn to curb my portions of high-tyramine foods.",NEUTRAL,EXPERIENCE
+286,"I have a severe intolerance to Tyramine, and maybe other things - who knows?!",NEUTRAL,EXPERIENCE
+287,"I realised what it was over 14 years ago, but know the symptoms were there for about ten years previous!",NEUTRAL,FACT
+288,"The only things I can eat now without succombing to severe and prolonged pain are:  pasta, carrots, parsnips, peppers, apples, melons and pears.",NEGATIVE,EXPERIENCE
+289,"Over the years it has gotten worse, the list didn't start out this short!",NEGATIVE,EXPERIENCE
+290,And I've lost about 3 or 4 stone over time!,NEUTRAL,EXPERIENCE
+291,"I've asked for help repeatedly from my GP, but they're not interested and just say that there is nothing they can do.",NEGATIVE,EXPERIENCE
+292,And I keep getting worse.,NEGATIVE,EXPERIENCE
+293,What do I do ?!!,NEUTRAL,FACT
+294,I am a migraine sufferer myself.,NEGATIVE,EXPERIENCE
+295,Now I am intrigued and will definitely do some research about Tyramine.,NEUTRAL,FACT
+296,"I do have food sensitivity issues as well, so this looks like a worthy research to do for myself.",NEUTRAL,EXPERIENCE
+297,I never heard of Tyramine and the neurologist never mentioned it before.,NEUTRAL,FACT
+298,tyramine is a catecholamine releasing agent.,NEUTRAL,FACT
+299,"tyramines sends my blood pressure sky rocketing(hypertensive crisis) and then i start vomiting, usually all day.",NEGATIVE,EXPERIENCE
+300,i have had this problem all my life and only found out about it last year.,NEUTRAL,EXPERIENCE
+301,i will be 64 in November.,NEUTRAL,FACT
+302,i wished i would have learned about it sooner.,NEGATIVE,OPINION
+303,"Yep, tyramine intolerance does affect migraines and IBS.",NEUTRAL,FACT
+304,I had already eliminated many foods in that list because of preservatives for me.,NEUTRAL,EXPERIENCE
+305,I have stayed away from high tyramine foods and that helped.,POSITIVE,EXPERIENCE
+306,"Through my research I have found that gluten intolerance is actually a part of tyramine intolerance, so I recommend that you also eat a gluten free diet.",NEUTRAL,OPINION
+307,It made a huge difference for me.,POSITIVE,EXPERIENCE
+308,I had the same thing begin suddenly in 2014.,NEUTRAL,EXPERIENCE
+309,I am healthy eater - or so I thought.,NEUTRAL,OPINION
+310,After trips to doc and a couple to the ER I found that eating fresh food - not eating canned or pre-packaged eliminated most symptoms.,NEUTRAL,FACT
+311,"My research uncovered a ton of info - I hope that you find this helpful: Regular coffee, tea, and soft drinks are on the list of things to avoid.",NEUTRAL,FACT
+312,Not sure about decaf.,NEUTRAL,OPINION
+313,"Canned and packaged food contains sulfites, Nitrates and preservatives that trigger symptoms.",NEUTRAL,FACT
+314,"Aged meats such a salami, pepperoni bacon, jerky, sausage, hot dogs should be avoided.",NEGATIVE,OPINION
+315,"Anything femented, aged can cause problems.",NEGATIVE,FACT
+316,"Beer, wine, aged cheese, Seeds and nuts cause problems for those with the sensitivity.",NEGATIVE,FACT
+317,I also eliminated bread as yeast is a trigger.,NEUTRAL,EXPERIENCE
+318,Another trigger is Soy - soy oil is in many things so be sure to check ingredients.,NEUTRAL,FACT
+319,"Bottom line is I now eat only fresh beef, poultry and fish.",NEUTRAL,EXPERIENCE
+320,If not eaten within 24 hours of cooking I freeze.,NEUTRAL,FACT
+321,If not cooking within 24 hours of purchase I freeze.,NEUTRAL,FACT
+322,I eliminated Irish potatos but still eat red and sweet potatos.,NEUTRAL,EXPERIENCE
+323,It's a pain but sticking with the freshness rule keeps me symptom free.,POSITIVE,EXPERIENCE
+324,Unlike your symptoms mine lasted for days and often did not occur for up to 48 hours after eating a trigger food.,NEUTRAL,EXPERIENCE
+325,Doctors say developing allergies and sensitivties as we age is common.,NEUTRAL,FACT
+326,Tyramine sensitivity can only be treated by diet - I wonder if it ever goes away.,NEUTRAL,OPINION
+327,As furballsmom stated: Gluten may be an issue.,NEGATIVE,OPINION
+328,I had to eliminate wheat too and no more peanut butter - dang.,NEGATIVE,EXPERIENCE
+329,Bottom line is I eat like a cave man and so far so good.,POSITIVE,EXPERIENCE
+330,I have recently discovered that I too am suffering very severely and suddenly to Tyramine.,NEUTRAL,EXPERIENCE
+331,I have had many visits to the ER with Hypertensive Crisis.,NEGATIVE,EXPERIENCE
+332,I think mine came on after I started drinking Kombucha for the probiotics.,NEUTRAL,EXPERIENCE
+333,Perhaps I drank too much of it and got some kind of Tyramine Overload.,NEUTRAL,OPINION
+334,"At any rate, it's been hit or miss but I am trying to be careful.",NEUTRAL,EXPERIENCE
+335,"Can you give me a list of ""safe"" foods?",NEUTRAL,FACT
+336,"To give you an idea what foods are considered ""unsafe"", I quote from Wikipedia: ""Tyramine occurs widely in plants and animals, and is metabolized by the enzyme monoamine oxidase.",NEUTRAL,FACT
+337,"In foods, it is often produced by the decarboxylation of tyrosine during fermentation or decay.",NEUTRAL,FACT
+338,"Foods containing considerable amounts of tyramine include meats that are potentially spoiled or pickled, aged, smoked, fermented, or marinated (some fish, poultry, and beef); most pork (except cured ham); chocolate; alcoholic beverages; and fermented foods, such as most cheeses (except ricotta, cottage, cream and Neufchâtel cheeses), sour cream, yogurt, shrimp paste, soy sauce, soybean condiments, teriyaki sauce, tempeh, miso soup, sauerkraut, kimchi, broad (fava) beans, green bean pods, Italian flat (Romano) beans, snow peas, edamame, avocados, bananas, pineapple, eggplants, figs, red plums, raspberries, peanuts, Brazil nuts, coconuts, processed meat, yeast, and an array of cacti.""",NEUTRAL,FACT
+339,"So, once you have eliminated these foods from your diet, the rest might be considered ""safe"".",NEUTRAL,OPINION
+340,But don't bet on it.,NEUTRAL,OPINION
+341,Allergic reactions do not affect everyone in the same way.,NEUTRAL,FACT
+342,"After eating peanuts and cheddar cheese with my lunch I suddenly had a terrible ""sinus"" headache.",NEGATIVE,EXPERIENCE
+343,It was so bad that my top teeth were aching.,NEGATIVE,EXPERIENCE
+344,"It led me to google,do peanut and cheese cause headaches.",NEUTRAL,FACT
+345,I discovered they both have tyramine and if sensitive can cause someone to get headaches.,NEUTRAL,FACT
+346,The question also led me here in the hope to get more answers.....,NEUTRAL,OPINION
+347,"Hi there, We went out for dinner a week ago, I always have Oysters for entrance and this time was no different.",NEUTRAL,FACT
+348,"But after I ate 2, I felt a bit giddy and nauseas and stopped.",NEGATIVE,EXPERIENCE
+349,"Next day I noted I have a rash over my neck, chest and upper body.",NEGATIVE,EXPERIENCE
+350,Does that mean I am suddenly now allergic to Shellfish?,NEUTRAL,FACT
+351,"I am scared of worse symptoms next time, but I absolutely love my fish and Oysters.",NEGATIVE,OPINION
+352,What should I do to make sure that this is an allergy?,NEUTRAL,FACT
+353,Sorry to hear that.,NOT_LABELED,NOT_LABELED
+354,"Folks' allergies can change every five years, so, this is probably the case with you.",NEUTRAL,OPINION
+355,"Hopefully, one day, this will pass and you will be able to eat these foods again.",POSITIVE,OPINION
+356,"I had a suspicion as I was reading your post that you had shellfish allergies due to your intolerance of the iodine bath they gave you before your surgery, this is a dead give-away normally.",NEUTRAL,OPINION
+357,"hi, I'm not really sure if it's an shellfish allergy.",NEUTRAL,OPINION
+358,I guess it could be a histamine intolerance.,NEUTRAL,OPINION
+359,"But try it out and eat some tomatos, if you get the same symptoms you should go to your allergist and make an blood test.",NEUTRAL,OPINION
+360,You have to know that I'm histamine intolerant.,NEUTRAL,FACT
+361,I got the symptoms like headache and this weird feeling in my throat.,NEGATIVE,EXPERIENCE
+362,But I bought Daosin on the internet.,NEUTRAL,FACT
+363,It basicly avoids my allergic reaction and I can eat everything.,NEUTRAL,FACT
+364,"You may ask why you should eat tomatos, but tomatos are histamine rich as same as fish.",NEUTRAL,FACT
+365,:) hope you'll feel better soon!,POSITIVE,NOT_LABELED
+366,"Hi there, Thanks for the response.",NEUTRAL,NOT_LABELED
+367,I eat tomato with most meals and have never had issues.,NEUTRAL,EXPERIENCE
+368,"About 5 years ago, I had an operation and was covered with the anti-bacterial stuff (think Betadine?) and the next day I had a huge rash all over the area!",NEGATIVE,EXPERIENCE
+369,I was then told that I am allergic to Iodine and that I should avoid fish as it is high in Iodine - especially Salmon.,NEUTRAL,EXPERIENCE
+370,"My diet is rich in fish and until 2 weeks ago, I had no reaction from Oysters or salmon, etc.",NEUTRAL,EXPERIENCE
+371,Could it be that my body is just acting out now and that I should avoid anything fishy?,NEUTRAL,OPINION
+372,I still have the hives in my neck and it is driving me nuts!,NEGATIVE,EXPERIENCE
+373,How long will it take to go away?,NEUTRAL,FACT
+374,"Hi, I am now on Prednisone for 5 days and some cream.",NEUTRAL,EXPERIENCE
+375,Fish and Shellfish allergy and I am really bummed as I love fish!,NEGATIVE,OPINION
+376,Sorry to hear that.,NEGATIVE,OPINION
+377,"Folks' allergies can change every five years, so, this is probably the case with you.",NEUTRAL,OPINION
+378,"Hopefully, one day, this will pass and you will be able to eat these foods again.",POSITIVE,OPINION
+379,"I had a suspicion as I was reading your post that you had shellfish allergies due to your intolerance of the iodine bath they gave you before your surgery, this is a dead give-away normally.",NEUTRAL,OPINION
+380,Thanks :),POSITIVE,NOT_LABELED
+381,I am now staying away from all fish and shellfish and have my suspicion that it was the 2 oysters that I ate.,NEUTRAL,EXPERIENCE
+382,I only took Prednisone for 2 days.,NEUTRAL,EXPERIENCE
+383,Hate all the side effects from this medication and still use the cortisone-cream on my neck as I can still feel the hives in that area.,NEGATIVE,EXPERIENCE
+384,"I am going to give it about 2 months and then with Epi-pen handy, I'll try Oysters again.",NEUTRAL,FACT
+385,Thanks for your help!,POSITIVE,NOT_LABELED
+386,"Hi there, I avoided all seafood and shellfish and a few days later, a new rash and hives appeared!",NEGATIVE,EXPERIENCE
+387,I am back on the Prednisone and very frustrated.,NEGATIVE,EXPERIENCE
+388,I have a referral to see an Allergist end of May.,NEUTRAL,FACT
+389,Now I'm just completely at a lost what is causing this.,NEGATIVE,OPINION
+390,Sounds like the start to my 5 year long mystery experience.,NEGATIVE,OPINION
+391,"I think others have mentioned, and not too sure if you have done so but I highly recommend the allergen blood panel testing.",POSITIVE,OPINION
+392,I have recently discovered that not only am I allergic to nightshade veggies (tomatoes and peppers were a lifelong part of my daily diet).,NEUTRAL,FACT
+393,This is on top of my damming intolerance to gluten.,NEUTRAL,EXPERIENCE
+394,All of this came on suddenly with me and won't show up on a basic overall basic heath blood test.,NEUTRAL,EXPERIENCE
+395,As for the prednisone .....I would highly recommend an alternative.,NEUTRAL,OPINION
+396,"Recent studies link prednisone to hip degeneration, osteoporosis, to name a few.",NEGATIVE,FACT
+397,Supposedly it does more harm than good.,NEGATIVE,OPINION
+398,"well, sounds like a fish or shellfish allergy, you may ask a specialist, sorry about that! :/",NEGATIVE,OPINION
+399,I Just had for allergy scratch skin test and it came up with several diffident allergies one of them is eggs but yet I eat my chicken noodle soup that has egg ingredients in it and nothing has happened to me.,NEGATIVE,EXPERIENCE
+400,I deathly afraid of having an severe allergic reaction that could be life threatening,NEGATIVE,OPINION
+401,The other quesiton is i have it seems that i am allergic to oranges can i continue to take a vitamin c supplement without becoming paranoid of having a severe allergic reaction?,NEGATIVE,EXPERIENCE
+402,Please help I need peace of mind.,NEGATIVE,NOT_LABELED
+403,Thank you :),POSITIVE,NOT_LABELED
+404,Hello lpjay.,NOT_LABELED,NOT_LABELED
+405,Just finished reading your comments.,NEUTRAL,NOT_LABELED
+406,Who gave you these allergy tests.,NEUTRAL,FACT
+407,Did your regular doctor give your the allergy test or did he or she refer you to an allergist ?,NEUTRAL,FACT
+408,I had an allergy test many year ago now.,NEUTRAL,EXPERIENCE
+409,I would go to the doctor who administered the allergy test and ask him or her the questions you have asked here.,NEUTRAL,OPINION
+410,Knowledge is power.,NEUTRAL,FACT
+411,"Hi Eve, It was allergist, I have not gotten a word from him yet, and I was hoping to use to this medium to get some answers :)",NEUTRAL,EXPERIENCE
+412,"Hi lpjay, When I had my allergy test many years ago now, the allergist told me there was a scale to refer to.",NEUTRAL,EXPERIENCE
+413,The scale went from 1-4.,NEUTRAL,FACT
+414,One being the lowest and four being the highest.,NEUTRAL,FACT
+415,"I don't know if the scale is still the same , but I suspect it is.",NEUTRAL,OPINION
+416,"When you do hear from your allergist, I would request a follow up appointment to discuss the results of your allergy test.",NEUTRAL,OPINION
+417,"If you have a 4 to a specific food, I would eliminate that food from your diet .",NEUTRAL,OPINION
+418,"I myself had a 4 to eggs, but I still eat eggs and have done for many years.",NEUTRAL,EXPERIENCE
+419,Everyone is different though.,NEUTRAL,FACT
+420,"As for your allergy to oranges, I would discuss this with your allergist as well as your allergy to eggs.",NEUTRAL,OPINION
+421,I have a nephew with a severe allergy to peanuts.,NEGATIVE,FACT
+422,He carries an epi pen with him and has done for many years now.,NEUTRAL,FACT
+423,You can't be too careful with allergies.,NEGATIVE,OPINION
+424,Good luck to you.,POSITIVE,NOT_LABELED
+425,"HI Eve, thank you for the head ups I spoke to my doctor and he said the coconut milk, is fine and the vitamin c is fine.",POSITIVE,FACT
+426,"But to second opinion from a different allergist, I mean this want to vaccinate me for like three months for his finding in terms of tree pollen, etc, food allergies, are tomatoes, pork, milk, and milk products, almonds, chocolate and oranges.",NEUTRAL,FACT
+427,"Hi Ipjay, you are welcome.",POSITIVE,NOT_LABELED
+428,"I tried having allergy shots for less than a year, but did not find them helpful.",NEGATIVE,EXPERIENCE
+429,"In my case, I had to pay for my allergy shots out of pocket as my insurance at work didn't cover the allergy shots.",NEGATIVE,EXPERIENCE
+430,"If you allergy shots are just for tree pollen and other pollons, it's probably cheaper for you to take an antihistamine like Claritin and more effective.",NEUTRAL,OPINION
+431,"As for your food allergies, If you are allergic to tomatoes, pork, milk, milk products, almonds , chocolate and oranges, I think it's a good idea to just eliminate these foods from your diet.",NEUTRAL,OPINION
+432,Did you know that milk is a common food allergy ?,NEUTRAL,FACT
+433,I wish you well.,POSITIVE,NOT_LABELED
+434,"Hi Ipjay, you are welcome.",NOT_LABELED,NOT_LABELED
+435,"I tried having allergy shots for less than a year, but did not find them helpful.",NEGATIVE,EXPERIENCE
+436,"In my case, I had to pay for my allergy shots out of pocket as my insurance at work didn't cover the allergy shots.",NEGATIVE,EXPERIENCE
+437,"If you allergy shots are just for tree pollen and other pollons, it's probably cheaper for you to take an antihistamine like Claritin and more effective.",NEUTRAL,OPINION
+438,"As for your food allergies, If you are allergic to tomatoes, pork, milk, milk products, almonds , chocolate and oranges, I think it's a good idea to just eliminate these foods from your diet.",NEUTRAL,OPINION
+439,Did you know that milk is a common food allergy ?,NEUTRAL,FACT
+440,I wish you well.,POSITIVE,NOT_LABELED
+441,"Hi there, My comment to you got printed twice.",NEUTRAL,FACT
+442,I decided I wanted to join this forum as I have allergies and asthma too.,NEUTRAL,FACT
+443,"There was an opportunity to join this community so I took it , but to do this, my comments were printed a second time.",NEUTRAL,FACT
+444,I hope this comment makes sense.,NEUTRAL,OPINION
+445,Thanks for wishing me luck.,POSITIVE,NOT_LABELED
+446,Eve take good care :),POSITIVE,NOT_LABELED
+447,Food allergy.,NEUTRAL,FACT
+448,"So far allergic to eggs, walnuts, potatoes, peppers (all), paprika.",NEUTRAL,FACT
+449,"Possibly shrimp, light soy sauce.",NEUTRAL,OPINION
+450,Going crazy.,NEGATIVE,OPINION
+451,When eating eggs I cough.,NEGATIVE,EXPERIENCE
+452,Tonight I coughed while eating steak with soy on it.,NEGATIVE,EXPERIENCE
+453,Does anyone else do that.,NOT_LABELED,NOT_LABELED
+454,Is soy and soy sauce the same?,NEUTRAL,FACT
+455,"In addition have itching, rashes, bumps on head that are crusty and can itch.",NEGATIVE,EXPERIENCE
+456,"Heat also a trigger, pollen, grass, dust.",NEUTRAL,EXPERIENCE
+457,Help...,NOT_LABELED,NOT_LABELED
+458,"Hello there, I just finished reading your comments.",NEUTRAL,FACT
+459,Have you been to see an allergist to get an allergy test ?,NEUTRAL,FACT
+460,"You say when you eat eggs , you cough.",NEUTRAL,FACT
+461,Do you put anything on the eggs?,NEUTRAL,FACT
+462,"Are these eggs boiled, poached, scambled, fried ?",NEUTRAL,FACT
+463,You said heat can also be a trigger.,NEUTRAL,FACT
+464,There is such a thing as a heat rash caused by heat.,NEUTRAL,FACT
+465,"A heat rash can appear on ones chest, under your arms.",NEUTRAL,FACT
+466,"If you haven't been to an allergist for an allergy test, based on your comments, I would make an appointment with an allergist asap.",NEUTRAL,OPINION
+467,"Where I live, you need to get a referral from your family doctor to see an allergist.",NEUTRAL,FACT
+468,"Till you know what you're allergic to, I would stay away from soy sauce and any other soy products, walnuts, eggs, all peppers and paprika, maybe shrimp too until you've had your allergy test.",NEUTRAL,OPINION
+469,I wish you well.,POSITIVE,NOT_LABELED
+470,"I've been to an allergist, testing done, prednisone given.",NEUTRAL,EXPERIENCE
+471,No real effects except outside.,NEUTRAL,FACT
+472,He also mentioned keeping tract for couldn't test everything.,NEUTRAL,FACT
+473,Also went to dermatologist who didnt agree with prednisone.,NEUTRAL,EXPERIENCE
+474,It was quite an expense for they want you to keep coming.,NEGATIVE,OPINION
+475,"Burning comes on from paprika, I can't yet figure out all of what I'm allergic to.",NEGATIVE,EXPERIENCE
+476,Rashes and itching drive me crazy.,NEGATIVE,EXPERIENCE
+477,"Eggs cause coughing, even whenvin rolls, alone.",NEUTRAL,FACT
+478,"Potatoes are the worst, I get sick, can't swallow well.",NEGATIVE,EXPERIENCE
+479,"My face burns, husband put soy on my steak last night.",NEGATIVE,EXPERIENCE
+480,"Thanks, Debby.",POSITIVE,NOT_LABELED
+481,"Hello Debby, I'm wondering could you be allergic to the prednisone?",NEUTRAL,OPINION
+482,You can read about the side effects of Prednisone on a website called www.drugs.com.,NEUTRAL,FACT
+483,I just read up on some of the side effects of Prednisone about 5 minutes ago.,NEUTRAL,FACT
+484,There are a lot of possible side effects from this medication one of which was a skin rash.,NEUTRAL,FACT
+485,Hope this helps.,POSITIVE,NOT_LABELED
+486,"For the last year or so, I have been having horrible sharp pains in my stomach and right abdomen after eating meat-",NEGATIVE,EXPERIENCE
+487,Usually I only get it with pork and beef- I have not noticed any problems with whole fish(I only eat the whole imported mackerel we have at work)  and some chicken.,NEGATIVE,EXPERIENCE
+488,The pains usually give me severe stomach cramps for the next few days- even after I have passed it out.,NEGATIVE,EXPERIENCE
+489,"At first I tried to rule it out as me eating too much meat and making myself constipated, but I limited it to one day a week eating meat and switching the meats to see if it was possible an allergic reaction to a certain kind of meat.",NEUTRAL,EXPERIENCE
+490,"Last night I was eating a small amount of beef and started getting these pains, I didn't finish eating because I felt like I was going to throw up and I had hives and my lymph nodes were swollen (I had my boyfriend double check to make sure I wasn't just imagining it) and he told me my whole torso and only my torso was extremely hot to the touch.",NEGATIVE,EXPERIENCE
+491,"I was reluctant to go to the ER because I cannot afford it, so I took some bennadryl and stuck my head in the window to get fresh air so I could breathe- it worked after about half an hour of tunnel vision.",NEUTRAL,EXPERIENCE
+492,The abdomen pains are still there today though.,NEGATIVE,EXPERIENCE
+493,Has anyone else had this problem?,NEUTRAL,FACT
+494,Dose anyone know if this is an allergic reaction to what I am eating or could it possible be something wrong with my GI track?,NEUTRAL,OPINION
+495,Any suggestions on what this might be or any known treatments would be greatly appreciated.,POSITIVE,OPINION
+496,Last night after eating a small amount of eggs my tongue started to go numb and tingle- then it felt huge and heavy and i could not keep it in my mouth.,NEGATIVE,EXPERIENCE
+497,I looked in the mirror and saw a red dot on the tip of my tongue that was not normally there and my tongue kind of hurt and looked swollen.,NEGATIVE,EXPERIENCE
+498,"I could breathe ok, but it took almost three hours for my tongue to fit back into my mouth and half that time the numbness had faded to the front of the tongue.",NEGATIVE,EXPERIENCE
+499,"Today I still cannot feel the very tip of my tongue and the red dot is gone, but I have a lisp that I cannot get rid of that I did not have before- it's very alarming.",NEGATIVE,EXPERIENCE
+500,"I heard that it could have been an allergy to the meat, a protein intolerance, vitamin b12 deficiency or it could be something like MS.",NEUTRAL,FACT
+501,I am planning on going to a doctor but do not know what kind of doctor to go to for this predicament?,NEUTRAL,OPINION
+502,A neuro?,NEUTRAL,FACT
+503,A general practitioner?,NEUTRAL,FACT
+504,Or another kind of specialist?,NEUTRAL,FACT
+505,I actually have a similar issue which is why I normally switch to a vegetarian diet.,NEUTRAL,EXPERIENCE
+506,Fish does not bother me neither does shrimp.,POSITIVE,EXPERIENCE
+507,But red meats and sometimes even chicken seems to cause cramps in my stomach and also constipates me.,NEGATIVE,EXPERIENCE
+508,Other people in my household do not have this problem.,NEUTRAL,FACT
+509,I have always had a sensitive stomach though so I just attributed it to this.,NEGATIVE,EXPERIENCE
+510,I do eat meat when I am pregnant as that is what my body craves but yes it's hard on my digestive system and I still have to take breaks from it.,NEGATIVE,EXPERIENCE
+511,"Keep us updated on this, I'm certainly curious what you find out or discover.",NEUTRAL,OPINION
+512,"Hi, I'd probably see an allergist because although I'm not a doctor, my children have anaphylaxis to different foods and what you describe may have been a life-threatening situation.",NEGATIVE,OPINION
+513,"The hot to the touch, swelling of the tongue are all immediate reactions and the subsequent ones are probably delayed ..",NEGATIVE,FACT
+514,the immediate ones can progress and without an epi-pen one may not be able to reverse the process with Benadryl alone.,NEGATIVE,FACT
+515,"Also, after taking Benadryl in situation as you describe, our allergist has told us to be very careful 4-6hrs later when the Benadryl wears off -- to be wary of a rebound effect that can be worse than the initial allergic reaction.",NEUTRAL,FACT
+516,Meat and eggs are two real items to be careful about ....,NEGATIVE,FACT
+517,I hope you feel better soon ...,POSITIVE,NOT_LABELED
+518,Thank you both for your responses-,POSITIVE,NOT_LABELED
+519,I didn't know the allergies could get that bad.,NEGATIVE,OPINION
+520,Since I had the reactions to the meat- I'm eating a whole vegetarian diet.,NEUTRAL,EXPERIENCE
+521,I'm scared to eat meat now.,NEGATIVE,OPINION
+522,"My tongue is still swollen slightly so I lisp my words trying to say them clear, so I will defiantly take the advice of going to an allergist because its been almost a week.",NEGATIVE,EXPERIENCE
+523,"Also- thank you for the tip about the epi-pen- my boyfriend said something about me carrying one too, I think that is defiantly something I will have to get",NEUTRAL,OPINION
+524,- I defiantly don't want to have to go to the ER with a relapse symptom.,NEUTRAL,OPINION
+525,I will post after I see an allergist.,NEUTRAL,FACT
+526,"Hi, My daughter carries an epi pen because bee stings cause her tongue to swell!",NEUTRAL,EXPERIENCE
+527,"When you get oral swelling, it can be very serious.",NEGATIVE,OPINION
+528,Good Luck -- glad you were able to stop back to get some info here.,POSITIVE,OPINION
+529,"I don't know if this will help at all either, but my mother-in-law has an allergy to sesame that causes this.",NEGATIVE,EXPERIENCE
+530,"She eats meat, but there are a lot of things that include cooking with sesame that give her an allergic reaction right away.",NEGATIVE,EXPERIENCE
+531,So maybe check some of the things that you ate or see if this is something that has been an ingredient that bothers you.,NEUTRAL,OPINION
+532,"I know you mentioned you didn't have health insurance, so I thought I would share with you that she also carries around liquid Benadryl in case she accidentally eats something with sesame in it.",NEUTRAL,EXPERIENCE
+533,It seems to help her quicker than the tablets.,POSITIVE,OPINION
+534,She developed this when she was about 40.,NEUTRAL,FACT
+535,Oh --- mention to your Grandmother that Benadryl now makes the liquid in take-along spoons (for kids actually) that she can adjust the dosing accordingly.,NEUTRAL,FACT
+536,"I wish they had this when my kids were small -- I used to use a syringe med dropper and carry one ready-to-go in a plastic ziploc bag and needless to say, it did get messy at times!",NEGATIVE,EXPERIENCE
+537,"I did not know that Benadryl could help with food allergies, that is great to know.",POSITIVE,OPINION
+538,"I get a stomach ache alot after eating chicken or beef (two more allergies of mine) I mean, I can take just two bites, and wham-o, the tummy pain begins.",NEGATIVE,EXPERIENCE
+539,"Other times, however, I do not get the pain, it is so weird.",POSITIVE,EXPERIENCE
+540,"You know, I think a lot of times, for me at least, it is all the ""additives"" they are putting into our food.",NEGATIVE,OPINION
+541,"There are so many ""chemicals"" now, and no one really knows if they are allergic to them until it is too late.",NEGATIVE,OPINION
+542,"Oh, yes, Benadryl really will help.",POSITIVE,OPINION
+543,"Sometimes a bit of breakthrough burning with the GERD will occur because of the food sensitvities, even though I'm pretty careful.",NEUTRAL,FACT
+544,"Benadryl really helps with this, too.",POSITIVE,OPINION
+545,It also helps when I get that slight feeling like I'm trying to swallow a hard rubber ball I get from all these allergies.,POSITIVE,EXPERIENCE
+546,"I hadn't thought of buying the liquid, but even the adult pills will work for me.",POSITIVE,OPINION
+547,"It just takes longer, as was mentioned.",NEGATIVE,FACT
+548,"I have to stick with what I can afford, but I do understand the reasoning for the liquid.",NEUTRAL,OPINION
+549,"Benadryl works much better than Zyrtec and Clariten which are better suited, as I understand and told to me by my kids, for seasonal and indoor allergies v food.",POSITIVE,OPINION
+550,Here's a link to Benadryl - they have coupon offers - https://www.benadryl.com/coupons.,NEUTRAL,FACT
+551,Thanks.,POSITIVE,NOT_LABELED
+552,My husband had very similar symptoms and was recently diagnosed with a fairly newly discovered cause of beef pork and lamb allergy from a tick bite.,NEUTRAL,EXPERIENCE
+553,If you google red meat allergies it will come up.,NEUTRAL,FACT
+554,Hope this helps.,NEUTRAL,NOT_LABELED
+555,I am a female (31) and was diagnosed with severe adrenal exhaustion and hypothyroidism about 1 1/2 yrs. ago.,NEUTRAL,EXPERIENCE
+556,I was on oxygen for 4 mos. just prior to being diagnosed.,NEUTRAL,EXPERIENCE
+557,I was also on physiological doses of hydrocortisone and florinef for about 9 mo.,NEUTRAL,EXPERIENCE
+558,"I have been slowly improving but for almost 1 yr. now, if I touch certain foods, supplements, drinks or medications, my body starts to tremor.",NEGATIVE,EXPERIENCE
+559,This will go away by removing my hands from that product.,NEUTRAL,EXPERIENCE
+560,"However, I have had some severe reactions (neck jerks, rash, lightheadedness, difficulty breathing, etc.) by ingesting food or a supplement that my body did not initially react to.",NEGATIVE,EXPERIENCE
+561,"If touching after a reaction, I will get severe tremors.",NEGATIVE,EXPERIENCE
+562,The list of items is ever increasing making it hard to find food to eat.,NEGATIVE,FACT
+563,"One certain manufacturer of precription drugs works all the time, but others of the exact same prescription create tremors and severe reactions.",NEUTRAL,EXPERIENCE
+564,"I have researched the internet countless hours and have not found any doctor, medical professional or nutrionist who have ever heard of this.",NEGATIVE,EXPERIENCE
+565,I believe solving this problem is key to restoring my health.,NEUTRAL,OPINION
+566,Any help or direction would be greatly appreciated.,POSITIVE,OPINION
+567,"Hi, From your long history it seems that due to long suffering of the disease you have got Anxiety neurosis causing all problems.",NEUTRAL,OPINION
+568,In hypothyroid this type of symptoms is common so see that your thyroid is under control.,NEUTRAL,FACT
+569,Go for routine check up for thyroid and adjust the dose of medicine accordingly.,NEUTRAL,OPINION
+570,Once thyroid is all right your most of the symptoms will go.,NEUTRAL,OPINION
+571,If you have still problem you consult psychiatrist for anxiety neurosis.,NEUTRAL,OPINION
+572,Wish you speedy recovery.,POSITIVE,NOT_LABELED
+573,Thanks so much for your comments.,POSITIVE,NOT_LABELED
+574,My daughter has already seen a prominent neuropsychologist who did very extensive testing and ruled out psychological reasons.,NEUTRAL,EXPERIENCE
+575,She has not been able to handle thyroid as the adrenals are too still too weak.,NEUTRAL,EXPERIENCE
+576,"If she takes thyroid meds, then she has heart palpitations.",NEGATIVE,EXPERIENCE
+577,Just touching it brings on hand and arm tremors.,NEUTRAL,EXPERIENCE
+578,Any other suggestions would be greatly appreciated.,POSITIVE,OPINION
+579,"Hello, Understand your predicament.",NEUTRAL,NOT_LABELED
+580,"However, the diagnosis of allergy is difficult to prove or refute.",NEUTRAL,FACT
+581,Clinical suspicion and trial of elimination diets are used.,NEUTRAL,FACT
+582,An allergy specialist might be able to help you.,NEUTRAL,OPINION
+583,You can start by maintaining a food dairy and record those specific items that are inducing your symptoms.,NEUTRAL,OPINION
+584,This will help to narrow down the search.,POSITIVE,OPINION
+585,He may identify the allergen by skin testing and help to desensitize you.,POSITIVE,OPINION
+586,Hope This Helped and Do Keep Us Posted!!,POSITIVE,NOT_LABELED
+587,Thank you for your advice and I appreciate your interest in helping to identify this mystery.,POSITIVE,OPINION
+588,"About 1 year ago, my daughter's NMD administered a blood test for food allergy (FoodStats Antibody Assessment) by US BioTek using ""Standard Food Panel IgG"".",NEUTRAL,EXPERIENCE
+589,The test results indicated a number of sensitivities and those foods have been avoided since then.,NEUTRAL,EXPERIENCE
+590,There are a few that are rotational and those are closely monitored using a calendar.,NEUTRAL,FACT
+591,She has a growing number of sensitivities since this test and her doctor asked her to do an experiment at our local health food store where we purchase many of our produce.,NEUTRAL,EXPERIENCE
+592,"As an example, there is one type of apple that was grown by the same company but in a different location.",NEUTRAL,EXPERIENCE
+593,"She could touch one and not have any tremors but when touching the other, she experienced tremors.",NEGATIVE,EXPERIENCE
+594,This remained consistent even 1 week later.,NEUTRAL,EXPERIENCE
+595,This also happens on other produce.,NEUTRAL,FACT
+596,"Lastly, she was in the hospital for pneumonia in April 2011.",NEGATIVE,EXPERIENCE
+597,The doctor ordered IV antibiotics to be administered.,NEUTRAL,EXPERIENCE
+598,"There were two different antibiotic IV bags to be given, but when she touched one bag, she had violent muscle spasms over the whole body which tripped the heart monitor and read greater than 140 bpm.",NEGATIVE,EXPERIENCE
+599,The nurses had never seen this and didn't know what to do until we instructed them to take the bag away quickly.,NEUTRAL,EXPERIENCE
+600,"The tremors or muscle spasms subsided, heart rate went back to normal, and muscle spasms stopped.",POSITIVE,EXPERIENCE
+601,The other antibiotic bag did not produce any tremors and was administered without any problems.,POSITIVE,EXPERIENCE
+602,"Thanks, Rick & Jenny.",POSITIVE,NOT_LABELED
+603,I wanted to check in on this to see if there was any updates on your daughter?,NEUTRAL,FACT
+604,Hope everything is ok.,POSITIVE,NOT_LABELED
+605,"As of August 23, there has been little change.",NEUTRAL,FACT
+606,"The tremors still exist when certain foods, drinks or supplements that her body does not agree with.",NEGATIVE,EXPERIENCE
+607,If we could only get some clue as to what the cause may be.,NEUTRAL,NOT_LABELED
+608,"Last week, she did the top of the line parasite test and sent it off to the lab (Genova Diagnostics).",NEUTRAL,EXPERIENCE
+609,Dr. thinks maybe parasites are robbing her of nutrients.,NEUTRAL,OPINION
+610,We should have results back in a couple of weeks.,NEUTRAL,OPINION
+611,Cold laser by her chiropractor has been the most effective help.,POSITIVE,EXPERIENCE
+612,I'll keep updating as we learn more.,NEUTRAL,NOT_LABELED
+613,Thanks for your interest.,POSITIVE,NOT_LABELED
+614,"My daughter has to be very careful with fruits, too.",NEGATIVE,EXPERIENCE
+615,One brand of a fruit is ok but another one will cause severe allergic reactions.,NEGATIVE,EXPERIENCE
+616,"Organic apples usually are okay, and all others are not which makes us really wonder about pesticides in her case.",NEUTRAL,OPINION
+617,"When you mention the bag of antibiotics, this is a long shot -- but, can you find the manufacturer of the two bags and see if one contained latex and the other did not?",NEUTRAL,OPINION
+618,"If she happens to be severely latex allergic, that type of allergy can cross-react into dozens of foods and be hidden in products.",NEUTRAL,OPINION
+619,Latex continues to get worse and not better with repeated exposure.,NEGATIVE,FACT
+620,Just a thought if they didn't do a RAST test for Latex.,NEUTRAL,OPINION
+621,"My daughter, when she was 8, did a total food elimination diet as Dr. Paderla Anitha, DNB has suggested ..",NEUTRAL,EXPERIENCE
+622,we found out her culprit was the tyramine in chocolate causing migraine headaches and severe joint pain and inflammation along with cognitive issues.,NEUTRAL,EXPERIENCE
+623,"She, also was severe intolerant to almost 20 foods.",NEUTRAL,EXPERIENCE
+624,"Today she has issues with the chocolate still, but has outgrown most her food issues only to be replaced with serious bee sting allergy.",NEUTRAL,EXPERIENCE
+625,Keep us posted .... we are here for you.,POSITIVE,NOT_LABELED
+626,"Argh, yes definitely let us know the parasite results.",NEUTRAL,FACT
+627,It's very frustrating when it is trial and error like this I am sure.,NEGATIVE,OPINION
+628,Keep us posted.,NEUTRAL,NOT_LABELED
+629,Thanks for all the responses from everyone.,POSITIVE,NOT_LABELED
+630,Jenny recently had a very complex and expensive parasite test from a specialty lab and they found not one single trace of parasite or parasite eggs.,NEUTRAL,EXPERIENCE
+631,"They did note she has a ""malabsorption"" problem as she can't seem to absorb nutrients.",NEGATIVE,EXPERIENCE
+632,She also has NO probiotics in her system and a plant derived probiotic that her doctor gave her yesterday was OK for about 1 hr.,NEUTRAL,EXPERIENCE
+633,"Then, her body temperature dropped about 1 degree and she now has severe tremors just touching the bottle.",NEGATIVE,EXPERIENCE
+634,We remove the contents from the capsule and she was able to touch the capsule with no problem.,POSITIVE,EXPERIENCE
+635,"However, when she touched the probiotics, she had tremors and they would not go away until she washed her hands.",NEGATIVE,EXPERIENCE
+636,We'll keep doing a nightly research and hope to find an answer.,NEUTRAL,OPINION
+637,We certainly appreciate your comments and suggestions.,POSITIVE,OPINION
+638,Rick & Jenny.,NEUTRAL,NOT_LABELED
+639,Thanks so much for keeping us posted on this.,POSITIVE,NOT_LABELED
+640,I am certainly at a loss for a solution so I do hope you find out something more soon.,NEUTRAL,OPINION
+641,Can Latex cause tremors??,NEUTRAL,NOT_LABELED
+642,I recently was seen in the ER for a unrelated issue and after an IV was flushed with normal saline I began to have a severe tremor.,NEGATIVE,EXPERIENCE
+643,A rash formed on my chest and my heart rate shot up over 200.,NEGATIVE,EXPERIENCE
+644,It was the worst thing ever.,NEGATIVE,EXPERIENCE
+645,"They kept telling me I couldn't be allergic to the saline, but every time they gave me meds threw the IV with in minutes it would all come back!",NEGATIVE,EXPERIENCE
+646,It took two weeks of a round the clock benadryl when I got home before the tremor went away.,NEUTRAL,EXPERIENCE
+647,Could this be the cause?,NEUTRAL,FACT
+648,Maybe latex in the iv tubing???,NEUTRAL,FACT
+649,How can I find out what brand tubing was used to even look it up?,NEUTRAL,FACT
+650,So sorry to hear this happened...,NEGATIVE,NOT_LABELED
+651,"I'm not sure, but I would definitely begin with asking your doctor if the tubing is latex or latex free ..",NEUTRAL,OPINION
+652,so much more is now routinely latex-free so it's hard to say for sure.,NEUTRAL,FACT
+653,Another area to look into is that some meds in vials have latex in the stopper.,NEUTRAL,FACT
+654,Please keep us posted .....,NEUTRAL,NOT_LABELED
+655,This past year or so we have noticed an increase in heartburn when my husband eats wheat.,NEGATIVE,EXPERIENCE
+656,For example Co-Co wheaties which is just warmed up wheat gives him excruciating heartburn.,NEGATIVE,EXPERIENCE
+657,Is this because of the wheat or the food just irritating the heartburn?,NEUTRAL,FACT
+658,"This is without butter and without milk, just water, and a teaspoon of sugar.",NEUTRAL,FACT
+659,Interested to hear others experiences with this.,NEUTRAL,FACT
+660,It may be allergies.,NEUTRAL,OPINION
+661,I get mild to severe heartburn when I ingest somethings that I am not aware that I am allergic to...,NEGATIVE,EXPERIENCE
+662,"We always passed it off as heartburn and not something more, but yes now I am wondering if its actually an allergy.",NEGATIVE,OPINION
+663,When I think allergy I think swollen face or throat or watery eyes and sneezing.,NEUTRAL,OPINION
+664,I don't always think of heartburn lol I'm glad to hear someone else has experienced this too.,NEUTRAL,OPINION
+665,Do you notice any food triggers for you that cause this?,NEUTRAL,NOT_LABELED
+666,"Oh my, yes, food allergies are not just the ""anaphylatic shock"" They can show themselves in so many forms, it is unbelievable.",NEGATIVE,OPINION
+667,"Mine show up as anxiety attacks and weight gain, some cause an occasional irregular heart beat as well.",NEGATIVE,EXPERIENCE
+668,This is one reason they are so difficult to diagnose.,NEGATIVE,OPINION
+669,Heartburn and GI disturbances are definite ramifications of food allergies by the way.,NEUTRAL,FACT
+670,"Some of the foods that trigger my reactions are wheat, whey, eggs, the list is long, but these are the more common ones.",NEGATIVE,EXPERIENCE
+671,"I have never had an anaphylatic shock from any, the the good Lord, but, sure have had other symptoms that make a person miserable.",NEGATIVE,EXPERIENCE
+672,"I notice I can stiil eat these foods once in a while, but, if I eat them all the time, then the ""fun"" begins.",NEGATIVE,EXPERIENCE
+673,Thanks so much for posting that--- and you are so right when I think food allergy I commonly think throat swelling up or rash.,NEUTRAL,OPINION
+674,And now I am definitely looking more into this as a solution for my husband.,NEUTRAL,FACT
+675,"It's one thing when you eat something spicy or greasy and you get heartburn, but another thing when you eat something just wheat based and it causes severe heartburn.",NEGATIVE,EXPERIENCE
+676,I'm going to have to start keeping a food journal of trigger foods.,NEUTRAL,OPINION
+677,I am curious do you notice that eating too much meat adds to the Heartburn or GI issue along with your allergies?,NEUTRAL,OPINION
+678,My kids get bad reflux/heartburn from foods that they are intolerant to ..,NEGATIVE,EXPERIENCE
+679,"they call it an intolerance for them because all tests are negative but they get this reflux and/or GI symptoms, too.",NEUTRAL,EXPERIENCE
+680,"Milk, for them, is a huge trigger.",NEGATIVE,FACT
+681,"Here is an interesting point to, we used to live by a Morning Fresh Dairy farm where they delivered fresh milk to our doorstep.",NEUTRAL,EXPERIENCE
+682,"It was the best thing ever, our family loved it.",POSITIVE,OPINION
+683,We even had cream top milk where they let the cream stay natural and be at the top of the bottles.,POSITIVE,EXPERIENCE
+684,My husband was not affected by this milk at all.,POSITIVE,EXPERIENCE
+685,"Once he has commercial milk, the kind sold in grocery stores, he gets heartburn.",NEGATIVE,EXPERIENCE
+686,"I have never liked milk even when I was little it was always just something that made me cringe, so definitely had to find an alternative.",NEGATIVE,OPINION
+687,I do say that I have stopped giving my boys soy milk and including myself because of the phytoestrogens.,NEUTRAL,EXPERIENCE
+688,"I just bought some Flaxseed milk for the first time, so I am going to try that and see what I think.",NEUTRAL,FACT
+689,I will be sure to let everyone know how it is.,NEUTRAL,FACT
+690,"I have found this as well with Wheat, and eggs.",NEUTRAL,EXPERIENCE
+691,The heartburn does not seem to last very long though.,NEUTRAL,EXPERIENCE
+692,"But I agree with others, it seems to be when I am eating foods that I am intolerant too.",NEUTRAL,OPINION
+693,"And what is interesting is this can go beyond normal foods--- I got heartburn the other day from chewing a gum that had aspartame in it, that was awful!",NEGATIVE,OPINION
+694,I usually never chew gum with the aspartame in it or phenyltronics ( not sure of spelling) and I did because I was desperate and it was horrible.,NEGATIVE,EXPERIENCE
+695,Also had this happen several times with toothpaste.,NEUTRAL,EXPERIENCE
+696,I can't help but wonder if it is the preservatives in foods and or products that react to the body in such a way.,NEGATIVE,OPINION
+697,Speaking of gum did you know that Chiclets used to use latex?!,NEUTRAL,FACT
+698,"The original one had latex in it as an aid for it to be ""gum"" !",NEUTRAL,FACT
+699,It doesn't surprise me at all that Aspartame gives you heartburn.,NEGATIVE,OPINION
+700,It does the same thing to me.,NEUTRAL,EXPERIENCE
+701,"Stevia is the only artificial sweetener that Mercola considers to be ""safe"", but it makes my stomach burn, too.",NEGATIVE,EXPERIENCE
+702,So does anything with soy in it.,NEUTRAL,FACT
+703,"There are quite a few articles on Mercola's site about artficial sweeteners, too.",NEUTRAL,FACT
+704,"Consider yourself fortunate in a way about the Aspartame allergy, because it will discourage you from using something that is harmful to your health.",POSITIVE,OPINION
+705,I had to take prescription strength Benadryl this morning because of some delayed reaction to something that was making it impossible to sleep because of the reflux.,NEGATIVE,EXPERIENCE
+706,Conventional medicine would write this off and say that GERD is simply the over production of stomach acid.,NEUTRAL,OPINION
+707,"Well, actually, that's over-simplifying GERD.",NEGATIVE,OPINION
+708,"I took the Benadryl, because it's better than reaching for the PPI meds that shut off the stomach acid and are so bad for a person's health when used long-term.",NEUTRAL,OPINION
+709,"They actually cause the stomach to start churning out even more acid in the long run, too, because the stomach will notice the missing acid and over compensate.",NEUTRAL,FACT
+710,I actually have quite a long list of foods that do this to me.,NEUTRAL,EXPERIENCE
+711,The majority of my food sensitivities cause this reaction.,NEGATIVE,FACT
+712,Avoiding the worst offenders is the only way I have any real control over the symptoms.,POSITIVE,EXPERIENCE
+713,"If you're close enough to get to Trader Joe's, they have the most affordable rice pasta you can find.",POSITIVE,OPINION
+714,It costs about half the price that the same kind of pasta costs in the other chain stores.,POSITIVE,FACT
+715,"I find the rice pasta to be better than the rice tortillas or the rice breads, because the rice tortillas and the rice bread tend to crumble apart.",POSITIVE,OPINION
+716,"They don't taste bad, but they do fall apart.",NEGATIVE,OPINION
+717,It's the gluten in traditional breads that keeps this from happening.,NEUTRAL,FACT
+718,"Actually, I knew that all chewing gum used to be made with latex.",NEUTRAL,FACT
+719,"Actually, I did a bit of research on some modern day ingredients of these gums and found out that many do still use a form of latex.",NEUTRAL,FACT
+720,"It just isn't called ""latex"" after the alterations the scientists have done with it.",NEUTRAL,FACT
+721,"I used to chew gum as a kid, but now it all bothers me.",NEGATIVE,EXPERIENCE
+722,I don't think it's just one ingredient that bothers me.,NEGATIVE,OPINION
+723,"But, I have TMJ issues any more, so I don't enjoy chewing gum any more anyway.",NEGATIVE,EXPERIENCE
+724,Mercola explained something interesting about chewing gum that I had no idea about when I was a a kid.,NEUTRAL,FACT
+725,He said that chewing gum can actually cause an acceleration of the decrease in digestive enzymes that all people get as we age.,NEGATIVE,FACT
+726,"So, this decrease happens at a much faster rate when people chew a lot of gum than if they don't.",NEGATIVE,FACT
+727,None of us knew that back when I was a kid who chewed gum.,NEGATIVE,FACT
+728,"I had no idea about the latex :( I love Dr. Mercola site and the free newsletter that they send out, it's very helpful.",POSITIVE,OPINION
+729,"I always cross reference his articles with Dr. Weil, he is another favorite of mine.",POSITIVE,OPINION
+730,Cracker Barrel Restaurant actually distributes a gum made out of cloves.,NEUTRAL,FACT
+731,"It has regular sugar in it, but I don't get heartburn from it.",POSITIVE,FACT
+732,Have no idea all the ingredients in there though lol.,NEUTRAL,FACT
+733,"Ate pineapple yesterday morning, noticed it was a bit tangy.",NEGATIVE,EXPERIENCE
+734,"By noon yesterday, my mouth was on fire, lips and mouth flesh swollen, bottom lip almost droopy.",NEGATIVE,EXPERIENCE
+735,"It's not better now, how long should it take to return to normal, if it is caused by pineapple?",NEGATIVE,EXPERIENCE
+736,"Have sore throat too, with some blistering on throat.",NEGATIVE,EXPERIENCE
+737,Thanks.,POSITIVE,NOT_LABELED
+738,Hello there.,NEUTRAL,NOT_LABELED
+739,It sounds to me like there was something very wrong with the pineapple you ate yesterday morning.,NEGATIVE,OPINION
+740,"I would call your family doctor , tell them what is going on and make an emergency appointment.",NEUTRAL,OPINION
+741,I wish you well.,POSITIVE,NOT_LABELED
+742,Eve.,NEUTRAL,NOT_LABELED
+743,Thanks for responding.,POSITIVE,NOT_LABELED
+744,"Visit urgent care Sunday, he thought it might be reaction to pineapple, gave me steroid shot, no improvement yet, trying to follow up with PCP.",NEGATIVE,EXPERIENCE
+745,"Hello again, You are very welcome.",POSITIVE,NOT_LABELED
+746,"Just wondering , what is PCP ?",NEUTRAL,FACT
+747,Eve.,NEUTRAL,NOT_LABELED
+748,Primary care physician.,NEUTRAL,FACT
+749,"Hi again, That's what I thought PCP stood for but wasn't sure.",NEUTRAL,OPINION
+750,I think it is a good idea that you are going to see your family doctor about this.,POSITIVE,OPINION
+751,I hope you are starting to feel better.,POSITIVE,NOT_LABELED
+752,Oh! Bad pineapple.,NEGATIVE,OPINION
+753,Hope you're okay by now.,POSITIVE,NOT_LABELED
+754,"I'm not, doc thinks it may be thrush mouth due to antibiotics, been on Clotrimazole 10 mg Troche for fourth day, no change tho.",NEGATIVE,EXPERIENCE
+755,Not sure what's happening.,NEUTRAL,OPINION
+756,pls go and see an doctor for testing intolerances like fructose and histmaine.,NEUTRAL,OPINION
+757,"Both intolerances are nowadays common, but the reason why it's going to be more ""popular"" as itself is unkown.",NEUTRAL,FACT
+758,"Mostly its a ""cross-allergy"".",NEUTRAL,FACT
+759,"Anyway, I don't know a lot about fructose and this stuff.",NEUTRAL,FACT
+760,But I'm sensitive to histamine and that's why I know that fruits are high in histamine.,NEUTRAL,EXPERIENCE
+761,Maybe you will find your anwer with this ;),POSITIVE,NOT_LABELED
+762,"As soon as you get tested positive to histamine, I really can recommend Daosin.",POSITIVE,OPINION
+763,It's easy to take.,POSITIVE,OPINION
+764,"You eat one cap right before you eat, and it's avoiding the allergic reaction.",POSITIVE,FACT
+765,"That's it, you'll be fine with that.",POSITIVE,OPINION
+766,Best of luck!,POSITIVE,NOT_LABELED
+767,I thought I'd kick off a very short post about latex allergies.,NEUTRAL,OPINION
+768,"It is becoming increasingly common, and one way we screen people for potential latex allergies in the hospital is by asking about food allergies.",NEUTRAL,FACT
+769,"Because some proteins in rubber are similar to food proteins, some foods may cause an allergic reaction in people who are allergic to latex.",NEUTRAL,FACT
+770,"The most common of these foods are banana, avocado, chestnut, kiwi fruit and passion fruit.",NEUTRAL,FACT
+771,"If you've ever eaten these foods, and have a funny ""tingly"" feeling in your mouth, or rash around your mouth after eating them, mention this to your doctor the next time you go.",NEUTRAL,OPINION
+772,You may be latex-sensitive.,NEUTRAL,OPINION
+773,"Peek, are you okay with contact latex from glove exposure through the years?",NEUTRAL,FACT
+774,Here is a good website on Cross Reactions (Latex - Food) I have in my bookmarks.,POSITIVE,OPINION
+775,"Allergic Cross Reactions - Latex, Fruit, Nuts, Pollen, other -- Good information with % of possible incidence.",POSITIVE,FACT
+776,http://www.allergyclinic.co.nz/guides/42.html.,NOT_LABELED,NOT_LABELED
+777,It wasn't until my daughter had an anaphylactic reaction from a plum (out of the blue) that her kean allergist suggested a blood test for Latex and it was very positive.,NEUTRAL,EXPERIENCE
+778,Latex and foods .. people rarely connect the two!,NEUTRAL,FACT
+779,"Believe it or not, I've not had any problem with latex allergies, despite over 30 years of constant exposure.",POSITIVE,EXPERIENCE
+780,"And I'm a fairly allergic person, with asthma, many drug allergies, cat allergies...just not latex.",NEGATIVE,EXPERIENCE
+781,"I've seen many of my coworkers develop it, though.",NEGATIVE,EXPERIENCE
+782,"Most of our gloves and supplies are latex free, now.",POSITIVE,FACT
+783,I find that to be very interesting.,POSITIVE,OPINION
+784,I didn't know there was a correlation between the proteins.,NEUTRAL,FACT
+785,"My daughter is allergic to latex, banana, kiwi, and avocado.",NEGATIVE,EXPERIENCE
+786,She carries an epi pin due to the avocado allergy.,NEUTRAL,EXPERIENCE
+787,I would strongly suggest your allergist tests for latex via blood (not skin) ...,POSITIVE,OPINION
+788,bet you my bottom dollar (although I'm not a doctor) she will show + to latex to some degree with her history.,NEGATIVE,OPINION
+789,"But, I hope not.",NEUTRAL,OPINION
+790,If she is + avoidance is the key element to latex -- it never really gets better -- it can get worse with repeated exposure.,NEGATIVE,OPINION
+791,And a medic tag is really important in emergency and/or hospital settings with latex all around.,NEUTRAL,OPINION
+792,My daughter does not get eczema ..,POSITIVE,EXPERIENCE
+793,she gets anaphylaxis symptoms.,NEGATIVE,EXPERIENCE
+794,(mild) The last time it was severe stridor and very scary but she was ok after our trip to the ER.,NEGATIVE,EXPERIENCE
+795,Hindsight 20/20 we should have used the epi pen.,NEUTRAL,OPINION
+796,Hidden nuts or plum juice in a peach gummy ring candy was the culprit when she never reacted to nuts like that before.,NEGATIVE,EXPERIENCE
+797,"My daughter with the plum and stonefruit has the latex connection ...and, of course, the hazelnuts being Class IV out of VI.",NEUTRAL,EXPERIENCE
+798,My daughter is married and on her own now.,NEUTRAL,FACT
+799,She found out the hard way about the latex allergy.,NEGATIVE,EXPERIENCE
+800,Let's just say her first experience with a condom was a nightmare!,NEGATIVE,EXPERIENCE
+801,LOL.,NOT_LABELED,NOT_LABELED
+802,"Oh man, silly me --- I missed the first word in your dd's allergies LATEX!",NEGATIVE,OPINION
+803,Where is that dummy icon I ask ?!,NEGATIVE,NOT_LABELED
+804,Um uh on your other comment ..,NEUTRAL,NOT_LABELED
+805,"Oh, my.",NOT_LABELED,NOT_LABELED
+806,"Yes, a condom ""incident"" can be awful.",NEGATIVE,OPINION
+807,"I have a long list of food intolerances--grains, diary, sesame, soy--and have reacted to band-aids and the latex in the collars and cuffs of turtlenecks and socks, so I'm pretty sure I have a latex sensitivity--I make it part of my medical record to be on the safe side.",NEGATIVE,EXPERIENCE
+808,"A couple of years ago I was began getting reactions to fresh fruits--first signs of mouth swelling, rashes.",NEGATIVE,EXPERIENCE
+809,I was really bummed that I was losing another huge food group.,NEGATIVE,EXPERIENCE
+810,"Then I read somewhere that birch was a stong cross-reactor with latex and stone fruits, and realized the Tom's toothpaste I used three times a day was sweetened with xylitol made from birch bark.",NEUTRAL,FACT
+811,"Apparently xylitol also occurs in fruits (raspberries and plums are mentioned most often), mushrooms, and corn.",NEUTRAL,FACT
+812,"Maybe it was a coincidence, but I quit using the toothpaste and my reactions to fruit have mostly stopped, though I have to be careful not to eat too many raspberries.",POSITIVE,EXPERIENCE
+813,I can relate to the food sensitivities issue all too well myself.,POSITIVE,EXPERIENCE
+814,It can get really frustrating to deal with some days.,NEGATIVE,EXPERIENCE
+815,"Everything you said about stone fruits is what I was told one time in the hospital, too.",NEUTRAL,EXPERIENCE
+816,"I didn't know that it was xylitol that made raspberries a problem food for me, but now I know why they bother me.",NEGATIVE,EXPERIENCE
+817,"I used to love going to my grandparent's house and pick the fresh raspberries off of the vine, too.",POSITIVE,EXPERIENCE
+818,"I definitely have the latex sensitivity myself, because it will definitely burn my skin.",NEGATIVE,EXPERIENCE
+819,I know about some of the cross reactions.,NEUTRAL,FACT
+820,You're right about it being a huge food group.,NEUTRAL,OPINION
+821,All because of birch!,NEGATIVE,FACT
+822,"I make it a point to tell my doctors that I'm allergic to latex and band-aids every time they draw blood, too, because the lab techs don't always read the allergy bands that the hospital puts on my wrists.",NEGATIVE,EXPERIENCE
+823,I still have to remind my primary care doctor about this one.,NEGATIVE,FACT
+824,"One that isn't always mentioned, but is still actually a stone fruit is avacado.",NEUTRAL,FACT
+825,I was also told that bananas have the same protein in them as latex.,NEUTRAL,FACT
+826,"They're also ""binding"" for me.",NEGATIVE,EXPERIENCE
+827,"I didn't know mushrooms were in this category, I just knew I couldn't eat them either.",NEUTRAL,FACT
+828,"You're right, this pretty much wipes out the fruit category.",NEGATIVE,OPINION
+829,Do you also have problems with mints and other herbs?,NEUTRAL,NOT_LABELED
+830,I noticed that you already mentioned cinnamon.,NEUTRAL,FACT
+831,"All peanuts and tree nuts are out for me, too.",NEUTRAL,FACT
+832,"And, anything in the sunflower family, which is another huge family.",NEUTRAL,FACT
+833,"If you're allergic to sunflower oil and seeds, steer clear of calendula oil.",NEUTRAL,FACT
+834,Calendula is a very close cousin to marigolds.,NEUTRAL,FACT
+835,I found out the hard way that they're also in the sunflower family.,NEGATIVE,EXPERIENCE
+836,"Here's one I bet you didn't know: Lettuce, spinach and dandelions are all in the sunflower family, too.",NEUTRAL,FACT
+837,"Well, that explains why I'll get nauseous and throw up if I try to eat the stuff.",NEGATIVE,EXPERIENCE
+838,"I can't remember which forum I read, but I have found out that this huge laundry list of food sensitivities that is caused by the cross-reactions to birch is called Oral Allergy Syndrome.",NEUTRAL,FACT
+839,I know about the mouth blisters inside of the mouth only all too well.,NEGATIVE,EXPERIENCE
+840,"I've always had some of these blisters from certain foods and substances, but I've noticed that some things are worse than others.",NEGATIVE,EXPERIENCE
+841,Citrus is one of the worst ones as far as the blisters inside of the mouth.,NEGATIVE,OPINION
+842,My lips don't like citrus either.,NEGATIVE,EXPERIENCE
+843,I'll bet most of our food sensitivities are exactly the same because of that definite allergy to birch.,NEUTRAL,OPINION
+844,"It's funny how the food sensitivities tests all have come back negative, even though I know I have bad reactions to these foods and will be sick.",NEGATIVE,OPINION
+845,"But, I'm definitely allergic to birch, as in true allergy.",NEUTRAL,EXPERIENCE
+846,"So, that explains the laundry list of food sensitivities and the latex and band-aid sensitivities.",NEUTRAL,FACT
+847,Thanks for the link to the allergy cross reactions page.,POSITIVE,NOT_LABELED
+848,"I bookmarked this page for myself, too.",NEUTRAL,FACT
+849,"And, I'll pass on this link to a good friend of mine who has the same problem that we both obviously share here.",NEUTRAL,FACT
+850,WOW ...I have to say I've learned a lot from these posts and have been dealing with latex allergy for 8 yrs now!,POSITIVE,OPINION
+851,The Xylitol is new to me and I will mention it to my daughter to be careful for that ingredient.,NEUTRAL,FACT
+852,She is super allergic to birch pollen and mugwort which is a weed that cross reacts with raw carrots ..,NEGATIVE,EXPERIENCE
+853,she gets huge swelling inside her mouth in the OAS you describe above.,NEGATIVE,EXPERIENCE
+854,There is a small % of OAS that can migrate into Anaphylaxis so avoidance is key.,NEUTRAL,FACT
+855,Hehehe.... My first experience with err latex was errr very embarrassing.,NEGATIVE,EXPERIENCE
+856,I've been telling people about the Latex-avocado cross allergy for a while.,NEUTRAL,FACT
+857,"I'm a nerd, and typed all the things that bug me in the search on Google a couple years ago, and found out about it.",NEUTRAL,EXPERIENCE
+858,"I have a very mild reaction to latex, however my reaction to banana's and avocados is increasingly getting worse.",NEGATIVE,EXPERIENCE
+859,"My biggest fear is I'm pre-med, and allergic to latex.",NEGATIVE,FACT
+860,I really really hope this will not affect my career!,NEGATIVE,OPINION
+861,Interesting that some of you mention Xylitol as well.,NEUTRAL,OPINION
+862,I mentioned in wannabenana`s post my son`s horrendous oral exzema that undoubtedly keeps happening when we use Xylitol products.,NEGATIVE,EXPERIENCE
+863,I couldn`t believe it since it is 100% natural sugar but now it occurs to me that he ate tons of avocado around his first birthday and I am very allergic to birch pollen.,NEUTRAL,EXPERIENCE
+864,Nowadays he hates avocado and banana.,NEGATIVE,EXPERIENCE
+865,I wonder if there is a link.,NEUTRAL,OPINION
+866,Latex is still okay though.,POSITIVE,FACT
+867,"Our dental hygienist uses latex-free gloves, as she says not for her own sake but to avoid allergic reactions in patients` mouths.",NEUTRAL,FACT
+868,You may want to have him tested (via blood) to know  because repeated expsosure must be limited or else it can get worse.,NEUTRAL,OPINION
+869,"Glad the dentist uses non-latex gloves, but with his history,it's probably best to know for sure.",POSITIVE,OPINION
+870,"Well everyone can't believe I am posting this, after 36 years and literally probably 25 years of eating shrimp I had my first reaction to it 3 days ago.",NEGATIVE,EXPERIENCE
+871,All I had was cocktail shrimp and cocktail sauce.,NEUTRAL,EXPERIENCE
+872,The same sauce I used last week.,NEUTRAL,EXPERIENCE
+873,This time I just ate more shrimp then I normally do.,NEUTRAL,EXPERIENCE
+874,I had no sides or anything with the shrimp just cocktail shrimp.,NEUTRAL,EXPERIENCE
+875,And literally 2 hours later I broke out in welts on my thighs and my upper arms.,NEGATIVE,EXPERIENCE
+876,My throat started getting swollen but luckily not to the point where I couldn't breath.,NEGATIVE,EXPERIENCE
+877,I took Benadryl that night and it helped with the rash but the symptoms have literally lasted about 3 days now.,POSITIVE,EXPERIENCE
+878,I have spoke to some people about this that have allergies and they have mentioned that I will now have to be concerned with Iodine.,NEUTRAL,EXPERIENCE
+879,I remember when I got a cat scan back when I was like 18 or so they asked me if I was allergic to eggs before they injected the iodine.,NEUTRAL,EXPERIENCE
+880,So should I also be concerned about my egg intake too?,NEUTRAL,OPINION
+881,"Hi Seattle, WOW ..that's scary.",NEGATIVE,OPINION
+882,I'd be sure to stay away from shrimp and anything that shrimp comes in contact with including other shellfish.,NEUTRAL,OPINION
+883,"Definitely see an allergist for some skin and RAST tests to help identify your allergy and any other unknown possibilities, too.",NEUTRAL,OPINION
+884,Iodine and shellfish I think are similar.,NEUTRAL,OPINION
+885,Not a bad idea to carry a medic card and wear a medic tag in case of emergency and unable to speak re your allergy to the shrimp.,NEUTRAL,OPINION
+886,"Yep, unfortunately 3 days sounds about right ..",NEUTRAL,OPINION
+887,if your rash persists you may want to see your Dr for prednisone added to your regime :(,NEGATIVE,OPINION
+888,Your system sounds like its still reacting long after the allergen has been ingested.,NEGATIVE,OPINION
+889,What you describe can manifest into an anaphylactic reaction with future/repeated exposure ..,NEUTRAL,OPINION
+890,I'd see an Allergist ASAP or your family doc at the very least to obtain an Epi Pen prescription and carry two with you ..,NEUTRAL,OPINION
+891,"Seafood, nuts, and insects have a high likelihood of rebound where one injection isn't enough as you wait for EMS or enroute to the ER.",NEGATIVE,FACT
+892,"Hope this never happens again, but wanted to share some thoughts with you.",NEUTRAL,NOT_LABELED
+893,Two of my daughters are anaphylactic to several things ..,NEGATIVE,EXPERIENCE
+894,we've been in the ER 2-3X ..,NEGATIVE,EXPERIENCE
+895,it's scary.,NEGATIVE,OPINION
+896,Hang in there and others may have info for you re eggs ..,POSITIVE,OPINION
+897,am not sure on that at all.,NEUTRAL,OPINION
+898,One other off the wall thought ..,NEUTRAL,FACT
+899,The cocktail sauce may contain horseradish which is in the mustard family --- watch for future mustard family ingestions.,NEUTRAL,OPINION
+900,"Also, maybe use our food diary to track what you eat and reactions.",NEUTRAL,OPINION
+901,"Be well, C~",NOT_LABELED,NOT_LABELED
+902,Meant to also suggest the Allergy Tracker: Food Diary: My Diet Diary App.,NEUTRAL,FACT
+903,And our latest is Pic Healthy where you can easily snap a photo and then list your reaction: C~,NEUTRAL,FACT
+904,Thanks so much for this information ChitChatNine :),POSITIVE,NOT_LABELED
+905,Yeah I definitely have to look into the eggs aspect and a concern with the iodine for future medical history.,NEUTRAL,OPINION
+906,I don't think it is the horseradish because I have even used that alone on sandwiches as a spread.,NEUTRAL,OPINION
+907,This is the first time I really ate a good helping of shrimp and had nothing else with it to maybe help absorb the allergen.,NEUTRAL,EXPERIENCE
+908,Geez learn something new about my body all the time and I guess this is just one of them.,NEUTRAL,OPINION
+909,Looking forward to my rash going away and the throat soreness.,NEGATIVE,FACT
+910,It's getting better just amazing that it takes a while to get out of your system.,POSITIVE,OPINION
+911,"Also meant to mention, too, that when you take Benadryl for a reaction like yours, you must be very very careful 6hrs later when the Benadryl wears off because sometimes you can have a rebound reaction because the antihistamine is no longer working in your body ..",NEGATIVE,FACT
+912,and that rebound can be more serious than the original episode.,NEGATIVE,FACT
+913,Our allergist told us about that rebound and when my dd had a serious reaction she insisted I sleep in the same room with her ..,NEGATIVE,EXPERIENCE
+914,"she was fine, thankfully.",POSITIVE,FACT
+915,Last night was the first night I did not take any Benadryl.,POSITIVE,EXPERIENCE
+916,I hate taking stuff :(,NEGATIVE,OPINION
+917,I have taken it for the last 3 nights so wanted to see how I did with my hives.,NEUTRAL,EXPERIENCE
+918,"So I am glad you posted about rebound reactions because yes sure enough my welts have returned, not as bad as they first were but they returned.",NEGATIVE,OPINION
+919,So I put Cortisone cream on them to see if this helps.,NEUTRAL,EXPERIENCE
+920,That Benadryl spray just seems to burn and make my legs stick together :(,NEGATIVE,EXPERIENCE
+921,How long can the rebound reaction last?,NEUTRAL,FACT
+922,Forgot to ask that lol.,NEUTRAL,FACT
+923,"I can't answer that last question, but I do know this one for sure: Cross reactions must be taken seriously now.",NEGATIVE,FACT
+924,"So, no lobster and no crabs either.",NEUTRAL,FACT
+925,"And, since krill are also a related crustacean, you won't want to supplement with krill oil either, even though it's supposed to be superior to fish oil in the way of animal based omega 3 fatty acids.",NEGATIVE,OPINION
+926,"I don't have a true allergy to crustaceans, yet, but I watch it, since I've had a globus-like reaction the last few times I ate shrimp.",NEGATIVE,EXPERIENCE
+927,"Now, I'm scared to eat crustaceans myself.",NEGATIVE,OPINION
+928,"It's more of a food sensitivity, which is why I'm aware of the cross reactions.",NEGATIVE,OPINION
+929,It's all the more important for you with a true allergy.,NEUTRAL,OPINION
+930,I would continue to take the Benadryl every 6 hours or so until you reach a point of real relief.,NEUTRAL,OPINION
+931,I believe ChitChatNine said about three days.,NEUTRAL,OPINION
+932,"So, clearly, you're out of the woods, so to speak, but I would keep taking the Benadryl for a couple more days.",NEUTRAL,OPINION
+933,"I know there is a consulting nurse line in Seattle that you can call, too, for answers.",NEUTRAL,FACT
+934,There is a 24 hour number that your doctor's office should have given you for urgent care when you need to speak with a consulting nurse.,NEUTRAL,FACT
+935,"If not, you can call the 24 hour line connected with Harbor View.",NEUTRAL,FACT
+936,"You can find the number on this page: http://www.scn.org/crisis/medical.html  During the day time, you can also call 211 for the community information line.",NEUTRAL,FACT
+937,"Don't panic that you see the word ""crisis"" in the address.",NEUTRAL,OPINION
+938,It's a general information page for the Seattle area.,NEUTRAL,FACT
+939,It even has the number for Bastyr.,NEUTRAL,FACT
+940,Furballs -- thanks so much for looking up that info for Seattle.,POSITIVE,NOT_LABELED
+941,This is what makes us such a special community ..,POSITIVE,OPINION
+942,really helping each other!,POSITIVE,OPINION
+943,Furball thank you that was perfect information!,POSITIVE,OPINION
+944,"My hives have cleared up this week, but yes I am staying away from all shellfish.",POSITIVE,EXPERIENCE
+945,My husband had shrimp last night but I did not touch it or even handle the shells for that matter.,NEUTRAL,EXPERIENCE
+946,Good point on the Krill Oil I would have never thought about that also being included in the list.,POSITIVE,OPINION
+947,I am definitely glad there are so many resources here in the Seattle area.,POSITIVE,OPINION
+948,Good to see you have improved.,POSITIVE,NOT_LABELED
+949,Allergic reactions can develop at any point of time.,NEUTRAL,FACT
+950,It may help to maintain a food dairy and keep monitoring your symptoms.,NEUTRAL,OPINION
+951,This will help to narrow the search.,POSITIVE,FACT
+952,Further allergic testing may be worth looking into.,NEUTRAL,OPINION
+953,"Here, the severity of the allergic reaction is tested and based on this the therapy is planned.",NEUTRAL,FACT
+954,The dilution of the agent used and the course of therapy are planned according to the severity and with adequate monitoring the person is desensitized.,NEUTRAL,FACT
+955,Hope this helped and do keep us posted.,NEUTRAL,NOT_LABELED
+956,"Thanks Paderla for the comment, I definitely think that I need to look into some of these reactions after my pregnancy.",NEUTRAL,OPINION
+957,Right now I would be afraid to have any allergy testing performed in case there was something I had a severe reaction to.,NEGATIVE,OPINION
+958,But yes keeping a food diary I think is the safest bet.,POSITIVE,OPINION
+959,"These types of testing for severe seafood, milk, and latex as I understand are done only in a Doctor's office with rescue equipment and/or in the hospital as an outpatient.",NEUTRAL,FACT
+960,"I, too, was hesitant to have my daughter tested when we thought she had a shrimp allergy.",NEUTRAL,EXPERIENCE
+961,"In her case, it turned out to be a laryngospasm and not allergy as she was eating a dish cooked with shrimp!",NEGATIVE,EXPERIENCE
+962,"Actually, what I meant to say is that the above is done only in those settings when it's possible a person has outgrown the allergy and they are testing to see if they still are allergic.",NEUTRAL,FACT
+963,"To the best of my knowledge, as a side note, latex is rarely given subcutaneous to test, to those with documented allergy.",NEUTRAL,OPINION
+964,That was what our allergist told us.,NEUTRAL,FACT
+965,Very interesting follow up thank you!,POSITIVE,NOT_LABELED
+966,I have been reading more and more into my allergies to get a better understanding of them so this certainly helps :D.,POSITIVE,OPINION

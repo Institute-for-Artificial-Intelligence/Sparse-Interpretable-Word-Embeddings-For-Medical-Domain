@@ -1,0 +1,960 @@
+,text,polarity,factuality
+0,"Hi, Iam 34years old & my sonography says Solid cystic complex cyst noted in 6 o' clock position in retroareolar region in left breast measuring 19*18mm & left axillary lymphadenopathy.",NEUTRAL,EXPERIENCE
+1,what does it means ?,NEUTRAL,FACT
+2,"doctor advised to go for FNAC for further evaluation but i didnt get it done so far coz i'am scared with needles,",NEGATIVE,EXPERIENCE
+3,is anything serious please tell me i'am very much worried .,NEGATIVE,OPINION
+4,thanks.,NOT_LABELED,NOT_LABELED
+5,"Hi, Breast cysts can be classified as either simple or complex.",NEUTRAL,FACT
+6,Simple Cysts (fluid filled sacs) have virtually no chance of containing malignancy; they do not need to be aspirated unless they are too large and causing discomfort.,NEUTRAL,FACT
+7,However a complex cyst is more concerning because it will on occasion be an intracystic cancer.,NEUTRAL,FACT
+8,"These type of cysts are also fluid filled sacs but contain a good percentage of solid elements, like old blood or debris.",NEUTRAL,FACT
+9,Usually complex cysts are aspirated and the cells examined under the microscope to better evaluate their nature and to rule out cancer.,NEUTRAL,FACT
+10,A fine needle aspiration is a simple procedure and you shouldn't be scared because the site to be biopsied will be numbed with a local anesthetic.,NEUTRAL,FACT
+11,Please take my advice and call your Doctor to reschedule the FNA biopsy ASAP so you can have peace of mind.,NEUTRAL,OPINION
+12,"Believe me, knowing what's going on is much better than not knowing and worrying about it needlessly.",NEUTRAL,OPINION
+13,Best wishes..,NOT_LABELED,NOT_LABELED
+14,"Hi, Breast cysts can be classified as either simple or complex.",NEUTRAL,FACT
+15,Simple Cysts (fluid filled sacs) have virtually no chance of containing malignancy; they do not need to be aspirated unless they are too large and causing discomfort.,NEUTRAL,FACT
+16,However a complex cyst is more concerning because it will on occasion be an intracystic cancer.,NEUTRAL,FACT
+17,"These type of cysts are also fluid filled sacs but contain a good percentage of solid elements, like old blood or debris.",NEUTRAL,FACT
+18,Usually complex cysts are aspirated and the cells examined under the microscope to better evaluate their nature and to rule out cancer.,NEUTRAL,FACT
+19,A fine needle aspiration is a simple procedure and you shouldn't be scared because the site to be biopsied will be numbed with a local anesthetic.,NEUTRAL,FACT
+20,Please take my advice and call your Doctor to reschedule the FNA biopsy ASAP so you can have peace of mind.,NEUTRAL,OPINION
+21,"Believe me, knowing what's going on is much better than not knowing and worrying about it needlessly.",NEUTRAL,OPINION
+22,Best wishes..,NOT_LABELED,NOT_LABELED
+23,Thank you so much......you are an Angel.,POSITIVE,OPINION
+24,i'm scared but will try my best for FNAC.....thanks again.,NEGATIVE,OPINION
+25,You are welcome!,NOT_LABELED,NOT_LABELED
+26,Good for you!,NOT_LABELED,NOT_LABELED
+27,That's a very wise decision!,POSITIVE,OPINION
+28,Hoping that you'll have nothing to worry about.,POSITIVE,NOT_LABELED
+29,:) Take care...,NOT_LABELED,NOT_LABELED
+30,"Hi, i didn't do FNAC still coz as i told u em scared of needles.... nw i don't feel any lump & pain is it still must for fnac???",NEGATIVE,EXPERIENCE
+31,pls lemme know as em very much worried...,NEGATIVE,OPINION
+32,"sometimes em having mild pain on & off ,as if someone is pinching is it anything serious?",NEGATIVE,EXPERIENCE
+33,kindly advice..,NOT_LABELED,NOT_LABELED
+34,If you aren't willing to follow your Doctor's advice regarding the necessary testing we cannot offer any further help or advice for you here.,NEGATIVE,OPINION
+35,Best wishes and we truly hope that your issue is not a serious one .....,POSITIVE,NOT_LABELED
+36,"Hi, thanks for quick reply.... i understand what you say & will follow it.... I just want to know is it still compulsory for fnac coz now i dont have any lumps & pain�",POSITIVE,EXPERIENCE
+37,Unless you have had another Ultrasound test there is no way for you to know whether you have the same lump or not.,NEUTRAL,OPINION
+38,Obviously you are still not willing to do as your Doctors have advised since you seem to be coming up with any excuse not to have the recommended biopsy.,NEGATIVE,OPINION
+39,We are here to help women who are also willing to help themselves and do their part in their health care.,POSITIVE,FACT
+40,Best wishes.,NOT_LABELED,NOT_LABELED
+41,Hi...yesterday i went for another ultrasound test & my report says : A well defined solid cystic complex lesion noted in the 6'o'clock position of left breast measuring 15*12mm.,NEUTRAL,EXPERIENCE
+42,"Evidence of multiple, well defined ,anechoic cystic changes noted in left areolar regions.",NEUTRAL,EXPERIENCE
+43,"Few subcentimeter lymph nodes noted in left axilla with preserved hilum,largest measuring 16*10mm.",NEUTRAL,EXPERIENCE
+44,ADVICE: FNAC for further evaluation.,NEUTRAL,EXPERIENCE
+45,Is it anything serious??,NEUTRAL,FACT
+46,do you think FNAC is must because i dont feel any lump from outside.,NEUTRAL,OPINION
+47,if it is serious & must then i will get it done ASAP..,NOT_LABELED,NOT_LABELED
+48,Kindly suggest me.,NEUTRAL,NOT_LABELED
+49,"Hi, Not all breast lumps are palpable, but they can certainly be seen when you have an Ultrasound test.",NEUTRAL,FACT
+50,"Japdip has already advised you that if your Radiologist recommended a biopsy, you should, by all means, follow his/her advice ASAP to make sure that there is nothing serious.",NEUTRAL,OPINION
+51,Believe me that you will feel much better knowing what this lump represents than not knowing.,POSITIVE,OPINION
+52,Take care..,NOT_LABELED,NOT_LABELED
+53,Thanks for your reply Zouzi...,POSITIVE,NOT_LABELED
+54,Will get FNAC soon.,NEUTRAL,EXPERIENCE
+55,I have a question how likely is it that i have breast cancer??,NEUTRAL,FACT
+56,should i be worried??,NEUTRAL,FACT
+57,what does my report suggest??,NEUTRAL,FACT
+58,....i have checked with 5 doctors n out of 5 doctors 4 suggested me to go for FNAC ASAP & 1doctor told me today that I can still wait for some time....,NEGATIVE,EXPERIENCE
+59,iam really confused with my case so kindly give your opinion.,NEGATIVE,EXPERIENCE
+60,Thanks.,NOT_LABELED,NOT_LABELED
+61,Not even a Radiologist can tell you anything for sure until you have the biopsy and the cells examined by a Pathologist.,NEUTRAL,FACT
+62,This lump could be anything and not necessarily breast cancer.,NEUTRAL,OPINION
+63,Please understand that we are not doctors and if we can't answer your questions it's because we simply don't know what else to say except to have the biopsy.,NEUTRAL,OPINION
+64,"I have dense breasts (matches my head), and have had issues with my left one.",NEGATIVE,EXPERIENCE
+65,I have history of lactation with pituitary tumor but no kids (my health in general bites).,NEUTRAL,EXPERIENCE
+66,"Long story short, had to have an MRI and the report says I have on the left: 7mm irregular mass with non- circumscribed edges, washout (fast uptake).",NEUTRAL,EXPERIENCE
+67,"The right side has an 8mm oval circumscribed mass, washout (fast uptake) associated with a 23 mm clumped, segmental non mass enhancement.",NEUTRAL,EXPERIENCE
+68,I have to wait until October for the biopsies...,NEUTRAL,EXPERIENCE
+69,Ugh!,NOT_LABELED,NOT_LABELED
+70,Thoughts?,NOT_LABELED,NOT_LABELED
+71,"Hi, I am so sorry you are going through this difficult time waiting for a biopsy,but as you well know, only a biopsy can tell for sure what is going on.",NEUTRAL,OPINION
+72,One of the problems with MRIs is that they present a lot of false positives.,NEUTRAL,FACT
+73,"Many benign lesions show up on a MRI looking quite similar to cancerous lesions therefore anything that looks suspicious, additional testing becomes necessary.",NEUTRAL,FACT
+74,"Until your lesion is checked under the microscope, there is no way to know if it is cancer.",NEUTRAL,FACT
+75,"Having ""washout kinetics"" makes it suspicious, but you could still end up with benign results.",NEUTRAL,OPINION
+76,Hang in there and we hope that your biopsy procedure will go smoothly and results in benign findings.,POSITIVE,OPINION
+77,All the best to you and good luck!,POSITIVE,NOT_LABELED
+78,Thanks...,NOT_LABELED,NOT_LABELED
+79,I am a cl in Brain/pituitary and already dealt with 5 other tumors so hoping for benign.,NEUTRAL,EXPERIENCE
+80,Will let you know..,NEUTRAL,NOT_LABELED
+81,Thanks again for the kind words.,NOT_LABELED,NOT_LABELED
+82,Right side came back as invasive grade 2.,NEUTRAL,EXPERIENCE
+83,Waiting for left side results.,NEUTRAL,EXPERIENCE
+84,"Hi, I am so sorry to hear about your diagnosis.",NEGATIVE,OPINION
+85,I know finding out that we have breast cancer is scary and overwhelming but don't be discouraged.,POSITIVE,OPINION
+86,Breast cancer is a treatable disease since new technologies and many advanced treatments are available these days.,NEUTRAL,FACT
+87,Your team of Doctors will plan treatments designed specifically for you and hopefully they will be successful in achieving complete recovery.,POSITIVE,OPINION
+88,Hoping that the biopsy done on your left breast will result in benign findings.,POSITIVE,OPINION
+89,Best wishes!.,POSITIVE,NOT_LABELED
+90,Please let us know if you need anything.,NEUTRAL,FACT
+91,"Zouzi , thank you for giving such wonderful support to rumpled and all your members on the community.",POSITIVE,OPINION
+92,"Your friends at MedHelp, Cheryl.",NOT_LABELED,NOT_LABELED
+93,I am so sorry about your diagnoses.,NEGATIVE,OPINION
+94,"I know how scary it is, and how alone you can feel.",NEGATIVE,OPINION
+95,Please know you are being thought of.,POSITIVE,NOT_LABELED
+96,"Your doctors will come up with a great plan, and you will beat this!",POSITIVE,OPINION
+97,"As I have been told more than once ""Fight Like A Girl!""",POSITIVE,OPINION
+98,Hugs!!!,NOT_LABELED,NOT_LABELED
+99,Thank you Cheryl for your kind acknowledgment.,POSITIVE,NOT_LABELED
+100,It is very appreciated!,NOT_LABELED,NOT_LABELED
+101,":) I really hope ""rumpled"" will be just fine once her treatments start.",POSITIVE,OPINION
+102,The right side is er+ and pr+.,NEUTRAL,EXPERIENCE
+103,HER results pending.,NEUTRAL,FACT
+104,Left side is invasive cancer too...,NEGATIVE,EXPERIENCE
+105,Grade 1 which is better since it sits next to my chest.,POSITIVE,EXPERIENCE
+106,On to a lot of tests to see if it is elsewhere.,NEUTRAL,EXPERIENCE
+107,Really bummed...,NEGATIVE,OPINION
+108,Hi and thank you for the update.,NOT_LABELED,NOT_LABELED
+109,"It's rather unusual to have cancer in both breasts, but unfortunately it can occur and I am really sorry that this happened to you.",NEGATIVE,OPINION
+110,"Even if you are one of the few women to experience cancer bilaterally, the scenario isn't as dire as it sounds.",POSITIVE,OPINION
+111,"Many studies have shown that a woman's prognosis is not necessarily worse if she has breast cancer in both breasts, and that the outcomes in such cases are often excellent.",POSITIVE,FACT
+112,"Although each breast may require a different treatment strategy, the overall treatment for breast cancer in both breasts is no different than for cancer that occurs in just one breast.",NEUTRAL,FACT
+113,"The good thing is that the tumor in your right breast is rather small and is ER/PR positive which will respond well to medication, such as Tamoxifen or other similar drugs to lower considerably the risk of recurrence.",POSITIVE,OPINION
+114,The tumor in your left breast is Grade 1 which is also a good thing.,POSITIVE,OPINION
+115,It's going to be a long journey but don't be disheartened.,POSITIVE,OPINION
+116,"Take one step at a time, follow your Doctor's recommendation and I am sure you'll be able to beat this disease like many of us did.",POSITIVE,OPINION
+117,Wishing you all the best and successful outcome.,POSITIVE,OPINION
+118,Thanks.,NOT_LABELED,NOT_LABELED
+119,Will keep you posted on the other tests...,NEUTRAL,NOT_LABELED
+120,"I have a known lung mass, but benign it is thought.",NEUTRAL,EXPERIENCE
+121,Joy�,NEUTRAL,NOT_LABELED
+122,More testing...,NEGATIVE,EXPERIENCE
+123,More waiting.,NEGATIVE,EXPERIENCE
+124,"The left side is different being er+,pr- and her-.",NEUTRAL,EXPERIENCE
+125,"The right is er+. pr+, her-.",NEUTRAL,EXPERIENCE
+126,I still will get the meds just thought it was strange.,NEUTRAL,EXPERIENCE
+127,So I spent the day making a bunch of pre-op clearance appointments and the gene doc (which will be after).,NEUTRAL,EXPERIENCE
+128,I am opting for the double mastectomy.,NEUTRAL,EXPERIENCE
+129,"I could have done the lumpectomy but with my history and the placement of the tumors, I would have been very lopsided so the double is a better choice and I may avoid radiation which can also be a better choice (I need it elsewhere and trying to avoid as much as I can).",NEUTRAL,OPINION
+130,They are sing if I can get a ct and bone scan before surgery as well.,NEUTRAL,EXPERIENCE
+131,"Hi, ER (Estrogen) and PR (Progesterone) receptor status tests are done to show whether or not one or both of those hormones fuel your tumor.",NEUTRAL,FACT
+132,"Estrogen positive, even if it's weak, medication such as Tamoxifen (or other similar drugs) is usually recommended to lower the risk of recurrence in the same breast and helps prevent new cancer in the opposite breast.",NEUTRAL,FACT
+133,"Cancer that is hormone-sensitive is slightly slower growing and has a better chance of responding to hormone-suppression drugs, than cancer that is hormone receptor negative.",NEUTRAL,FACT
+134,"HER-2/neu negative cancer is also a good thing, because it is considered less aggressive than HER-2 positive.",POSITIVE,FACT
+135,"I am sure that your Doctors will explain all this to you in details, when you'll meet them.",NEUTRAL,OPINION
+136,"Since you have decided on a double mastectomy, I will send you a link by PM.",NEUTRAL,FACT
+137,Wishing you all the best and I hope that everything goes smoothly for you.,POSITIVE,NOT_LABELED
+138,Take care..,NOT_LABELED,NOT_LABELED
+139,i am sorry to hear about your diagnoses.,NEGATIVE,OPINION
+140,"I was diagnosed just a little short of a year ago, and I too opted for a double mastectomy.",NEUTRAL,EXPERIENCE
+141,"Please let me know if I can lend any support, or any answer any questions.",NEUTRAL,NOT_LABELED
+142,Thanks!,NOT_LABELED,NOT_LABELED
+143,"Hi, I imagine you are busy, and at least a bit overwhelmed, with all the tests, appointments, etc., in preparation for your surgery.",NEUTRAL,OPINION
+144,"Here is a link to an old thread that has been helpful to many members and may provide a few useful tips for you as well: Wishing you all the best, bluebutterfly.",NEUTRAL,OPINION
+145,You are more then welcome.,POSITIVE,NOT_LABELED
+146,"I know it seems so overwhelming, but you will get through this, I promise.",POSITIVE,OPINION
+147,"Again, please, feel free to ask anything about my journey.",NEUTRAL,OPINION
+148,I finally got a surgical date: 12/16.,NEUTRAL,FACT
+149,"If all goes well I will have a diep, but not sure as I have had so many abdominal surgeries.",NEUTRAL,FACT
+150,May be a tug (thigh).,NEUTRAL,OPINION
+151,Thanks for the tips!,NOT_LABELED,NOT_LABELED
+152,"Hi, Excellent decision!",POSITIVE,NOT_LABELED
+153,Please make sure (As suggested by Sue Young in the PM I sent you) that this is a specialized surgery and should be performed by experienced plastic surgeons who have done numerous Diep Reconstruction Surgeries.,NEUTRAL,OPINION
+154,I hope all goes well for you and I am sure everything will.,POSITIVE,NOT_LABELED
+155,Best of luck to you!! :),POSITIVE,NOT_LABELED
+156,I am glad you have a surgery date.,POSITIVE,OPINION
+157,"I didn't have that option, but have seen great results from it.",POSITIVE,EXPERIENCE
+158,One day and step at a time.,POSITIVE,OPINION
+159,I know how it feels like a lifetime until surgery.,NEGATIVE,EXPERIENCE
+160,"If you need support, leading up to, and after surgery please know we are here for you.",POSITIVE,OPINION
+161,Waiting is the worst...,NEGATIVE,OPINION
+162,The surgeons (three of them) are skilled in minor surgery and have done many diep and tram surgeries so I feel I am in good hands.,POSITIVE,OPINION
+163,"I am trying to prepare ahead of time, but still feeling stressed.",NEGATIVE,EXPERIENCE
+164,"Yes I know�the waiting is very stressful, but try not to get discouraged!",POSITIVE,OPINION
+165,"Please remember that ""Positive thinking leads to positive outcomes"" The important thing here is that you have found Doctors who are very experienced with this type of surgery, and especially knowing that you are in good hands.",POSITIVE,OPINION
+166,I am sure you'll be just fine and these difficult times will be over sooner than you think!,POSITIVE,OPINION
+167,I wish you well! God Bless!,POSITIVE,NOT_LABELED
+168,Hello!,NOT_LABELED,NOT_LABELED
+169,Just an update.,NOT_LABELED,NOT_LABELED
+170,Doing my pre-op appointments.,NEUTRAL,FACT
+171,For sure I am getting the DIEP which is nice.,POSITIVE,OPINION
+172,There was a question because I had so many surgeries.,NEUTRAL,FACT
+173,My lung function has improved so that should not be an issue.,POSITIVE,EXPERIENCE
+174,"I only have my blood tests to go but given that I have those all the time, I don't have an fear that those will have an issue.",POSITIVE,EXPERIENCE
+175,"My ekg was fine (except for the lady ripping off the stickers and leaving me bruises, why won't they listen!!!",POSITIVE,EXPERIENCE
+176,"I am even more nervous as the day gets closer about how to manage post op, and just hoping I won't need chemo.",NEGATIVE,EXPERIENCE
+177,"I know these are small, but every surgery so far things have turned out to be different (i.e. Larger) than imaging showed so just hope this history does not continue.",NEGATIVE,EXPERIENCE
+178,I have no idea as well how I am going to manage my one cat who is very attached to me...,NEUTRAL,FACT
+179,He is going to be a mess with a restriction of not being able to be with me during the day and will body slam the door.,NEGATIVE,FACT
+180,I am hoping I can keep him calm somehow!,NEUTRAL,OPINION
+181,"Hi there, Thank you for the update and I am glad to know that all the tests you have had so far, are fine and that you'll have DIEP breast reconstruction.",POSITIVE,OPINION
+182,Excellent choice!,NOT_LABELED,NOT_LABELED
+183,"It's understandable that you are feeling nervous right now!but as soon as things get rolling, all will go well and you'll feel much better.",POSITIVE,OPINION
+184,"I also hope you won't need chemo!we know it's not easy to go through this therapy, but if Oncologists recommended it, it's very important to follow their advice because it does save lives.",POSITIVE,OPINION
+185,"I hope you have read Sue Young's info about post-op care that I sent you a few weeks ago (Link below) When you are well prepared and know what to expect, I am sure your recovery will be quicker than you think.",POSITIVE,OPINION
+186,I'll be thinking and praying for you on the 14th and hoping that all goes well for you.,POSITIVE,NOT_LABELED
+187,Best wishes and GOOD LUCK!!,POSITIVE,NOT_LABELED
+188,:),NOT_LABELED,NOT_LABELED
+189,"Yes I read everything and have prepared, I hope, well ahead of time.",POSITIVE,EXPERIENCE
+190,Thanks!,NOT_LABELED,NOT_LABELED
+191,I am so sorry to hear about your diagnosis.,NEGATIVE,OPINION
+192,Thinking of you as you prepare for your surgery...,NEUTRAL,FACT
+193,"At least you have a good idea of what to expect, after reading Sue Young'sexcellent post about preparing for bilateral mastectomy (the link for which I providedin my 10/17/15 comment, above).",POSITIVE,OPINION
+194,"I certainly understand your nervousness; it's a lot to deal with, right down to ""pet parent"" concerns.",NEUTRAL,OPINION
+195,"(Do you have someone who can help ""babysit"" your one cat, to try to keep him calm until things are back to normal?)",NEUTRAL,OPINION
+196,I'm glad to hear you will be able to have the DIEP reconstruction!,POSITIVE,OPINION
+197,Know that many thoughts and prayers will be with you.,NEUTRAL,OPINION
+198,"Hugs, bluebutterfly.",NOT_LABELED,NOT_LABELED
+199,I wish we did have a cat sitter but alas he has had a lot of urinary issues and my only option would be to put him down as he is not a cat I can foster out due to his special needs.,NEGATIVE,EXPERIENCE
+200,His sister is calm.,POSITIVE,OPINION
+201,I did get come essential oils and put them around and he was calm for a day...,POSITIVE,EXPERIENCE
+202,Today he is picking up on my nerves and is a whiny mess...,NEGATIVE,EXPERIENCE
+203,:/ I am just hoping we can work around him.,NEUTRAL,OPINION
+204,"Hi again, Actually, I meant would someone be staying with you at first who might be able to calm him at least a little when he wants to be in your room and can't be.",NEUTRAL,OPINION
+205,Was it your doctor who said he can't be with you?,NEUTRAL,FACT
+206,For how long?,NOT_LABELED,NOT_LABELED
+207,"By the way, by my comments I don't mean to suggest you haven't already thought of every possible thing, esp.knowing your pet so well.",NEUTRAL,OPINION
+208,I just hate to think of your having to worry a lot about him at the same time you are going through everything .,NEGATIVE,OPINION
+209,":-( I know a bit about the additional stress pet concerns can cause, because at one point when my husband was vey sick, I had to put our dog  in our Vet's hospital for a while.",NEGATIVE,EXPERIENCE
+210,They had wire cages with a tray a few inches below to catch everything when no one was there to take him out as often as usual.,NEGATIVE,EXPERIENCE
+211,"He was old and had never been away from us, so we were worried about him, but they said he adjusted okay, and he didn't seem traumatized when he came home.",NEUTRAL,EXPERIENCE
+212,I'll be thinking of you next week.,NEUTRAL,NOT_LABELED
+213,Please let us know how you're doing once you're feeling well enough.,NEUTRAL,NOT_LABELED
+214,bb.,NOT_LABELED,NOT_LABELED
+215,I am popping in today.,NEUTRAL,EXPERIENCE
+216,I am thankfully Stage I. I get my oncotyping on Friday.,POSITIVE,EXPERIENCE
+217,"I am having tons of post op complications like an infected drain, so that was popped out, then I got an abscess, another drain put in and I got cellulitis on the other side.",NEGATIVE,EXPERIENCE
+218,My belly was rock hard and bright red.,NEGATIVE,EXPERIENCE
+219,It is still part hard and red still.,NEGATIVE,EXPERIENCE
+220,The up and down fevers are driving me nuts.,NEGATIVE,EXPERIENCE
+221,"I am hot, cold, hot, cold.",NEUTRAL,EXPERIENCE
+222,The cat was for the most part good.,POSITIVE,EXPERIENCE
+223,"He was calm when I came home and while he wanted to be with me, he was patient to a point..",POSITIVE,EXPERIENCE
+224,"by the time he did jump up on me, I was ready, although he did get me once when I was sleeping.",NEUTRAL,EXPERIENCE
+225,"Once he got the hang of it though, it has been good.",POSITIVE,EXPERIENCE
+226,Hi and thank you for the update.,NOT_LABELED,NOT_LABELED
+227,I've been thinking of you often and wondered how you were doing.,NEUTRAL,NOT_LABELED
+228,"I am happy that your tumor is stage one, but sorry to know that you experienced a few complication after your surgery.",NEUTRAL,OPINION
+229,I hope that you are doing better now and hopefully medication will take care of the infection and fever soon.,NEUTRAL,OPINION
+230,I also hope that your Oncotype test will be low ( 18 or less) indicating that there is a much lower chance that the breast cancer will return and most probably chemotherapy won't be necessary.,POSITIVE,OPINION
+231,P.S. Your cat seemed to discern that you were not feeling your best and he is indeed a very good pet!,POSITIVE,OPINION
+232,:),NOT_LABELED,NOT_LABELED
+233,"Hi I just did a follow up ultra sound, on a lump that my radiologist had been following for a year and a half.",NEUTRAL,EXPERIENCE
+234,My results said that it grew and changed from 5mm to 9mm diagnoses bi raids 4 so i had the biopsy doctor calls and said that tissues are benign.,NEUTRAL,EXPERIENCE
+235,Then he proceeds to tell me that i have a intraductal papilloma 9mm.,NEUTRAL,EXPERIENCE
+236,"he then stated that i need and excisional biopsy time to see a breast surgent, during the conversation he stated that it is very rare that these are cancer only a 5% chance.",NEUTRAL,EXPERIENCE
+237,So my questions is can i leave this alone i prefer to just follow it?,NEUTRAL,FACT
+238,If i left it in and it did turn to cancer what could the outcome be how dangerous could it get even if i am being followed.,NEUTRAL,FACT
+239,I again would prefer to just leave it alone.,NEUTRAL,OPINION
+240,Thank you.,NOT_LABELED,NOT_LABELED
+241,I would NOT just leave it alone and I can't imagine why anyone would choose to do this.,NEGATIVE,OPINION
+242,5% may not seem much of a chance to you but even a 1% chance would send me to a Breast Surgeon immediately.,NEUTRAL,OPINION
+243,You can do whatever you feel comfortable with but since there has been growth give it some more thought before you decide to ignore this condition.,NEGATIVE,OPINION
+244,Even if you do see a Breast Surgeon there is a chance that he/she may agree with waiting and doing close interval testing and the choice will still be yours and yours alone.,NEUTRAL,OPINION
+245,"Please at least see the Surgeon, OK ??",NOT_LABELED,NOT_LABELED
+246,Regards .....,NOT_LABELED,NOT_LABELED
+247,Hi thank you for your feed back.,POSITIVE,NOT_LABELED
+248,I am seeing a breast sergeant on Thursday DEC 3ird.,NEUTRAL,FACT
+249,I have also schedule a appointment for a second opinion in January of 2016.,NEUTRAL,FACT
+250,"Please know that i am concerned and do not take this lightly, but for me i have had so many scares and they have thank goodness all come back benign.",POSITIVE,EXPERIENCE
+251,It is scary but for me i feel maybe it would just be better to follow this and see if there is a change.,NEGATIVE,OPINION
+252,I will post more on Thursday when i have the results.,NOT_LABELED,NOT_LABELED
+253,Regards.....,NOT_LABELED,NOT_LABELED
+254,Great to hear that you are going to keep seeking a definite answer.,POSITIVE,OPINION
+255,I'm all for second opinions and I believe that a person should keep seeking information until they are comfortable with all the answers.,NEUTRAL,OPINION
+256,"When I hear ""don't worry about it"" I always want to know ""WHY"" I shouldn't worry :) Always appreciate follow-ups .... Thanks.",NEUTRAL,OPINION
+257,"I think you made the right choice, for sure!",POSITIVE,OPINION
+258,Better safe then sorry!,POSITIVE,OPINION
+259,Thinking of you!,NOT_LABELED,NOT_LABELED
+260,I was initially diagnosed with intraductal papilloma (after a biopsy came back negative for cancer).,NEUTRAL,EXPERIENCE
+261,I had this removed.,NEUTRAL,EXPERIENCE
+262,My pathology results came back with DCIS.,NEUTRAL,EXPERIENCE
+263,I've since had a recurrence.,NEUTRAL,EXPERIENCE
+264,There is some debate about whether mammograms and surgery actually spread the disease.,NEUTRAL,FACT
+265,Cancer if left untreated can be extremely dangerous and even fatal.,NEGATIVE,OPINION
+266,I don't necessarily think that conventional medicine has all the answers.,NEGATIVE,OPINION
+267,Some people have had really amazing results with lifestyle medicine.,POSITIVE,OPINION
+268,You need to do what feels right to you.,NEUTRAL,OPINION
+269,Intuition is a valuable tool.,NEUTRAL,OPINION
+270,Good luck with whatever you decide.,POSITIVE,NOT_LABELED
+271,Thank you!,NOT_LABELED,NOT_LABELED
+272,"Hi Thank you for all your feed back, I spoke with the breast Sergent on Thursday and asked a lot questions.",NEUTRAL,EXPERIENCE
+273,The doctor i thought was so supportive she answered all my questions and then some.,POSITIVE,EXPERIENCE
+274,When asked she told me she has recently had a patient whose papilloma results cancer.,NEUTRAL,EXPERIENCE
+275,According to the new statistics 20 to 30%chance intraductal papilloma being cancer.,NEUTRAL,FACT
+276,"numbers increased great, I still have a second opinion in January, Do to the biopsy i have a 3cm hematoma and i am very bruised the radiologist change his plan and did a vacuum core biopsy instead of just a core biopsy, which is fine.",NEUTRAL,EXPERIENCE
+277,The doctor told me if i choose to do the extensional she would have to wait for the hematoma to dissipate as they would not be able to get to the area.,NEUTRAL,EXPERIENCE
+278,"And if i choose to be followed she would follow me every three months twice and then move to 6 months, I left telling her i would be in touch.",NEUTRAL,EXPERIENCE
+279,I am confused now but i will wait for my second opinion appointment do research shop for the holidays and pray that i make the right decision in the end.,NEGATIVE,EXPERIENCE
+280,Scared!!!,NEGATIVE,EXPERIENCE
+281,It sounds as though you have found a GREAT Surgeon who has exactly the right information and caring that you need.,POSITIVE,OPINION
+282,The follow-up plan seems very appropriate and I would be comfortable with that myself.,POSITIVE,OPINION
+283,I do think it wise to go ahead with the second opinion to further clear things in your mind.,POSITIVE,OPINION
+284,The hematoma issue isn't at all unusual in such circumstances with biopsies but it can complicate the situation.,NEUTRAL,OPINION
+285,Remember that the decision you make today or 3 months from now won't necessarily change the outcome.,NEUTRAL,OPINION
+286,"Even though papilloma can be cancer, if there is only one they are usually watched for a period of time.",NEUTRAL,FACT
+287,"You're on the right track but try not to confuse yourself by doing TOO much research as no 2 cases are the same and you can't depend too much on percentages, they are too general.",NEUTRAL,OPINION
+288,Take care and stay busy .... NO negative thinking !!,NEUTRAL,OPINION
+289,"Hi I went for my second opinion, Not sure what to make of the appointment though.",NEUTRAL,EXPERIENCE
+290,"This doctor is a top breast Sergent in my area, She actually did my first breast surgery in 2008.",POSITIVE,EXPERIENCE
+291,"When i saw her i felt like she was a little pushy, She said to me it grew and surgery was the best route even though i do not have any of the symptoms and the biopsy came back benign.",NEUTRAL,EXPERIENCE
+292,She quoted to me (Pathology report too consider excision).,NEUTRAL,EXPERIENCE
+293,"When i ask questions i felt like she thought i was stupid and she did not want to answer questions she cut me off, proceeded to tell me two options surgery or follow every six months.",NEGATIVE,EXPERIENCE
+294,My question which i think is important does anyone know?,NEUTRAL,OPINION
+295,Are there any studies of women who were follow with intraductal papilloma what is the long term out come.,NEUTRAL,FACT
+296,That's too bad that you had a less than comfortable experience with the Breast Surgeon; perhaps she was having a bad day ????,NEGATIVE,OPINION
+297,At this point since the chance of a single papilloma being malignant is rather small you might as well follow it for the recommended 6 months.,NEUTRAL,OPINION
+298,This all began the last of November and you should count the 6 months from that date and see what is recommended at your next check-up which would be in the Spring.,NEUTRAL,OPINION
+299,If at that time it is determined to be benign then it can be left alone.,NEUTRAL,OPINION
+300,"On the other hand if you are ""done"" with all the re-checks and possible biopsies then have it removed and over with.",NEUTRAL,OPINION
+301,It all comes down to what you are comfortable with.,NEUTRAL,OPINION
+302,I would make my appointment now for the 6 month check-up if that's the way you intend to go so there will be no waiting when the time actually arrives.,NEUTRAL,OPINION
+303,Regards ....,NOT_LABELED,NOT_LABELED
+304,Hi doctor is going to do a lumpectomy on the 23ird of February.,NEUTRAL,FACT
+305,"I did a lot of hard thinking research and reading decided it is too much stress, and i ask my self would i have any regrets with my decision if it changed.",NEUTRAL,EXPERIENCE
+306,Surgery is better way to go.,POSITIVE,OPINION
+307,My radiologist stated excision but my doctor is doing a wired lumpectomy is this normal procedure and what is the difference between the 2 surgery's I have done a little reading but still a little confused.,NEUTRAL,EXPERIENCE
+308,I am nerves about the surgery but more then anything I have a fear of being put to sleep!,NEGATIVE,EXPERIENCE
+309,I know I will be fine but still a little scary.,NEGATIVE,OPINION
+310,Thank you!,NOT_LABELED,NOT_LABELED
+311,I really don't see any difference in the two.,NEUTRAL,OPINION
+312,The area is being removed either way.,NEUTRAL,FACT
+313,It seems to me that this is just the use of different terminology.,NEUTRAL,OPINION
+314,Best wishes for a speedy recovery .....,POSITIVE,NOT_LABELED
+315,Sending healing thoughts your way.,POSITIVE,NOT_LABELED
+316,Having it removed will give you peace of mind.,POSITIVE,OPINION
+317,Please let us know how you're doing.,NOT_LABELED,NOT_LABELED
+318,Hi so the surgery went well The doctor got everything.,POSITIVE,EXPERIENCE
+319,"Now three days later getting back to my self pain is not to bad,  I have been taking Tylenol.",POSITIVE,EXPERIENCE
+320,Still waiting on the results.,NEUTRAL,EXPERIENCE
+321,Do i really have to wait three weeks before i can get fully back into normal daily activity's?,NEUTRAL,FACT
+322,"That does seem rather a long time but it depends upon exactly what your normal activity consists of, like strenuous exercise which would not be wise or several other things that would put undue strain on muscles, etc.",NEUTRAL,OPINION
+323,I would increase your activities very gradually but NEVER go against the advice of the Surgeon.,NEUTRAL,OPINION
+324,Complete healing of the tissues does take quite some time and you certainly would not want to delay that.,NEUTRAL,OPINION
+325,I'm glad to hear the things went well and hope for GREAT news when the reports come in.,POSITIVE,OPINION
+326,Do take it easy though.... Regards.,NEUTRAL,NOT_LABELED
+327,"When I went in for my mammogram, I was told that my benign scattered calcifications that I had for the last 2 years were misread and are actually fine, linear calcifications, but because they were stable for 2 years they told me to come back in 6 months.",NEUTRAL,EXPERIENCE
+328,They gave me a BI RADS 3.,NEUTRAL,EXPERIENCE
+329,"When I got my report, my breast density was reported as extremely dense.",NEUTRAL,EXPERIENCE
+330,I have always had heterogeneously dense breasts.,NEUTRAL,EXPERIENCE
+331,I have since done a lot of googling and cannot understand why they wouldn't biopsy.,NEGATIVE,EXPERIENCE
+332,I have found out that DCIS can be stable for a while and that the morphology is more important than the stability over time.,NEUTRAL,FACT
+333,Why would they wait!,NEGATIVE,OPINION
+334,I am so scared!,NEGATIVE,OPINION
+335,Do they know what they are doing?,NEGATIVE,FACT
+336,Thoughts please?,NOT_LABELED,NOT_LABELED
+337,Hi.Experienced Radiologists are quite able to identify typically benign breast calcifications depending on their form and pattern.,NEUTRAL,FACT
+338,If no suspicion is detected a biopsy is not required to prevent unnecessary procedures.,NEUTRAL,FACT
+339,"BIRADS Category 3, means that the findings have a very high probability of being benign, therefore recommending a short-interval follow-up.",NEUTRAL,FACT
+340,"I wouldn't worry so much if I were you, because what your radiologist has recommended is standard procedure.",NEUTRAL,OPINION
+341,"If these calcification were suspicious in any way, I am sure a biopsy would have certainly been ordered.",NEUTRAL,OPINION
+342,But of course this is up to you to decide!.,NEUTRAL,OPINION
+343,"if you still feel uncomfortable waiting six months for a follow up, you could always have your films read by another Radiologist for a second opinion, or ask your Doctor to order a biopsy.",NEUTRAL,OPINION
+344,Best wishes...,NOT_LABELED,NOT_LABELED
+345,Thank you for your answer.,NEUTRAL,NOT_LABELED
+346,I don't understand why I have to have a mammogram in 6 months.,NEGATIVE,OPINION
+347,Why can't I just get one in 1 year?,NEUTRAL,OPINION
+348,I don't think BI RADS 3 is very useful to have to spend the extra money to watch something that is benign.,NEGATIVE,OPINION
+349,When will I ever go back to once a year mammograms?,NEUTRAL,FACT
+350,"Hi again, You have been asked to have these calcification monitored every 6 month simply because when the radiologist assigns calcifications to a ""probably benign"" category, the risk of malignancy even if very low ( less than 2%) can change unexpectedly.",NEUTRAL,FACT
+351,Typically these calcifications will be monitored every six months for at least one year.,NEUTRAL,FACT
+352,"Assuming that no new changes are found, your doctor will recommend you have a routine mammogram once a year.",NEUTRAL,FACT
+353,"I hope that you'll follow your doctor's recommendation to make sure there is no change in the size, shape or number of calcifications.",NEUTRAL,OPINION
+354,Take care..,NOT_LABELED,NOT_LABELED
+355,My calcifications have already been stable for over 2 years.,POSITIVE,EXPERIENCE
+356,"Can you show me any resource that says if a radiologist sees fine, linear calcifications to ""wait and see"" for six months?",NEUTRAL,FACT
+357,"If they want them stable for a year, I have been stable for more than 2 years.",POSITIVE,FACT
+358,"I have not seen 1 resource where it is recommended that fine, linear calcifications be put in the BI RADS 3 or 2 categories.",NEUTRAL,OPINION
+359,"My mammograms have all been the same, the only difference is that the radiologists have misread them.",NEGATIVE,EXPERIENCE
+360,Thank you.,NOT_LABELED,NOT_LABELED
+361,"If the calcifications can change unexpectedly, then is the risk still less than 2%?",NEUTRAL,FACT
+362,"If they haven't changed in 2 years, what is the risk they will change in 2 1/2 years, 3 years, ect...",NEUTRAL,FACT
+363,I really cannot say why your Radiologist asked you to follow-up in 6 months since your calcifications have been stable for 2 years.,NEUTRAL,FACT
+364,Linear calcification is not always indicative of malignancy.,NEUTRAL,FACT
+365,The suspicion is raised only when they are clustered and appear to form several branches.,NEUTRAL,FACT
+366,"When they are linear but detached, such as probably yours are, it's usually not worrisome but they have to be monitored regularly.",NEUTRAL,FACT
+367,"I wish I could give you more information about the things you are requesting here, but the only advice I can give you is to have your Mammogram films read by a different Radiologist for a second opinion and also to have your test report explained to you in details by your Doctor who is your best source of information.",NEUTRAL,OPINION
+368,I wish you well...,NOT_LABELED,NOT_LABELED
+369,Thank you zouzi for the information.,NOT_LABELED,NOT_LABELED
+370,"I don't understand if they are not worrisome, why watch them?",NEUTRAL,OPINION
+371,It seems like a waste of resources.,NEGATIVE,OPINION
+372,What benign condition is linear but detached calcifications?,NEUTRAL,FACT
+373,You are welcome.,NOT_LABELED,NOT_LABELED
+374,I don't know what else to tell you ..,NOT_LABELED,NOT_LABELED
+375,"I don't know what else to tell you .. except that monitoring closely ""probably benign"" calcification is standard procedure and in my opinion it's not a waste of resources if we want to make sure that our breasts are healthy and stay healthy.",NEUTRAL,OPINION
+376,"If you are terribly worried about these calcifications, please take my advice and seek a second opinion from a different radiologist who might recommend a biopsy (if necessary) so you can have peace of mind.",NEUTRAL,OPINION
+377,It appears from the many posts on this forum regarding incisions opening after lumpectomies that it must be pretty common.,NEUTRAL,FACT
+378,I had a lumpectomy on March 12.,NEUTRAL,EXPERIENCE
+379,"Two weeks later, it opened overnight.",NEGATIVE,EXPERIENCE
+380,In the morn it was oozing & bleeding.,NEGATIVE,EXPERIENCE
+381,"I returned to the surgeon, who said it was infected.",NEGATIVE,EXPERIENCE
+382,I was given antibiotics.,NEUTRAL,EXPERIENCE
+383,"My oncologist looked at it a week later and said it was no longer infected, but to return to the surgeon if it looked like it wasn't healing.",NEUTRAL,EXPERIENCE
+384,"Part of the incision is slowly healing, but a new section opened and is bleeding slightly.",NEUTRAL,EXPERIENCE
+385,I keep it covered with gauze to keep it clean.,NEUTRAL,EXPERIENCE
+386,How long shoud I give this to heal?,NEUTRAL,FACT
+387,I had an infection post surgery and it took four weeks to heal completely.,NEGATIVE,EXPERIENCE
+388,My wound was deep and had to be packed.,NEUTRAL,EXPERIENCE
+389,Wounds heal from the bottom up.,NEUTRAL,EXPERIENCE
+390,Healing seemed to be very slow but then it just went.,NEUTRAL,EXPERIENCE
+391,Actually it was a bit longer.,NEUTRAL,EXPERIENCE
+392,My incision burst on the 24th December (following surgery on the 19th Dec) and it was fully healed by the 5th Feb.,NEUTRAL,EXPERIENCE
+393,I hope yours is OK and that everything goes well for you.,NEUTRAL,NOT_LABELED
+394,Just be patient.,NEUTRAL,OPINION
+395,Time frames are different for everyone.,NEUTRAL,FACT
+396,If you have any concerns make sure you get them checked out.,NEUTRAL,OPINION
+397,J.,NOT_LABELED,NOT_LABELED
+398,Thanks.,NOT_LABELED,NOT_LABELED
+399,I didn't expect this to happen at all with the healing of the incision.,NEUTRAL,OPINION
+400,My surgeon did not seem concerned.,POSITIVE,EXPERIENCE
+401,He surely sees it all the time.,NEUTRAL,OPINION
+402,It's good to be reassured.,POSITIVE,OPINION
+403,I am so glad to have this site with all who care so much about one another.,POSITIVE,OPINION
+404,So it's been about a month or so since the wound opened.,NEUTRAL,EXPERIENCE
+405,That part seems to be healing.,POSITIVE,EXPERIENCE
+406,"There is another section that after all this time, that decided to open the other day.",NEGATIVE,EXPERIENCE
+407,It's small and bleeding just a little.,NEUTRAL,EXPERIENCE
+408,I'll give it some more time.,NEUTRAL,FACT
+409,Thank you again and I hope everything is ok with you now.,POSITIVE,NOT_LABELED
+410,I didn't either.,NOT_LABELED,NOT_LABELED
+411,Personally I didn't expect to get an infection and definitely didn't anticipate needing district nursing input.,NEGATIVE,OPINION
+412,"Perhaps I took recovery for granted as I healed really well, and quickly, after having a duct out during a previous operation.",NEUTRAL,EXPERIENCE
+413,It is good if a surgeon doesn't seem concerned -I think.,POSITIVE,OPINION
+414,Bleeding is a good sign as it denotes healthy tissue.,POSITIVE,FACT
+415,Too much bleeding is not though.,NEGATIVE,FACT
+416,"I've really benefited from this site and the support, advice and information too.",POSITIVE,OPINION
+417,It's been invaluable.,POSITIVE,OPINION
+418,I expect that section too will heal.,POSITIVE,OPINION
+419,"I think it's normal for us to become anxious, etc during our recoveries.",NEUTRAL,OPINION
+420,This is all new to us and we're learning about ourselves and our bodies during this process.,NEUTRAL,OPINION
+421,I had stitches poke through my skin too.,NEUTRAL,EXPERIENCE
+422,Just when I thought I'd healed I found this thing on my breast.,NEUTRAL,EXPERIENCE
+423,I was scared it had become infected again but it was only a mushy little stitch which I pulled out myself.,NEUTRAL,EXPERIENCE
+424,(The stitch was redundant anyhow as the surgical registrar had cut it to insert a drain for the infection).,NEUTRAL,EXPERIENCE
+425,You're welcome.,NOT_LABELED,NOT_LABELED
+426,I'm fine.,POSITIVE,NOT_LABELED
+427,I've just finished radiation treatment and are getting over residual fatigue.,NEGATIVE,EXPERIENCE
+428,Just be vigilant about your breast (without making it worse) and discuss any concerns you have with your doctor.,NEUTRAL,OPINION
+429,J.,NOT_LABELED,NOT_LABELED
+430,"A related discussion,  was started.",NOT_LABELED,NOT_LABELED
+431,Hello.,NOT_LABELED,NOT_LABELED
+432,I am having the same problem.,NEUTRAL,EXPERIENCE
+433,My wound is still open after 5 weeks.,NEUTRAL,EXPERIENCE
+434,I have to and see surgeon on Monday and likely have it packed and changed daily she said.,NEUTRAL,EXPERIENCE
+435,This *****!!!,NOT_LABELED,NOT_LABELED
+436,My radiation has been delayed by several weeks they said until healed.,NEGATIVE,EXPERIENCE
+437,"My question is, does it hurt to have packing.",NEUTRAL,FACT
+438,I have never had it before and am a little overwhelmed.,NEGATIVE,EXPERIENCE
+439,This is a very old thread.,NEUTRAL,FACT
+440,I would suggest you start your own new thread.,NEUTRAL,OPINION
+441,"If you describe the details of your situation and ask your questions there, you will be more likely to get answers addressed specifically to you and your concerns.",NEUTRAL,OPINION
+442,Best wishes.,NOT_LABELED,NOT_LABELED
+443,Radiation does delay healing so that's why you are being delayed for that part of your treatment.,NEUTRAL,FACT
+444,"As far as the packing is concerned, if the area isn't painful at the present then I doubt that it will be terribly uncomfortable.",POSITIVE,OPINION
+445,I have had a couple of areas that required packing and I had no pain but it was not in the same area as yours.,NEUTRAL,EXPERIENCE
+446,The amount of discomfort with the packing and removing it daily would also depend on the depth of the wound.,NEUTRAL,FACT
+447,Here's hoping it will be effective and not cause you very much discomfort.,NEUTRAL,OPINION
+448,"Hang in there, these things do happen now and then but they can be overcome with a little extra time.",NEUTRAL,OPINION
+449,Kindest regards ....,NOT_LABELED,NOT_LABELED
+450,I had a 3D mammo because of a large mass in my right breast.,NEUTRAL,EXPERIENCE
+451,I was told a 3D is much more accurate than a standard mammo.,POSITIVE,EXPERIENCE
+452,Nobody would tell me the result of this but now they say I need an ultrasound.,NEUTRAL,EXPERIENCE
+453,If the 3D is so accurate why would they need an ultrasound?,NEUTRAL,FACT
+454,"That means cancer,right?",NEGATIVE,OPINION
+455,Nobody willtellme anything and I amso scared.,NEGATIVE,OPINION
+456,I am so sorry you aren't getting clear answers.,NEGATIVE,OPINION
+457,My doctor pretty much told me from me 2nd mammo (6 month follow up) and u/s that they believed I had cancer.,NEUTRAL,EXPERIENCE
+458,And another told me the same thing before my biopsy.,NEUTRAL,EXPERIENCE
+459,"I believe there is a truth in the saying ""No news is good news"".",NEUTRAL,OPINION
+460,"I know it's hard, and nerve wracking, and Damn Scary!",NEGATIVE,OPINION
+461,"But, you can handle this!",POSITIVE,OPINION
+462,Maybe take a family member or friend with you to your appts to take notes.,NEUTRAL,OPINION
+463,That's what I did.,NEUTRAL,EXPERIENCE
+464,"And seriously, I would read the notes taken the next day and not remember 3/4 of what was written, or I would remember things completely different then what was actually said.",NEUTRAL,EXPERIENCE
+465,Your head is spinning...,NEGATIVE,EXPERIENCE
+466,you are scared!,NEGATIVE,EXPERIENCE
+467,I hope you get answers soon!!!,NEUTRAL,OPINION
+468,Hang in there!,POSITIVE,NOT_LABELED
+469,I believe I addressed your concerns in my response to your post of July 14th.,NEUTRAL,OPINION
+470,At that time I mentioned that Mammogram and Ultrasound were sometimes necessary to determine the nature of any finding in the breast.,NEUTRAL,FACT
+471,You need to speak to your Dr. for answers regarding your concerns and I believe I advised this also in my previous response.,NEUTRAL,OPINION
+472,You evidently have been told quite a lot here as well as from your Dr. and the Radiologist that read your films.,NEUTRAL,OPINION
+473,"Please speak to the Dr.,or his/her Nurse who ordered your tests.",NEUTRAL,OPINION
+474,They have all your information and know the answers and will be more than happy to explain things to you.,NEUTRAL,OPINION
+475,As I stated before Cancer cannot be determined until a biopsy is done so be patient and take things one step at a time and ASK questions of the Professionals who are treating you.,NEUTRAL,OPINION
+476,Kindest regards ....,NOT_LABELED,NOT_LABELED
+477,"I am terrified and confused and cannot remember the many,many things I have been told in the last few days and that includes posts here.",NEGATIVE,EXPERIENCE
+478,"But you are wrong -- no one has been ""more than happy"" to explain things.",NEGATIVE,EXPERIENCE
+479,"The medical professionals have not been forthcoming, they have been elusive and reluctant which leads me to believe they are hiding something very bad.",NEGATIVE,EXPERIENCE
+480,I'm sorry but there is no way that we or your Dr.s can make you remember what you have been told about these circumstances.,NEUTRAL,OPINION
+481,Perhaps you could ask you family Dr. for some type of medication that would help in calming these fears that you seem to have about cancer.,NEUTRAL,OPINION
+482,I will try one more time to assure you that the Dr.s certainly are NOT trying to hide anything from you ...,NEUTRAL,OPINION
+483,why in world would they do that ??,NEUTRAL,FACT
+484,For the third time I will say that there are no answers until all your tests have been completed and only a biopsy can diagnose cancer .... not size nor how something looks on film.,NEUTRAL,OPINION
+485,It also might help if you would call your Dr..s office and ask for a copy of the reports on the tests that have been done so far.,NEUTRAL,OPINION
+486,"At the bottom of the page there is always an ""opinion"" as well as some recommendation as to what should be done next.",NEUTRAL,FACT
+487,"I would also like to ask if in the future you have more questions, you would add them to the same post so that all your information is together.",NEUTRAL,FACT
+488,It makes it much easier for us to get the compete picture and would even be a help to you to be able to read what you have ask as well as our answers since you say you have trouble remembering what you're being told.,NEUTRAL,FACT
+489,Call you Dr. .... ask the Nurse ...,NEUTRAL,OPINION
+490,read the reports or better yet have them read and explained to you but don't expect answers before there are answers.,NEUTRAL,OPINION
+491,Every test that is done has a different purpose and they are always used in combination to get an accurate conclusion.,NEUTRAL,FACT
+492,Regards .....,NOT_LABELED,NOT_LABELED
+493,I am so sorry you aren't getting clear answers.,NEGATIVE,OPINION
+494,My doctor pretty much told me from me 2nd mammo (6 month follow up) and u/s that they believed I had cancer.,NEUTRAL,EXPERIENCE
+495,And another told me the same thing before my biopsy.,NEUTRAL,EXPERIENCE
+496,"I believe there is a truth in the saying ""No news is good news"".",NEUTRAL,OPINION
+497,"I know it's hard, and nerve wracking, and Damn Scary!",NEGATIVE,OPINION
+498,"But, you can handle this!",POSITIVE,OPINION
+499,Maybe take a family member or friend with you to your appts to take notes.,NEUTRAL,OPINION
+500,That's what I did.,NEUTRAL,EXPERIENCE
+501,"And seriously, I would read the notes taken the next day and not remember 3/4 of what was written, or I would remember things completely different then what was actually said.",NEUTRAL,EXPERIENCE
+502,Your head is spinning...,NEGATIVE,EXPERIENCE
+503,you are scared!,NEGATIVE,EXPERIENCE
+504,I hope you get answers soon!!!,NEUTRAL,OPINION
+505,Hang in there!,POSITIVE,NOT_LABELED
+506,Checking to see if you have had your ultrasound yet??,NEUTRAL,FACT
+507,"After a clear mammogram and ultrasound, I was sent for an Mri because of family history.",NEUTRAL,EXPERIENCE
+508,A suspicious 1cm mass popped and now I need a biopsy.,NEGATIVE,EXPERIENCE
+509,Should I be terrified?,NEGATIVE,OPINION
+510,Too late�I am..help.,NEGATIVE,OPINION
+511,This discussion is related to.,NEUTRAL,NOT_LABELED
+512,I see no reason to panic at this point.,NEUTRAL,OPINION
+513,MRI is a much more sensitive type of test and can often show things that other tests do not.,NEUTRAL,FACT
+514,A biopsy of course is the only sure way to diagnose what this mass represents.,NEUTRAL,FACT
+515,It could be a Fibroadenoma which is a benign breast tumor.,NEUTRAL,OPINION
+516,I would be surprised that a mass of this size representing cancer would not have shown up on either the Mammogram or Ultrasound.,NEUTRAL,OPINION
+517,Proceed with the recommended biopsy which will define more accurately what you're dealing with.,NEUTRAL,OPINION
+518,Being terrified never helps and usually tends to cloud your vision as well as your thoughts.,NEGATIVE,OPINION
+519,I imagine that you are seeing a Breast Specialist but if not this is something that you need to arrange.,NEUTRAL,OPINION
+520,Family history accounts for a very small percentage of diagnosed cases of Breast Cancer even though it is a risk factor.,NEUTRAL,FACT
+521,Regards .....,NOT_LABELED,NOT_LABELED
+522,Thanks so much for helping me down off of the ledge.,POSITIVE,NOT_LABELED
+523,It has become all consuming.,NEUTRAL,OPINION
+524,Biopsy is on Thursday.,NEUTRAL,FACT
+525,Wish me luck!,POSITIVE,NOT_LABELED
+526,"You're more than welcome .... it's scary up there on the ledge :) Luck, Wishes and Prayers are with you from all of us here.",POSITIVE,OPINION
+527,We know how it is but whatever it is we always seem to be able to handle it.,POSITIVE,OPINION
+528,Let us know when you get your results.... Regards.,NEUTRAL,FACT
+529,It has Been a while since I have logged on.,NEUTRAL,FACT
+530,The mass was triple negative cancer.,POSITIVE,EXPERIENCE
+531,I had a lumpectomy lAst week.,NEUTRAL,EXPERIENCE
+532,It was a 1 cm mass with clear margins and no nodes involved..,NEUTRAL,EXPERIENCE
+533,Thank God !,POSITIVE,NOT_LABELED
+534,Still need chemo though.ugh!,NEGATIVE,EXPERIENCE
+535,Meeting with the oncologist next week.,NEUTRAL,FACT
+536,"I was not so afraid of the surgery, it is the thought of chemo that is flipping me out!",NEGATIVE,EXPERIENCE
+537,Any thoughts or words of advice?,NEUTRAL,FACT
+538,Thanks for the update .... sounds as though you have done well so far and it's a GREAT thing that nodes were not involved.,POSITIVE,OPINION
+539,"As far as the Chemo goes, it's hard to say.",NEUTRAL,OPINION
+540,"Everyone and their response to the drugs is so varied you'll just have to wait and see .... great advice, right ??",NEUTRAL,OPINION
+541,"Seriously, some women can breeze through it with little or no problem and others have adverse reactions.",NEUTRAL,FACT
+542,"Keep positive thoughts and don't go looking for ""what might occur"" and don't hesitate to make clear any problems you may have.",NEUTRAL,OPINION
+543,The Oncology team will have many things that will help with or counteract any side effects that you experience.,POSITIVE,FACT
+544,Don't keep it to yourself; make it known if you have a problem of any kind.,NEUTRAL,OPINION
+545,"Wishing you a good experience during your treatment .... you can do it, I know you can !!",POSITIVE,OPINION
+546,Take care and keep us posted when you have the time.,NEUTRAL,OPINION
+547,Kindest regards ....,NOT_LABELED,NOT_LABELED
+548,"Trying g to keep positive, but it is quite hard at times.",NEUTRAL,EXPERIENCE
+549,Do you think I'll be needing a petscan before chemo?,NEUTRAL,FACT
+550,Breast doc says no.,NEUTRAL,FACT
+551,We will see what the oncologist says.,NEUTRAL,FACT
+552,I am really not up for any more scans at this point.,NEGATIVE,EXPERIENCE
+553,Just want to deal with the matter at hand and get it over with.,NEUTRAL,FACT
+554,"Maybe and maybe not ..... Oncologists all have their routine before, during and after treatment so it's really up to him/her.",NEUTRAL,FACT
+555,Considering all the other issues one more scan would be far down on the worry list.,NEUTRAL,OPINION
+556,I'm sure you will be having them after treatment and perhaps routinely for a period of time.,NEUTRAL,OPINION
+557,Usually there are yearly check-ups with Onc. or possibly 6 months at first when you have finished treatment.,NEUTRAL,FACT
+558,Some Oncologists see patients for a couple of years and some will see the patient as long as the patient wishes.,NEUTRAL,FACT
+559,It's a very individual thing with the Oncologists.,NEUTRAL,FACT
+560,Just hang in there; you know it won't be over in a moment .... all things take time and we all have a problem being patient when it comes to WAITING.,NEUTRAL,OPINION
+561,"Do you best, you've done a SUPER job so far; don't spoil your record .... Take care now.",POSITIVE,OPINION
+562,Thanks for the kind words.,POSITIVE,NOT_LABELED
+563,Is 3 weeks post op a long time before seeing the oncologist?,NEUTRAL,FACT
+564,I'm hearing no because you need time to heal.,NEUTRAL,FACT
+565,WAiting and being anxious really *****!,NEGATIVE,EXPERIENCE
+566,"No, not at all .... healing is a complicated process in the tissues below the surface.",NEUTRAL,FACT
+567,"There will seem to be no end to the ""waiting"" but it's all a learning experience.",NEUTRAL,OPINION
+568,After all is said and done you will be a much more patient person ..... hopefully :) .,POSITIVE,OPINION
+569,take care .....,NOT_LABELED,NOT_LABELED
+570,"Hi everyone, I'm so anxious at the moment.",NEGATIVE,EXPERIENCE
+571,I'm having nightmares and not sleeping well.,NEGATIVE,EXPERIENCE
+572,I had an ultrasound which showed: 7x3x7 mm breast lesion 2cm from nipple.,NEUTRAL,EXPERIENCE
+573,Hypoechoic with some through transmission.,NEUTRAL,EXPERIENCE
+574,Small echogenic foci are identified within.,NEUTRAL,EXPERIENCE
+575,No vasculariry or architectural distortion.,NEUTRAL,EXPERIENCE
+576,It may represent a fibroadenoma however there does appear to be some tapering suggesting ductal in origin.,NEUTRAL,EXPERIENCE
+577,How likely is this to be cancer?,NEUTRAL,FACT
+578,I'm seeing specialist on tuedsay.,NEUTRAL,FACT
+579,The report says it suggest a a biopsy.,NEUTRAL,FACT
+580,I have a 2 year old son and I breast fed him for 1.5 years.,NEUTRAL,EXPERIENCE
+581,I thought this would have been protective.,NEUTRAL,OPINION
+582,I'm really after some support and some insight as to how likely this is something nasty.I actually went in to see my doctor as I had other lumps which just turned out to be benign glandular tissue- just part of my breast anatomy and then they found this unexpected lesion :-( Joanne.,NEGATIVE,EXPERIENCE
+583,"Hi, Please try not to panic!",NEUTRAL,NOT_LABELED
+584,Most breast lesions are not cancerous.,POSITIVE,FACT
+585,"A variety of benign breast lumps like fibroadenoma or cysts do appear suspicious on x-rays sometimes,but it's nothing more than that.",POSITIVE,FACT
+586,"The fact that the report states that no vasculariry (blood flow)or architectural distortion is present,it's a good sign!",POSITIVE,FACT
+587,Most biopsy are recommended just to make sure and it's an excellent medical procedure to obtain a correct diagnosis!,POSITIVE,FACT
+588,Try not to worry....Hopefully this is nothing to be concerned about.,NEUTRAL,OPINION
+589,Wishing you all the best!,POSITIVE,NOT_LABELED
+590,Thanks zouzi.,NOT_LABELED,NOT_LABELED
+591,"I don't think it's a cyst because it's not clear, has calcifications in it :/ that's what the radiologist said to me.",NEGATIVE,OPINION
+592,"And it has some tapering so not a nice well circumcised lesion, all risk factors for malignancy from what I have read.",NEGATIVE,EXPERIENCE
+593,I feel too young to have cancer.,NEUTRAL,OPINION
+594,But then I've read that it can happen any age.,NEUTRAL,EXPERIENCE
+595,"You are welcome Joanne, I don't think it's a cyst either,I just mentioned that some cysts could also look suspicious",NEUTRAL,OPINION
+596,"What you have is most probably a Fibroadenoma which is a solid lump that needs to be biopsied to make sure that in fact it is a benign lesion,which could also present with calcification and not well circumcised .",NEUTRAL,OPINION
+597,Many breast lumps that need to be investigated are not necessarily malignant but the only way to make sure is to have a biopsy.,NEUTRAL,FACT
+598,Hoping that all turns out fine for you!,POSITIVE,NOT_LABELED
+599,:)  .,NOT_LABELED,NOT_LABELED
+600,There's just so many stories of young women who are fighting this that I've read about in the last week on the internet.,NEUTRAL,FACT
+601,It's make things seem more probable.,NEGATIVE,OPINION
+602,"Whatever the result, this experience has made me realise that I need to change the way I live And live a bit more for today.",POSITIVE,EXPERIENCE
+603,I have never felt so anxious or scared in my life.,NEGATIVE,EXPERIENCE
+604,I'll never take my life for granted again.,NEUTRAL,FACT
+605,I'm amazed at how muh this has changed me.,NEUTRAL,EXPERIENCE
+606,"Yes,I know that the possibility of ""breast cancer"" can cause a lot of stress and anxiety,but remember that reading stories over the internet about women with BC is not necessarily related to your situation at all,since you haven't been diagnosed with anything yet.",NEUTRAL,OPINION
+607,Try your best to stay calm and don't let your mind be filled with negative thoughts.,POSITIVE,OPINION
+608,"Keep in mind that many breast lumps are not cancerous,even suspicious ones...and I hope the same for you too.",POSITIVE,OPINION
+609,Please let us know when you receive your biopsy results and lets hope for a favorable outcome.,NEUTRAL,OPINION
+610,Take care..,NOT_LABELED,NOT_LABELED
+611,Ok I'll let you know.,NEUTRAL,NOT_LABELED
+612,I just had a look to the sonographers report and she wrote cystic and solid components present with calcifications.,NEUTRAL,EXPERIENCE
+613,That's a good thing right?,POSITIVE,OPINION
+614,I am sure that your Doctor can explain to you in details your complete Ultrasound report.,NEUTRAL,OPINION
+615,"In your first post,you mentioned that the Radiologist stated that the lump may represent a Fibroadenoma but now you say that it's a cyst containing solid components.All I can tell you is that breast cysts can be classified as either simple or complex cysts.",NEUTRAL,FACT
+616,Simple Cysts (fluid filled sacs) have virtually no chance of containing malignancy.,NEUTRAL,FACT
+617,"However,complicated cysts are a little more concerning.",NEUTRAL,FACT
+618,They are also fluid filled sacs but contain some solid material (debris).,NEUTRAL,FACT
+619,Usually complicated cysts are aspirated and have the cells examined to better evaluate the nature of the cyst and the majority will results in benign findings when biopsied.,NEUTRAL,FACT
+620,"I am sorry if I cannot help you more,but I would advise you to visit your Doctor concerning your Ultrasound results,because he/she would be your best source of information.",NEUTRAL,OPINION
+621,Ok thanks.,NOT_LABELED,NOT_LABELED
+622,"Yeah what's happened is I have a copy of what the sonographer wrote, and the final report of what the radiologist wrote.",NEUTRAL,FACT
+623,This is where there are different descriptions.,NEUTRAL,FACT
+624,Sonopgrapher wrote cystic and solid components but the final report has what I wrote originally.,NEUTRAL,FACT
+625,Even I'm confused as to who is correct!,NEGATIVE,FACT
+626,I just responded to your private message.,NEUTRAL,FACT
+627,What are the chances treating this type of cancer with radiation only?,NEUTRAL,FACT
+628,"Does the statistics change any and if so, can you tell me the percentage!",NEUTRAL,FACT
+629,Hi. Invasive ductal carcinoma cannot be cured by radiation alone.,NEUTRAL,FACT
+630,"At the very least, a mastectomy or lumpectomy (surgery removing a part of the breast along with the tumor) should be done.",NEUTRAL,FACT
+631,"If the tumor is small (less than or equal to 0.5 cm) and no tumor spread to the axillary nodes was found, then radiation treatment after the surgery may suffice.",NEUTRAL,FACT
+632,"But a larger tumor or metastases to the axillary nodes will require the addition of either chemotherapy or hormonal treatment, or both.",NEUTRAL,FACT
+633,"I recently under went a lumpectomy in July, I also has lymph nodes involved.",NEGATIVE,EXPERIENCE
+634,"The tumors were removed, my margins came back clear.",POSITIVE,EXPERIENCE
+635,"I don't want to go through chemotherapy, I am willing to do radiation along with hepercin will this help me at all?",NEUTRAL,FACT
+636,"I think what the doctor is trying to tell you is that surgery in your case is necessary, and which you now say you had.",NEUTRAL,OPINION
+637,"He also said that especially if lymph nodes are involved, chemotherapy is highly recommended and the right way to go in your case.",NEUTRAL,OPINION
+638,It will not guarantee that you will live forever but it will increase your chances of living longer.,POSITIVE,FACT
+639,"I do understand what you are saying, after all mt tests from the muga scan to the mri bone scat and cat scan.",NEUTRAL,FACT
+640,"Blood work and so on, after all the tests came back would the doctors know if the cance has spresd to other area outside of my lymph nodes?",NEUTRAL,FACT
+641,Hi.,NOT_LABELED,NOT_LABELED
+642,"If the cancer has been found in the lymph nodes, there is a significant probability that there is already microscopic spread to other areas of the body.",NEUTRAL,FACT
+643,This microscopic spread may not be easily detected by conventional imaging procedures.,NEGATIVE,FACT
+644,"So even if the initial tests were negative for distant metastases, if the lymph nodes are already involved, it is imperative to do some additional treatment like chemotherapy, since we are not sure that the negative results are totally reliable.",NEUTRAL,FACT
+645,Is there a time lime to have chemotherapy?,NEUTRAL,FACT
+646,", right now I am unable to have the chemotherapy due to financial reason.",NEGATIVE,FACT
+647,I am not counting it out all together maybe sometime next year?,NEUTRAL,FACT
+648,This is what I have been told.,NEUTRAL,EXPERIENCE
+649,"When you are first diagnosed, a team of doctors set up your treatment plan.",NEUTRAL,FACT
+650,(or a doctor/doctors talk about what they think is the best thing to do in any particular case for the best possible outcome and prevention of reoccurrence).,NEUTRAL,FACT
+651,"Then , if the patient agrees to this, you go ahead with it.",NEUTRAL,FACT
+652,"If you do, then the initial treatments are really the most important of all the treatment, as the goal is to wipe out whatever cancer there is and may be lurking the very first time.",NEUTRAL,FACT
+653,"If you decide to do chemo a year or so later, this will no longer be part of the initially recommended treatment that according to the doctor's best judgement has the highest chance of working in your best interest.",NEGATIVE,FACT
+654,"Radiation will certainly help with reoccurrence, and it will attack whatever may have spread outside of the surgical area that was removed.",POSITIVE,FACT
+655,"But as the doctor above explains, with positive lymph nodes there is a chance that the cancer has spread, and in half of the cases those lesions are so tiny that they won't show up on a bone scan or other test.",NEUTRAL,FACT
+656,"So, this is why chemotherapy is utilized to make sure that if this spread is there it is wiped out by chemo immediately, because after the first chance the cancer will only spread and grow.",NEUTRAL,FACT
+657,"(I mean even with radiation, it will grow outside of the radiation area).",NEGATIVE,FACT
+658,"Radiation is local treatment just like surgery, and chemo is systemic.",NEUTRAL,FACT
+659,So is tamoxifen but it's not indicated in your case.,NEUTRAL,FACT
+660,Do not put off chemo because of financial reasons.,NEUTRAL,OPINION
+661,There are breast cancer advocate organizations that can help you get treatment.,POSITIVE,FACT
+662,"I think one of them is called youcanthrive.org, or something close to that.",NEUTRAL,OPINION
+663,Find an advocate and get the treatment you need.,NEUTRAL,FACT
+664,Your LIFE is more important than financial considerations.,NEUTRAL,OPINION
+665,NOBODY in this country should have to risk recurrence of a life threatening disease because they can't afford treatment.,NEGATIVE,OPINION
+666,I had Stage 3 Invasive Ductal Carcinoma in 09.,NEGATIVE,EXPERIENCE
+667,"Treatment included 2 lumpectomies, chemotherapy and radiation.",NEUTRAL,EXPERIENCE
+668,"When cancer reaches your lymph nodes, you have no idea where the cancer cells have traveled through your body, therefore chemotherapy treatment is necessary.",NEUTRAL,FACT
+669,Do you know of any more of the advocate and financial support groups?,NEUTRAL,FACT
+670,Thank you.,NOT_LABELED,NOT_LABELED
+671,4 1/2 years ago my mother has a cancerous lump taken out of her breast.,NEUTRAL,EXPERIENCE
+672,SHE DID NO TREATMENTs.,NEUTRAL,EXPERIENCE
+673,About a year ago she found another lump in the same breast but this time on the outside.,NEGATIVE,EXPERIENCE
+674,She found a doctor that has been treating it.,NEUTRAL,EXPERIENCE
+675,we thought it was getting better.,POSITIVE,EXPERIENCE
+676,Just a couple of months ago the same doctor who is in another state where we live ordered a bone scan her at home.,NEUTRAL,EXPERIENCE
+677,The results according to this doctor weren't good.,NEGATIVE,EXPERIENCE
+678,He said there was nothing else he could do.,NEGATIVE,EXPERIENCE
+679,We found a cancer doctor here at home.,NEUTRAL,EXPERIENCE
+680,It is now in her lymph notes under her arm and in her chest and she also has another lump in the same breast inside again.,NEGATIVE,EXPERIENCE
+681,It has been growing since her surgery 4 1/2 years ago.,NEGATIVE,EXPERIENCE
+682,This doctor said it is not in any of her organs .,NEUTRAL,EXPERIENCE
+683,All the natural stuff my mom was taking saved her organs.,POSITIVE,EXPERIENCE
+684,It is in her bones now.,NEGATIVE,EXPERIENCE
+685,The doctor here will have them in a week.,NEUTRAL,EXPERIENCE
+686,It only will be than that he will know what bones and how many the cancer is now in.,NEUTRAL,EXPERIENCE
+687,Is it true once it reaches the bones it is stage 4?,NEUTRAL,OPINION
+688,"What can we expect, She also starts chemo in one week.",NEUTRAL,EXPERIENCE
+689,I'm so sorry to learn of your Mother's present condition.,NEUTRAL,OPINION
+690,Evidently she received very poor medical care when her first cancer was discovered.,NEGATIVE,OPINION
+691,The fact that she now has metastisis to the bone isn't the main issue as bone mets is quite easliy managed.,NEUTRAL,OPINION
+692,The lymph node involvement is the problem to be addressed first.,NEGATIVE,OPINION
+693,I truly hope that you are being treated by an Oncologist and that she will not refuse whatever treatment that is recommended.,NEUTRAL,OPINION
+694,"The only proven treatment for cancer at any stage is a combination of Chemotherapy, Radiation and possible Hormone Therapy following the appropriate surgery at the time the cancer is first discovered.",NEUTRAL,OPINION
+695,As far as prognosis at this point; that would be something you should discuss with your Mother's Oncologist as he/she has all the necessary information regarding the cancer.,NEUTRAL,OPINION
+696,Kindest regards ...,NOT_LABELED,NOT_LABELED
+697,So sorry to learn of your mother's health.... The first doctor apparently did not do his job aty all.,NEGATIVE,OPINION
+698,"By all means, seek the assistance of a good oncologist -- but listen to his/her recommendations.",NEUTRAL,OPINION
+699,"They will almost always without a doubt recommend the chemotherapy protocol, which has NOT been proven to help the majority of those receiving it (less than 15%).",NEGATIVE,OPINION
+700,Remember one thing -- and that is an oncologist job is to educate and inform patients only of what they are taught and told to relate to patients.,NEUTRAL,OPINION
+701,Please do your research for your mother -- it can save her life and give her peace of mind as well as quality of life.,NEUTRAL,OPINION
+702,My prayers are with you.,POSITIVE,NOT_LABELED
+703,I've only gotten 2 responses to my post which either tell me there is something someone does't want to tell me or my concerns aren't enough.,NEGATIVE,EXPERIENCE
+704,Thanks for nothing.,NEGATIVE,NOT_LABELED
+705,I am so sorry to hear about your mother's health.,NEUTRAL,NOT_LABELED
+706,I can certainly appreciate your concern and your wish to get concrete answers.,NEUTRAL,OPINION
+707,I am in a similar position having been recently diagnosed with metastases to the bones.,NEGATIVE,EXPERIENCE
+708,From what I understand this means that the cancer is in stage IV.,NEUTRAL,EXPERIENCE
+709,"Information on the computer suggests that mets to the bone and not to the vital organs are considered the ""best"".",POSITIVE,FACT
+710,My doctor said that she has seen a few patients live for 10 years in this condition.,NEUTRAL,EXPERIENCE
+711,The danger is that the cancer will move to vital organs.,NEUTRAL,FACT
+712,If you look on the computer the statistics for life with metastatic cancer are grim (2-3yrs) I have been assured that life expectancy can be much longer if the cancer can be stabilized.,POSITIVE,EXPERIENCE
+713,I am hoping that this will be true for me and I definitely hope that this will be true for your mother.,POSITIVE,OPINION
+714,I hope that this is somewhat helpful.,POSITIVE,OPINION
+715,"I don't think any one, cancer patient or oncologist, is quick to put a life expectancy in absolute terms.",NEUTRAL,OPINION
+716,"I do understand, however, the wish to have certainty in such a vulnerable situation.",NEUTRAL,OPINION
+717,"Best wishes, jonji.",NOT_LABELED,NOT_LABELED
+718,I'm sorry you felt that your concerns were not answered.,NEUTRAL,NOT_LABELED
+719,"I re-read your original post and found the only question to be ""was bone mets considered Stage 4"" ..",NEUTRAL,FACT
+720,Obviously your mother either refused treatment when she was first diagnosed and this is certainly the main reaosn for the recurrance.,NEGATIVE,FACT
+721,Natural remedies DO NOT prevent or cure breast cancer.,NEGATIVE,FACT
+722,"As I mentioned before, bone mets can be managed quite well and there are many Stage IV women who alive and living with the bone mets.",POSITIVE,FACT
+723,If you would like some information from some of those Stage IV survivors you might visit the following website which is a discussion group and there are some amazing women there who are more than willing to share their experiences as Stage IV Survivors.,POSITIVE,FACT
+724,Your Mother's Oncologist remains the best source of information regarding her particular case.,NEUTRAL,FACT
+725,Check out this website though if you have time: bcsupport.org.,NEUTRAL,FACT
+726,I thought you answered her question very well� and I read most all of your replies which are great.,POSITIVE,OPINION
+727,You are very knowledgable and helpful to this board.,POSITIVE,OPINION
+728,But I can't help but ask�,NEUTRAL,FACT
+729,why did I get kicked off this board when I gave one woman a website to go too?,NEGATIVE,FACT
+730,"She had a very aggressive type of breast cancer� the type I have which is ""Her2/neu"".",NEGATIVE,EXPERIENCE
+731,She was in a panic and very upset and was getting no replies.,NEGATIVE,EXPERIENCE
+732,(And believe me when your 1st dx with bc...its urgent that someone answer you asap because you are scared to death!),NEGATIVE,EXPERIENCE
+733,So I tried to help her and replied the best I can because I know quite a bit about Her2 bc.,NEUTRAL,EXPERIENCE
+734,"And ""one"" part of my reply to her was a message board that is JUST for ""Her2/neu"".",NEUTRAL,EXPERIENCE
+735,The board I told her about is up to date on everything Her2 related.,NEUTRAL,EXPERIENCE
+736,They have all the clinical trials...can direct you to the best doctors that understand this type of cancer and every new treatment that's out to fight it.,NEUTRAL,EXPERIENCE
+737,So I very nicely said please check out this website and the woman here will be very supportive and can answer all your questions about Her2.,POSITIVE,EXPERIENCE
+738,She was very apperciative and has recieved so much help once she went to the Her2 board I told her about.,POSITIVE,EXPERIENCE
+739,But the minute I did that I immediately got a PM from MedHelp telling me I was no longer to post here and they removed my user name.,NEGATIVE,EXPERIENCE
+740,(Something to that affect) .,NEGATIVE,EXPERIENCE
+741,They didn't even give me a chance.,NEGATIVE,EXPERIENCE
+742,Here I was spending my valuable time trying to help these scared woman since I've been in their shoes...,NEGATIVE,EXPERIENCE
+743,and I get kicked off the board for being NICE.,NEGATIVE,EXPERIENCE
+744,(What's up with that?),NEGATIVE,OPINION
+745,They could at least warn a person NICELY and say the rules of the board and not to post OTHER websites or you will be expelled premanetly.,NEGATIVE,OPINION
+746,"But no...they ""weren't"" nice about it at all.",NEGATIVE,EXPERIENCE
+747,I even wrote them back to explain the same thing I'm tell you but they did NOT care and rather I just go away.,NEGATIVE,EXPERIENCE
+748,There are NOT very many people here to answer questions...,NEUTRAL,FACT
+749,so why they would chase someone like me away that is honestly trying to help someone is beyond me.,NEUTRAL,OPINION
+750,(I don't post or reply often now since they did that).,NEGATIVE,FACT
+751,I waited about a month and decided to sign up under another name in order to help these poor woman that need answers.,NEUTRAL,EXPERIENCE
+752,But I'm still upset the way I was treated.,NEGATIVE,EXPERIENCE
+753,I've been on alot of message boards over the last 25 yrs and I've never been treated like that.,NEGATIVE,EXPERIENCE
+754,You just posted another website in order to help this person that was very distressed and upset which I think was VERY KIND of you and approperiate considering her circumstances.,POSITIVE,OPINION
+755,So I'm just curious why they were so quick to kick me off even when I APOLOGIZED for giving this girl the name of a website?,NEGATIVE,OPINION
+756,"I was ""not"" spamming the board with websites...and thats how I was treated for offering ONE girl one website for a very aggressive type of cancer.",NEGATIVE,EXPERIENCE
+757,I just don't get it.,NEGATIVE,FACT
+758,(Had I known it was breaking a RULE or something...I would of gladly PM'd her the website),NEUTRAL,FACT
+759,They did not kick you off this board for handing out another website for this person?,NEUTRAL,FACT
+760,Just me.,NOT_LABELED,NOT_LABELED
+761,I see nothing wrong with someone helping another.,NEUTRAL,OPINION
+762,I will probably get kicked off for this one too...just watch.,NEGATIVE,OPINION
+763,If this board has rules�everyone should have to follow them�,NEUTRAL,FACT
+764,why did they just single me out?,NEGATIVE,OPINION
+765,"I'm usually one 3 boards to help others... and occasionally someone will post a special board thats only for stage IV, or Metsters, Her2/neu, lung cancer, etc...and no one gets kicked of any of those board for trying to direct someone to find help for their situation.",NEUTRAL,EXPERIENCE
+766,It's always bothered me that Medhelp jumped on me like that.,NEGATIVE,OPINION
+767,I was brand new here and trying to help all the newly dx...so much for that.,POSITIVE,EXPERIENCE
+768,Hasn't medhelp heard of warnings or telling someone thats not allowed verses just KICK them off the board for good.,NEGATIVE,OPINION
+769,Sorry...ticks me off.,NEGATIVE,OPINION
+770,That wasn't fair.,NEGATIVE,OPINION
+771,"I'm WAS a stage IIIA, Her2/neu, 3+++ survivor which was just dx stage IV last week.",NEGATIVE,EXPERIENCE
+772,My time is valuable to me�important.,NEUTRAL,OPINION
+773,I just LIKE to HELP people� not cause problems or hurt anyone.,POSITIVE,OPINION
+774,I just didn't like that way I was treated.,NEGATIVE,OPINION
+775,Now I see you post a website and thats ok...but its not for me.,NEGATIVE,OPINION
+776,Medhelp should only have one set of rules...not a double standard.,NEUTRAL,OPINION
+777,And believe me...this post is with ALL DUE RESPECT for you.,NEUTRAL,OPINION
+778,You do good work here!:),POSITIVE,OPINION
+779,I guess I've been holding this in a long time and life is SHORT...well it will be for me�so I wanted to get this out.,NEGATIVE,OPINION
+780,They can always delete this and kick me off again.,NEGATIVE,FACT
+781,Whatever works for them.,NEUTRAL,FACT
+782,Its no loss to me if they kick me off again...only to the people posting here that lose.,NEGATIVE,FACT
+783,"Keep up the ""great"" work Japdip...",POSITIVE,OPINION
+784,your are fast to respond to everyones questions and that alone is very important.,POSITIVE,OPINION
+785,When dx with bc...the answers can't come fast enough.,NEUTRAL,FACT
+786,Waiting is the hardest part for us.,NOT_LABELED,NOT_LABELED
+787,Peace...,NOT_LABELED,NOT_LABELED
+788,take care.,NOT_LABELED,NOT_LABELED
+789,Keep up the good work.,POSITIVE,NOT_LABELED
+790,Rinda.,NOT_LABELED,NOT_LABELED
+791,I am so sorry you got another diagnosis of cancer.,NEGATIVE,OPINION
+792,I am sending prayers your way that you get the correct treatment and that you recover again.,POSITIVE,OPINION
+793,And I'm sorry you've had a tough time posting.,NEGATIVE,OPINION
+794,I value your posts and I believe other women do as well.,POSITIVE,OPINION
+795,I ran into the same issue and I was fortunate to get a moderator who allowed me to explain why I post about BRCA and use a certain website for women to get more information.,POSITIVE,EXPERIENCE
+796,I was given an opportunity to share all of the research available there and they saw that it was of value to the people who visit medhelp.,POSITIVE,EXPERIENCE
+797,"Apparently it's against their terms of service, something about competing sites.",NEUTRAL,FACT
+798,I do understand why you would offer that website to someone desperate for information and I know your heart is in the right place.,POSITIVE,OPINION
+799,We advocate for women with breast cancer.,NEUTRAL,FACT
+800,We try to help however we can.,NEUTRAL,FACT
+801,Even if it's just a cyber hug.,NEUTRAL,FACT
+802,(You may want to check into the PARP inhibitor studies going on right now for metastatic breast cancer).,NEUTRAL,OPINION
+803,My thoughts and prayers are with you.,POSITIVE,NOT_LABELED
+804,Best wishes.,NOT_LABELED,NOT_LABELED
+805,Just wanted to pipe in and say I am so glad you are active on this Web site and that I have gotten gotten a lot out of your posts!,POSITIVE,OPINION
+806,(I know from personal experience that the rules are applied very unevenly),NEGATIVE,OPINION
+807,I am sorry that you are now in Stage 4.,NEGATIVE,OPINION
+808,My thoughts and prayers are with you.,POSITIVE,NOT_LABELED
+809,Best wishes....,NOT_LABELED,NOT_LABELED
+810,"hi i am new to this website and responding but just had to with yours i had BC diagnosed 2006, bone mets stage 1V in june 2008, i have oestrogen receptive bc and was put on letrozole, i have jsut had a bone scan and have a few more bone mets adn so have changed to another aromatase inhibitor but hey thats 3 yrs and i have been great so fingers crossed heres to another 3 yrs before i have to change drugs again.",NEUTRAL,EXPERIENCE
+811,so keep positive xx .,POSITIVE,OPINION
+812,"I'm a 31 year old stage 4 breast cancer patient, currently in chemotherapy.",NEUTRAL,EXPERIENCE
+813,"I've had severe postoperative pain from the mastectomy I had almost three years ago which my doctor has been treating with a steadily escalating series of opiate drugs: vicodin, then norco, then oxycodone...",NEGATIVE,EXPERIENCE
+814,"now she wants me to start the Fentanyl patch, and I'm a little scared of it.",NEGATIVE,EXPERIENCE
+815,It seems so serious (like something you only take if you're...y'know�close to death!Which I'm not!),NEGATIVE,EXPERIENCE
+816,"And it scares me that so many people seem to become so addicted to it, and I'm scared that I'll be too tired to be responsible, raise my three year old son, etc...",NEGATIVE,OPINION
+817,My doctor answered all the questions I asked of course but I have to admit I didn't press too hard because I didn't want her to think I was afraid of becoming an addict...,NEGATIVE,EXPERIENCE
+818,"I mean, I still need help with this ****amn pain in my (ex) breast...",NEGATIVE,FACT
+819,"it just seems like once I start this patch, there's no going back!",NEGATIVE,OPINION
+820,Does anybody have any positive experience with the Fentanyl patch?,NEUTRAL,FACT
+821,Did anybody use it for pain and then...get off of it one day?,NEUTRAL,FACT
+822,Did it keep you from normal day-to-day responsibilities?,NEUTRAL,FACT
+823,I'm just a little nervous.,NEGATIVE,EXPERIENCE
+824,Thanks.,NOT_LABELED,NOT_LABELED
+825,absolutly DO NOT TAKE FENTYNAL PATCHES!,NEGATIVE,OPINION
+826,i am 36 years old and i had breast cancer to they gave me fentynal.,NEUTRAL,EXPERIENCE
+827,i regret ever taking it it has ruined my life!,NEGATIVE,EXPERIENCE
+828,"Jessie: What happened, if you don't mind my asking?",NEUTRAL,FACT
+829,Did you become addicted to the fentanyl?,NEGATIVE,FACT
+830,Would something else have been better for the postop chronic pain?,NEUTRAL,FACT
+831,"I hope your cancer is in remission, by the way--- this all *****.",NEUTRAL,OPINION
+832,"I'm scared of pain, scared of my cancer, scared of being too involved with pain meds to be a good mom...",NEGATIVE,EXPERIENCE
+833,I'm scared of a lot these days...,NEGATIVE,EXPERIENCE
+834,Emily.,NOT_LABELED,NOT_LABELED
+835,DO NOT TAKE!,NEGATIVE,OPINION
+836,This drug is really only meant for the terminally ill!,NEGATIVE,FACT
+837,Its the most horrible pain medicine to come off of.,NEGATIVE,OPINION
+838,I was not addicted to it and had no idea I was going on the strongest pain medicine in the world.,NEUTRAL,EXPERIENCE
+839,It is 100x stronger than morphine and 50 x stronger than herion.,NEUTRAL,FACT
+840,It causes all kinds of side effects.,NEGATIVE,FACT
+841,I had a friend on it for 3 weeks and she wanted to die when she was tapering off of it.,NEGATIVE,EXPERIENCE
+842,This drug is hell and is not worth it.,NEGATIVE,OPINION
+843,Stay away!,NEUTRAL,OPINION
+844,You will thank me!,POSITIVE,OPINION
+845,I had to learn the HARD way!,NEGATIVE,EXPERIENCE
+846,Wow�so sorry to hear all this.,NEUTRAL,NOT_LABELED
+847,"I am tapering off Oxycodones and even though it has been tough, I am sticking to my schedule and doing well.",POSITIVE,EXPERIENCE
+848,I would definetly do all the research you can on your own before taking anything like this for pain.,NEUTRAL,OPINION
+849,"Just like jessie and shellbell said, these drugs can and will ruin your life.",NEGATIVE,OPINION
+850,I don't think Doctors really understand how easily a person can go from taking these meds as prescribed to getting way out of control with them.,NEGATIVE,OPINION
+851,"A few years ago, a friend of my brothers was given Fentanyl patches for his back after a botched surgery.",NEUTRAL,EXPERIENCE
+852,"At the time, he was only 32...",NEUTRAL,EXPERIENCE
+853,"Within a few months, he was taken off them and started into withdrawal....and within a couple days after that, he was in Intensive Care at the Hospital....yep...",NEGATIVE,EXPERIENCE
+854,he almost died from w/d.,NEGATIVE,EXPERIENCE
+855,"They had to put him back on it and tried to taper him off them slowly....but he ended up getting so sick and desperate, he started seeking out street drugs.",NEGATIVE,EXPERIENCE
+856,"He lost his job, his wife left and took the kids, he lost his home and vehicle...",NEGATIVE,EXPERIENCE
+857,everything.,NOT_LABELED,NOT_LABELED
+858,This only took less than a year because of his need for the drugs....and he ultimately committed suicide....,NEGATIVE,EXPERIENCE
+859,it was a tough loss for everyone.,NEGATIVE,EXPERIENCE
+860,It is devastating what these types of medicines can do.,NEGATIVE,OPINION
+861,I have read so many stories that reflect how I was about the medicines.,NEUTRAL,EXPERIENCE
+862,"I was ""dumb"" about them and never really did any real research on how they work or what they do....once I did discover this, I knew I had to get off them...",NEGATIVE,EXPERIENCE
+863,but fear kept me from trying.,NEGATIVE,EXPERIENCE
+864,It wasn't until a few months ago that I really started talking to my Doctor about wanting to get off them and now I am really glad I did....,POSITIVE,EXPERIENCE
+865,I hope we caught it before it had a chance to get totally out of control...but I will say it was becomming a real problem.,NEGATIVE,EXPERIENCE
+866,I hope you are able to find something for your pain....nothing worse than hurting all the time.,NEGATIVE,OPINION
+867,God Bless.,NOT_LABELED,NOT_LABELED
+868,"Hi, I'm sorry to hear you are having such a pain problem.",NEGATIVE,OPINION
+869,My concern about the fentanyl patches is that the side effects can continue to increase even though the pain relief effect has begun to diminish.,NEGATIVE,OPINION
+870,"This can lead to oversedation or in some cases even death, esp.",NEGATIVE,FACT
+871,if the patient then takes additional analgesics to try to obtain adequate pain relief...,NEUTRAL,FACT
+872,"My suggestion would be for you to enroll in a pain clinc, if you have not already done so, so that your pain can be closely monitored and managed by a doctor who is a specialist in this area of medicine.",NEUTRAL,OPINION
+873,Besr wishes...,NOT_LABELED,NOT_LABELED
+874,i also would not start with them.,NEUTRAL,EXPERIENCE
+875,"I once used fentanyl patchen when I was in so much pain from a condition called osteonecrosis where my femur was dying, and it was so painful that 8-10 oxycodone did not do the trick.",NEUTRAL,EXPERIENCE
+876,"the fentanyl was perfect, and after starting it I was able to walk again normally and a few weeks later the condition healed/resolved itself.",POSITIVE,EXPERIENCE
+877,(of course you will never know unless you are not on the drug so instead of changing the patch every three days I kept it on for 4 to wait for the pain to come back and then one day it no longer did),NEGATIVE,EXPERIENCE
+878,"It was horrible coming off it, and when I told the oncologist's nurse she told me that was ridiculous and she has never heard of anyone having withdrawels from it, even people who took much higher dose.",NEGATIVE,EXPERIENCE
+879,I guess they all died and therefore had to not deal with withdrawal.,NEGATIVE,OPINION
+880,"Anyway, I took hydrocodone to do so.",NEUTRAL,EXPERIENCE
+881,"Yes, it is incredible for pain but I did no like the effect it has on me spirit wise; I felt depressed on it.",NEGATIVE,EXPERIENCE
+882,I have since heard that drugs like oxycodone and vicodin are much more abused than fentanyl for just that reason.,NEUTRAL,EXPERIENCE
+883,I don't think it's a 'feel good' drug but incredibly powerful otherwise.,POSITIVE,OPINION
+884,"No, I would not either.",NOT_LABELED,NOT_LABELED
+885,Kat.,NOT_LABELED,NOT_LABELED
+886,"Hi, I suggest you go to a pain management group.",NEUTRAL,OPINION
+887,There are lots of options.,NEUTRAL,FACT
+888,My wife was stage 4 and tried all options.,NEUTRAL,EXPERIENCE
+889,She wasn't able to handle any pain medicine except for darvicet.,NEUTRAL,EXPERIENCE
+890,My rub down and long car rides were her main source of relief.,POSITIVE,EXPERIENCE
+891,Please see an expert on pain management.,NEUTRAL,OPINION
+892,No drug is bad if it keep you from having pain.,POSITIVE,OPINION
+893,All my best.,NOT_LABELED,NOT_LABELED
+894,Kemal.,NOT_LABELED,NOT_LABELED
+895,Wow.I'm sorry to see all the misinformation on this thread about the fentanyl patch.,NEGATIVE,OPINION
+896,"Yes, it's a very strong pain medication, but that's why it is dosed in MICROgrams instead of MILLIgrams.",NEUTRAL,FACT
+897,That is a huge difference.,NEUTRAL,OPINION
+898,"It is no more or less ""addicting"" than any other narcotic pain medication.",NEUTRAL,FACT
+899,"It doesn't matter if you use the fentanyl patch, hydrocodone, oxycodone or morphine.",NEUTRAL,FACT
+900,If you take any of these drugs on a regular basis your body will become physically dependent upon it.,NEUTRAL,FACT
+901,"If you do not taper off slowly, you will experience withdrawal symptoms.",NEUTRAL,FACT
+902,The presence of withdrawal does not mean the patient is an addict.,NEUTRAL,FACT
+903,Addiction is a totally different problem involving abuse and overuse of a particular substance.,NEUTRAL,FACT
+904,"The fentanyl patch comes in many doses from 12.5 mcg (micrograms) per hour to 25, 50, 75 and 100 mcg.",NEUTRAL,FACT
+905,"The 25 mcg/ hour patch is equal to about 8 norco tablets a day, yet most people don't think twice about swallowing that much hydrocodone.",NEUTRAL,FACT
+906,"The fentanyl patch is prescribed for many kinds of chronic pain, not just for those who have a terminal condition.",NEUTRAL,FACT
+907,Please don't live your life in pain if you don't have to.,NEUTRAL,OPINION
+908,"Fentanyl, like any other opiate pain medication, is just a tool to help with pain.",NEUTRAL,FACT
+909,"Yes, it can be misused and abused, but so can any other opiate.",NEUTRAL,OPINION
+910,"If you work with your doctor and taper off when you no longer need it, you won't have to worry about withdrawal.",NEUTRAL,OPINION
+911,"Unless you have an underlying medical condition like a cardio-pulmonary problem, withdrawal won't kill you.",NEUTRAL,FACT
+912,The biggest danger is from dehydration in people who suddenly discontinue opiate therapy and can't cope with the vomiting and/or diarrhea.,NEGATIVE,FACT
+913,"Jaybay says:     'Wow.I'm sorry to see all the misinformation on this thread about the fentanyl patch""",NEGATIVE,FACT
+914,"Jaybay, you cannot call an opinion coming from personal experience 'sorry misinformation'.",NEGATIVE,OPINION
+915,your comment makes me pretty sure that you have never used a fentanyl patch?,NEUTRAL,FACT
+916,"Not 100 inserts, or books, or doctor's and/or nurse's advice on fentanyl comes even close to the value of reporting from 'personal experience', and I am impressed that pretty much all of us who have used fentanyl, or had a friend whose experience they are familiar with, has stringly advised against the drug, unless nothing else controls the pain.",NEGATIVE,OPINION
+917,"and fentanyl is not nearly as abused as other narcotics, so it's not 'the same' as all the others, because it is not a 'feel good' drug.",NEGATIVE,OPINION
+918,Katrin.,NOT_LABELED,NOT_LABELED
+919,"As I mentioned in my post above, fentanyl patches pose serious risks.",NEGATIVE,FACT
+920,And it does not have to be misused or abused to be dangerous!,NEGATIVE,FACT
+921,There are problems inherent in this delivery system for the medication.,NEGATIVE,FACT
+922,"At least two patients in our practice died while using them, as did one of my neighbors.",NEGATIVE,EXPERIENCE
+923,"The mother of another pt. suffered life-threatening respriatory depression, but was saved because her family got her to the hospital just in time.",NEGATIVE,EXPERIENCE
+924,"Here is a quote from an article about this problem, and a link to that article: ""Since the Duragesic patch was first introduced by Johnson & Johnson in 1994, there have been a number of reported problems with fentanyl pain patches due to manufacturing issues.",NEGATIVE,FACT
+925,"At least seven different recalls of fentanyl patch systems have been issued by Johnson & Johnson and companies manufacturing generic versions of the patch, raising questions about whether the powerful painkiller can be safely made.",NEGATIVE,FACT
+926,"Hundreds of fentanyl pain patch overdose deaths have been associated with different versions of the patch, and dozens of fentanyl patch wrongful death lawsuits have been filed against the various manufacturers.""",NEGATIVE,FACT
+927,"http://www.aboutlawsuits.com/actavis-fentanyl-patch-recall-13686/ If you don't respect this article (because it's from a law Web site, just search the terms ""fentanyl patch recalls""and ""fentanyl patch side effects""and you will find many, many other references.",NEUTRAL,FACT
+928,bluebutterfly.,NOT_LABELED,NOT_LABELED
+929,"Thank you, bb, for this very objective post, and which complements the other posts derived from personal experience of people who have used the patch, and which is what eliandbasilsmom asked for.",NEUTRAL,FACT
+930,"Both, providing objective information, preferably with a link attached, and personal experience are what makes a forum like this so valuable to those who want to 'know' something 'real' .",POSITIVE,OPINION
+931,eliandbasilsmom asks:   'Does anybody have any positive experience with the Fentanyl patch?,NEUTRAL,FACT
+932,Did anybody use it for pain and then� get off of it one day?,NEUTRAL,FACT
+933,Did it keep you from normal day-to-day responsibilities?,NEUTRAL,FACT
+934,I'm just a little nervous.,NEGATIVE,EXPERIENCE
+935,' Katrin.,NOT_LABELED,NOT_LABELED
+936,Thanks.,NOT_LABELED,NOT_LABELED
+937,I have been on the fentanyl patch for a year now - I have not had one problem with it!,POSITIVE,EXPERIENCE
+938,My pain is caused from Stage 4 BC with mets to the bones and lungs.,NEUTRAL,EXPERIENCE
+939,I am still using the patch - 175 mcg's every 3 days plus oxycodone - 6 to 8 a day plus doing the chemo (chemo for 3 years).,NEUTRAL,EXPERIENCE
+940,I have not had any side effects and am pleased with how the patch is working!!,POSITIVE,EXPERIENCE
+941,I have been on varying doses over the Fentanyl patch for 3+ years & am currently trying to slowly taper down.,NEUTRAL,EXPERIENCE
+942,I've tried this a few times before & EVERY time the withdrawals are so severe that I end up hospitalized & once even on life support.,NEGATIVE,EXPERIENCE
+943,This time has been absolute hell & I STRONGLY urge that NO ONE uses this DRUG !!!,NEGATIVE,EXPERIENCE
+944,I was not told by my dr when it was prescribed how bad it was & I couldn't find any information online.,NEGATIVE,EXPERIENCE
+945,Within a week of starting it I could feel the difference & everyone around me could see differences in me.,NEGATIVE,EXPERIENCE
+946,"I HAVE NEVER ABUSED THE DRUG, take it EXACTLY as prescribed & still have a dependence to them.",NEGATIVE,EXPERIENCE
+947,"I'd LOVE to come off them, but at this time am pregnant & to try & come off now is pretty much a death sentence for both of us.",NEGATIVE,EXPERIENCE
+948,I have been pregnant before on this horrible drug & did carry to term.,NEGATIVE,EXPERIENCE
+949,She went through 2 weeks in the NICU with withdrawals which were the HARDEST 2 weeks of my life.,NEGATIVE,EXPERIENCE
+950,She is a happy & healthy above average 2 yr old who loves everything.,POSITIVE,EXPERIENCE
+951,I pray every night that this child I am carrying is healthy & pray that he'll do ok.,POSITIVE,FACT
+952,I'm withdrawaling pretty bad right now due to a miscalculation by my dr so right now I can SAFELY tell you that NO MATTER WHAT YOU DO YOU WILL BECOME ACCUSTOM TO THESE HORRID PATCHES & WILL GO THROUGH WITHDRAWALS.,NEGATIVE,EXPERIENCE
+953,I don't want to see anyone suffer this if I can prevent it so PLEASE STAY AWAY FROM THEM !!!!!!!!!!,NEGATIVE,OPINION
+954,"I am so sorry to hear what you and your daughter have gone through, and what you are now going through with your current pregnacy!",NEUTRAL,OPINION
+955,"Thank you for sharing your experience, which may be taken into consideration by others.",NEUTRAL,OPINION
+956,trying to decide about using this treatment.,NEUTRAL,OPINION
+957,I hope your son will be as happy and healthy as your daughter.,POSITIVE,OPINION
+958,Best wishes...,NOT_LABELED,NOT_LABELED
