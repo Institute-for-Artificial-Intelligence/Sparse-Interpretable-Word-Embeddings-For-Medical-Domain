@@ -1,0 +1,8 @@
+-datase.txt:
+	The NP Dataset containing the 2227 elements as described in Section 2 of the paper entitiled "Fish transporters and miracle homes: How compositional distributional semantics can help NP parsing".
+
+	FILE DESCRIPTION:
+	The file is tab separated. 
+	Column 1: The fold_id of the test set used in our experiments. Fold 0 is used only for tuning. Fold 1-9 are used for evaluation by training on nine of them and evaluating on the remaining
+	Column 2: The trigram in the form of lemma1-POS_lemma2-POS_lemma3-POS
+	Column 3: The type bracketing of the trigram (R[ight] or L[eft]) as extracted from the annotations of  Vadas and Curran (2007a) 
